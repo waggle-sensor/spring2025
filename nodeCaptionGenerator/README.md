@@ -48,7 +48,7 @@ Prompt format is automatically selected based on the model name:
 | Model                  | Prompt Format |
 |-----------------------|---------------|
 | `llava:latest`        | `[INST] <image>\nDescribe what you see in the image. [/INST]` |
-| `llama3.2-vision:90b` | `<|begin_of_text|><|image|>Describe the main contents of the image.<|eot_id|><|start_header_id|>assistant<|end_header_id|>` |
+| `llama3.2-vision:90b` | `<\|begin_of_text\|><\|image\|>Describe the main contents of the image.<\|eot_id\|><\|start_header_id\|>assistant<\|end_header_id\|>` |
 | Other / default       | `Describe the main content of the image in a short paragraph.` |
 
 ---
