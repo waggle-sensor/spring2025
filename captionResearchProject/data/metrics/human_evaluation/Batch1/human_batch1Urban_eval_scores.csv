@@ -1,0 +1,9 @@
+image_id,model,human_score
+1745648776715166256-right_camera.jpg,gemma3,5
+1745639792260520021-left_camera.jpg,gemma3,4
+1745675416173949849-left_camera.jpg,gemma3,3
+1745638528992726792-left_camera.jpg,gemma3,5
+1745648776715166256-right_camera.jpg,kosmos2,4
+1745639792260520021-left_camera.jpg,kosmos2,5
+1745675416173949849-left_camera.jpg,kosmos2,1
+1745638528992726792-left_camera.jpg,kosmos2,2

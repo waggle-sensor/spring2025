@@ -1,0 +1,5 @@
+<View>
+  <Image name="image" value="$captioning" rotateControl="true" zoomControl="true"/>
+  <Header value="Describe the image:"/>
+  <TextArea name="caption" toName="image" placeholder="Enter description here..." rows="5" maxSubmissions="1"/>
+</View>

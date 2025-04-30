@@ -1,0 +1,18 @@
+<View>
+  <Image name="image" value="$image"/>
+
+  <Text name="caption_text" value="$caption"/>
+
+  <Header value="Rate the caption considering fluency, relevance, and descriptiveness."/>
+
+  <Choices name="rating" toName="caption_text" required="true" choice="single" showInline="true">
+    <Choice value="Excellent"/>
+    <Choice value="Good"/>
+    <Choice value="Fair"/>
+    <Choice value="Poor"/>
+    <Choice value="Bad"/>
+  </Choices>
+
+  <!-- Hidden model field -->
+  <Text name="model" value="$model" visible="false"/>
+</View>
