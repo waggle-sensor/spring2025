@@ -26,7 +26,7 @@ caption_project/
 │   ├── models/
 │   │   ├── gemma3.py
 │   │   └── kosmos2.py
-│   └── evaluate.py
+│   └── generate_captions.py
 │
 ├── data/
 │   ├── ground_truths/
@@ -44,12 +44,12 @@ caption_project/
 │
 ├── labelstudio/
 │   ├── labelstudio_exports/
+│   │   ├── prepare_for_labelstudio.py
 │   │   ├── annotate_config/
 │   │   │   └── annotate.txt    # Label Studio UI annotation setup
 │   │   ├── export_csv/
 │   │   └── likert_config/
 │   │       └── label_config_setup.txt    # Label Studio UI evaluation setup
-│   ├── prepare_for_labelstudio.py
 │   └── labelstudio_imports/
 │       ├── human_annotations_import/
 │       │   └── clean_imports.py
