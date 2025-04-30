@@ -25,7 +25,7 @@ This project was developed for internal analysis and academic poster presentatio
 
 ---
 
-### 2. `codeCaptionGenerator/` *(formerly captionImageDocker)*
+### 2. `codeCaptionGenerator/`
 
 A lightweight Dockerized Python tool for generating image captions using vision-language models served via [Ollama](https://ollama.com).  
 Supports models like:
@@ -37,17 +37,9 @@ Captions are generated via the Ollama REST API and exported to CSV.
 
 ✔️ **The output CSVs from this program are already in the format required by `captionResearchProject`, making them directly compatible for evaluation.**
 
-This tool is portable, easy to run on GPU nodes, and optimized for batch processing.
-
 ---
 
 ## 🧪 Status
 
 Both tools are functional and were used in real evaluation pipelines.  
-You may need to adjust image paths, model names, or mounts depending on your system or cluster setup.
-
----
-
-## 📝 Contact
-
-For more information, reach out to the repository maintainer or collaborators listed in the individual project folders.
+You may need to adjust image paths, model names, or mounts depending on your system setup.
