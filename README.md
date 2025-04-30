@@ -1,6 +1,6 @@
 # spring2025
 
-## Spring 2025 Research Projects
+## Spring 2025 Programs
 
 This repository contains two related projects developed in Spring 2025 focused on evaluating and generating image captions using large vision-language models.
 
