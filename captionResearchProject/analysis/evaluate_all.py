@@ -30,7 +30,6 @@ import pandas as pd
 from PIL import Image
 from tqdm import tqdm
 from bert_score import score
-from torchvision import transforms
 
 # ------------------ CONFIGURATION ------------------
 
