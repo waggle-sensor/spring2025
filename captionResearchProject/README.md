@@ -169,12 +169,12 @@ This script:
 
 Once you have prepared the model caption files (see Step 4.5), you can set up human evaluation using Label Studio.
 
-Start Label Studio by serving your local image files:
+Start Label Studio by serving your local image files replacing paths with corresponding locations (See line 227 for example set-up):
 
 ```bash
 LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true \
-LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=$(pwd)/data/images \
-label-studio
+LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/home/user/myproject/rootfolder \
+/home/user/myproject/rootfolder/venv/bin/label-studio
 ```
 
 This will:
@@ -216,7 +216,7 @@ This will:
      /path/to/caption_project/data/images
      ```
 
-   - Set the **File Filter Regex** to:
+   - Set the **File Filter Regex** to (or according to image format):
 
      ```plaintext
      .*\.jpg$
@@ -224,6 +224,12 @@ This will:
 
    - Click **Check Connection** to verify Label Studio can access the images.
    - **Important:** Make sure you **DO NOT sync** the storage — just connect it.
+   - Make sure to update ```prepare_for_labelstudio.py``` with all correct file paths for label-studio references to function as intended.
+   - Example root: ```/home/user/myproject/testCaption/```
+   - Example image location: ```/home/user/myproject/testCaption/data/images/```
+   - Example export_csv image name: ```/data/local-files/?d=/data/images/1745648776715166256-right_camera.jpg```
+   - Example local storage absolute path for label-studio: ```/home/user/myproject/testCaption/data/images/```
+   - Refer to documentation in case of difficulties: ```https://labelstud.io/guide/storage.html#Local-storage```
 
 5. **Begin Human Evaluation**
    - Start reviewing each image and caption pair.
