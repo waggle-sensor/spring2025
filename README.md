@@ -13,7 +13,7 @@ This repository contains two related projects developed in Spring 2025 focused o
 A research-driven pipeline for evaluating AI-generated image captions.  
 It includes tools to:
 
-- Generate image captions using local or remote models (e.g., Gemma, Kosmos-2)
+- Generate image captions using local models (e.g., Gemma, Kosmos-2)
 - Convert outputs to standardized JSON/CSV formats
 - Evaluate caption quality using:
   - BLEU, ROUGE, METEOR
