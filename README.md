@@ -41,7 +41,7 @@ Captions are generated via the Ollama REST API and exported to CSV.
 
 ## 📚 Reference Captions
 
-The `referenceCaptions/` directory contains multiple sets of manually written ground truth captions for each evaluation batch (urban and rural). Each batch has two independently written reference sets to reduce bias in metric evaluation.
+The `referenceCaptions/` directory contains multiple sets of manually written ground truth captions for each evaluation batch (urban and rural). Each batch has two independently written reference sets to reduce bias in metric evaluation. In a sub-directory, the model captions generated for the research report are found.
 
 All files are in COCO-style JSON format, with fields including:
 - `images`: metadata about each image (filename, dimensions, timestamp, etc.)
