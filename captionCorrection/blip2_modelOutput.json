@@ -1,0 +1,1913 @@
+{
+    "info": {
+        "year": 2025,
+        "version": "1.0",
+        "description": "Generated captions from blip2",
+        "contributor": "Cody",
+        "url": "",
+        "date_created": "2025-03-20T00:00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution License",
+            "url": "http://example.com/license"
+        }
+    ],
+    "images": [
+        {
+            "id": 4,
+            "file_name": "20240916 164505_nan_V041_sample.jpg",
+            "date_time_taken": "2024-09-16 16:45:05.896005237+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1726505105896005237-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 7,
+            "file_name": "20241018 042006_nan_V041_sample.jpg",
+            "date_time_taken": "2024-10-18 04:20:06.320498332+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1729225206320498332-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 8,
+            "file_name": "20240730 171511_nan_V041_sample.jpg",
+            "date_time_taken": "2024-07-30 17:15:11.965826190+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1722359711965826190-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 9,
+            "file_name": "20240806 035510_nan_V041_sample.jpg",
+            "date_time_taken": "2024-08-06 03:55:10.878562384+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1722916510878562384-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 12,
+            "file_name": "20240918 042505_nan_V041_sample.jpg",
+            "date_time_taken": "2024-09-18 04:25:05.734726167+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1726633505734726167-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 14,
+            "file_name": "20240826 172521_nan_V041_sample.jpg",
+            "date_time_taken": "2024-08-26 17:25:21.343336664+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1724693121343336664-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 17,
+            "file_name": "20240812 122511_nan_V041_sample.jpg",
+            "date_time_taken": "2024-08-12 12:25:11.717261685+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1723465511717261685-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 18,
+            "file_name": "20240428 203511_nan_V041_sample.jpg",
+            "date_time_taken": "2024-04-28 20:35:11.863720181+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1714336511863720181-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 22,
+            "file_name": "20240912 084505_nan_V041_sample.jpg",
+            "date_time_taken": "2024-09-12 08:45:05.832597858+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1726130705832597858-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 27,
+            "file_name": "20240416 001021_nan_V041_sample.jpg",
+            "date_time_taken": "2024-04-16 00:10:21.352234529+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1713226221352234529-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 30,
+            "file_name": "20241004 171506_nan_V041_sample.jpg",
+            "date_time_taken": "2024-10-04 17:15:06.064446626+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1728062106064446626-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 33,
+            "file_name": "20241016 123505_nan_V041_sample.jpg",
+            "date_time_taken": "2024-10-16 12:35:05.304614236+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1729082105304614236-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 38,
+            "file_name": "20240604 235511_nan_V041_sample.jpg",
+            "date_time_taken": "2024-06-04 23:55:11.989500465+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1717545311989500465-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 39,
+            "file_name": "20240510 122520_nan_V041_sample.jpg",
+            "date_time_taken": "2024-05-10 12:25:20.814617711+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1715343920814617711-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 40,
+            "file_name": "20240605 222521_nan_V041_sample.jpg",
+            "date_time_taken": "2024-06-05 22:25:21.218911614+00:00",
+            "node": "00002cea7f56acf2",
+            "camera": NaN,
+            "vsn": "V041",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1813/sage-imagesampler-left-0.3.0/00002cea7f56acf2/1717626321218911614-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 45,
+            "file_name": "20240804 110012_nan_W020_sample.jpg",
+            "date_time_taken": "2024-08-04 11:00:12.945963449+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1739/sage-imagesampler-bottom-0.3.0/000048b02d3ae27a/1722769212945963449-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 51,
+            "file_name": "20240403 130012_nan_W020_sample.jpg",
+            "date_time_taken": "2024-04-03 13:00:12.931324675+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1739/sage-imagesampler-left-0.3.4/000048b02d3ae27a/1712149212931324675-sample.jpg",
+            "width": 6144,
+            "height": 2048
+        },
+        {
+            "id": 62,
+            "file_name": "20240604 150009_nan_W020_sample.jpg",
+            "date_time_taken": "2024-06-04 15:00:09.273388999+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1739/sage-imagesampler-left-0.3.4/000048b02d3ae27a/1717513209273388999-sample.jpg",
+            "width": 6144,
+            "height": 2048
+        },
+        {
+            "id": 74,
+            "file_name": "20240815 000012_nan_W020_sample.jpg",
+            "date_time_taken": "2024-08-15 00:00:12.877080447+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1739/sage-imagesampler-bottom-0.3.0/000048b02d3ae27a/1723680012877080447-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 75,
+            "file_name": "20241018 070011_nan_W020_sample.jpg",
+            "date_time_taken": "2024-10-18 07:00:11.094521420+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1739/sage-imagesampler-left-0.3.4/000048b02d3ae27a/1729234811094521420-sample.jpg",
+            "width": 6144,
+            "height": 2048
+        },
+        {
+            "id": 77,
+            "file_name": "20240504 200012_nan_W020_sample.jpg",
+            "date_time_taken": "2024-05-04 20:00:12.372968091+00:00",
+            "node": "000048b02d3ae27a",
+            "camera": NaN,
+            "vsn": "W020",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1739/sage-imagesampler-bottom-0.3.0/000048b02d3ae27a/1714852812372968091-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 82,
+            "file_name": "20240807 100009_nan_W067_sample.jpg",
+            "date_time_taken": "2024-08-07 10:00:09.861359790+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2316/sage-imagesampler-left-0.3.4/000048b02d3ae337/1723024809861359790-sample.jpg",
+            "width": 3072,
+            "height": 2048
+        },
+        {
+            "id": 85,
+            "file_name": "20240427 210013_nan_W067_sample.jpg",
+            "date_time_taken": "2024-04-27 21:00:13.209178048+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-1740/sage-imagesampler-left-0.3.4/000048b02d3ae337/1714251613209178048-sample.jpg",
+            "width": 3072,
+            "height": 2048
+        },
+        {
+            "id": 86,
+            "file_name": "20240921 020014_nan_W067_sample.jpg",
+            "date_time_taken": "2024-09-21 02:00:14.083096299+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2316/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1726884014083096299-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 87,
+            "file_name": "20240527 180015_nan_W067_sample.jpg",
+            "date_time_taken": "2024-05-27 18:00:15.089672220+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2291/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1716832815089672220-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 90,
+            "file_name": "20240715 220014_nan_W067_sample.jpg",
+            "date_time_taken": "2024-07-15 22:00:14.549564404+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2316/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1721080814549564404-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 91,
+            "file_name": "20240821 180050_nan_W067_sample.jpg",
+            "date_time_taken": "2024-08-21 18:00:50.374434840+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2316/sage-imagesampler-left-0.3.4/000048b02d3ae337/1724263250374434840-sample.jpg",
+            "width": 6144,
+            "height": 2048
+        },
+        {
+            "id": 93,
+            "file_name": "20240514 090010_nan_W067_sample.jpg",
+            "date_time_taken": "2024-05-14 09:00:10.063416786+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2291/sage-imagesampler-left-0.3.4/000048b02d3ae337/1715677210063416786-sample.jpg",
+            "width": 3072,
+            "height": 2048
+        },
+        {
+            "id": 98,
+            "file_name": "20241009 030013_nan_W067_sample.jpg",
+            "date_time_taken": "2024-10-09 03:00:13.626658589+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2316/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1728442813626658589-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 103,
+            "file_name": "20240814 210012_nan_W067_sample.jpg",
+            "date_time_taken": "2024-08-14 21:00:12.927322223+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2316/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1723669212927322223-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 104,
+            "file_name": "20240728 150009_nan_W067_sample.jpg",
+            "date_time_taken": "2024-07-28 15:00:09.855247615+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2316/sage-imagesampler-left-0.3.4/000048b02d3ae337/1722178809855247615-sample.jpg",
+            "width": 3072,
+            "height": 2048
+        },
+        {
+            "id": 105,
+            "file_name": "20240529 130013_nan_W067_sample.jpg",
+            "date_time_taken": "2024-05-29 13:00:13.109204890+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2291/sage-imagesampler-left-0.3.4/000048b02d3ae337/1716987613109204890-sample.jpg",
+            "width": 3072,
+            "height": 2048
+        },
+        {
+            "id": 113,
+            "file_name": "20240930 090031_nan_W067_sample.jpg",
+            "date_time_taken": "2024-09-30 09:00:31.415019980+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2316/sage-imagesampler-left-0.3.4/000048b02d3ae337/1727686831415019980-sample.jpg",
+            "width": 6144,
+            "height": 2048
+        },
+        {
+            "id": 120,
+            "file_name": "20240520 050012_nan_W067_sample.jpg",
+            "date_time_taken": "2024-05-20 05:00:12.038601318+00:00",
+            "node": "000048b02d3ae337",
+            "camera": NaN,
+            "vsn": "W067",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2291/sage-imagesampler-bottom-0.3.0/000048b02d3ae337/1716181212038601318-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 219,
+            "file_name": "20240520 010048_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-05-20 01:00:48.641305128+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1716166848641305128-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 223,
+            "file_name": "20240729 160012_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-07-29 16:00:12.791845727+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1722268812791845727-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 228,
+            "file_name": "20240624 070008_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-06-24 07:00:08.237423859+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1719212408237423859-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 236,
+            "file_name": "20240502 110007_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-05-02 11:00:07.533462885+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1714647607533462885-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 238,
+            "file_name": "20240512 220013_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-05-12 22:00:13.813061183+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1715551213813061183-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 239,
+            "file_name": "20240719 030012_nan_W06F_sample.jpg",
+            "date_time_taken": "2024-07-19 03:00:12.559321927+00:00",
+            "node": "000048b02d3ae2f2",
+            "camera": NaN,
+            "vsn": "W06F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f2/1721358012559321927-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 252,
+            "file_name": "20240320 200006_nan_W070_sample.jpg",
+            "date_time_taken": "2024-03-20 20:00:06.214479411+00:00",
+            "node": "000048b02d3ae300",
+            "camera": NaN,
+            "vsn": "W070",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-484/sage-imagesampler-bottom-0.3.0/000048b02d3ae300/1710964806214479411-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 261,
+            "file_name": "20240325 180011_nan_W070_sample.jpg",
+            "date_time_taken": "2024-03-25 18:00:11.470432864+00:00",
+            "node": "000048b02d3ae300",
+            "camera": NaN,
+            "vsn": "W070",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-484/sage-imagesampler-bottom-0.3.0/000048b02d3ae300/1711389611470432864-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 282,
+            "file_name": "20240612 100014_nan_W083_sample.jpg",
+            "date_time_taken": "2024-06-12 10:00:14.121873251+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1718186414121873251-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 284,
+            "file_name": "20240531 030014_nan_W083_sample.jpg",
+            "date_time_taken": "2024-05-31 03:00:14.920240061+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1717124414920240061-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 286,
+            "file_name": "20241004 180012_nan_W083_sample.jpg",
+            "date_time_taken": "2024-10-04 18:00:12.615559403+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1728064812615559403-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 288,
+            "file_name": "20240416 140014_nan_W083_sample.jpg",
+            "date_time_taken": "2024-04-16 14:00:14.755405927+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1713276014755405927-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 291,
+            "file_name": "20240611 140019_nan_W083_sample.jpg",
+            "date_time_taken": "2024-06-11 14:00:19.131898506+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1718114419131898506-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 294,
+            "file_name": "20241009 130019_nan_W083_sample.jpg",
+            "date_time_taken": "2024-10-09 13:00:19.379316596+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1728478819379316596-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 295,
+            "file_name": "20240604 230013_nan_W083_sample.jpg",
+            "date_time_taken": "2024-06-04 23:00:13.308524171+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1717542013308524171-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 296,
+            "file_name": "20240428 210033_nan_W083_sample.jpg",
+            "date_time_taken": "2024-04-28 21:00:33.338268319+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1714338033338268319-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 298,
+            "file_name": "20240725 140011_nan_W083_sample.jpg",
+            "date_time_taken": "2024-07-25 14:00:11.057564948+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1721916011057564948-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 302,
+            "file_name": "20240826 010011_nan_W083_sample.jpg",
+            "date_time_taken": "2024-08-26 01:00:11.851201629+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1724634011851201629-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 303,
+            "file_name": "20240613 060013_nan_W083_sample.jpg",
+            "date_time_taken": "2024-06-13 06:00:13.962827467+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1718258413962827467-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 304,
+            "file_name": "20240522 100012_nan_W083_sample.jpg",
+            "date_time_taken": "2024-05-22 10:00:12.389309567+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1716372012389309567-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 305,
+            "file_name": "20240526 100012_nan_W083_sample.jpg",
+            "date_time_taken": "2024-05-26 10:00:12.290600848+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1716717612290600848-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 306,
+            "file_name": "20240415 060015_nan_W083_sample.jpg",
+            "date_time_taken": "2024-04-15 06:00:15.338390176+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1713160815338390176-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 307,
+            "file_name": "20240712 210033_nan_W083_sample.jpg",
+            "date_time_taken": "2024-07-12 21:00:33.986202699+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1720818033986202699-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 308,
+            "file_name": "20240427 070014_nan_W083_sample.jpg",
+            "date_time_taken": "2024-04-27 07:00:14.372113043+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1714201214372113043-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 310,
+            "file_name": "20240716 000012_nan_W083_sample.jpg",
+            "date_time_taken": "2024-07-16 00:00:12.349976583+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1721088012349976583-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 314,
+            "file_name": "20240512 010011_nan_W083_sample.jpg",
+            "date_time_taken": "2024-05-12 01:00:11.426048199+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-13/sage-imagesampler-top-0.3.0/000048b02d3af4a3/1715475611426048199-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 315,
+            "file_name": "20240610 000016_nan_W083_sample.jpg",
+            "date_time_taken": "2024-06-10 00:00:16.568800421+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1717977616568800421-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 317,
+            "file_name": "20240810 070013_nan_W083_sample.jpg",
+            "date_time_taken": "2024-08-10 07:00:13.197106427+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1723273213197106427-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 318,
+            "file_name": "20241014 220032_nan_W083_sample.jpg",
+            "date_time_taken": "2024-10-14 22:00:32.457874457+00:00",
+            "node": "000048b02d3af4a3",
+            "camera": NaN,
+            "vsn": "W083",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-13/sage-imagesampler-bottom-0.3.0/000048b02d3af4a3/1728943232457874457-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 321,
+            "file_name": "20240531 110016_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-31 11:00:16.241583661+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f4/1717153216241583661-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 325,
+            "file_name": "20240905 040016_nan_W084_sample.jpg",
+            "date_time_taken": "2024-09-05 04:00:16.862724214+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.4/000048b02d3ae2f4/1725508816862724214-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 326,
+            "file_name": "20240914 100014_nan_W084_sample.jpg",
+            "date_time_taken": "2024-09-14 10:00:14.040142604+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-8/sage-imagesampler-top-0.3.4/000048b02d3ae2f4/1726308014040142604-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 329,
+            "file_name": "20240908 140016_nan_W084_sample.jpg",
+            "date_time_taken": "2024-09-08 14:00:16.509767916+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.4/000048b02d3ae2f4/1725804016509767916-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 332,
+            "file_name": "20240423 220016_nan_W084_sample.jpg",
+            "date_time_taken": "2024-04-23 22:00:16.502513420+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f4/1713909616502513420-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 336,
+            "file_name": "20240416 100014_nan_W084_sample.jpg",
+            "date_time_taken": "2024-04-16 10:00:14.888574363+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-486/sage-imagesampler-left-0.3.4/000048b02d3ae2f4/1713261614888574363-sample.jpg",
+            "width": 3840,
+            "height": 1080
+        },
+        {
+            "id": 337,
+            "file_name": "20240408 150038_nan_W084_sample.jpg",
+            "date_time_taken": "2024-04-08 15:00:38.917392059+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-8/sage-imagesampler-top-0.3.0/000048b02d3ae2f4/1712588438917392059-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 338,
+            "file_name": "20240517 010028_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-17 01:00:28.049469264+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-486/sage-imagesampler-left-0.3.4/000048b02d3ae2f4/1715907628049469264-sample.jpg",
+            "width": 3840,
+            "height": 1080
+        },
+        {
+            "id": 340,
+            "file_name": "20240521 140022_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-21 14:00:22.540916394+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-8/sage-imagesampler-top-0.3.0/000048b02d3ae2f4/1716300022540916394-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 342,
+            "file_name": "20240519 220025_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-19 22:00:25.893359821+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-486/sage-imagesampler-left-0.3.4/000048b02d3ae2f4/1716156025893359821-sample.jpg",
+            "width": 3840,
+            "height": 1080
+        },
+        {
+            "id": 343,
+            "file_name": "20240506 170136_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-06 17:01:36.200306398+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f4/1715014896200306398-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 347,
+            "file_name": "20240604 010008_nan_W084_sample.jpg",
+            "date_time_taken": "2024-06-04 01:00:08.655675498+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-8/sage-imagesampler-bottom-0.3.0/000048b02d3ae2f4/1717462808655675498-sample.jpg",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "id": 348,
+            "file_name": "20240526 230128_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-26 23:01:28.218032685+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-486/sage-imagesampler-left-0.3.4/000048b02d3ae2f4/1716764488218032685-sample.jpg",
+            "width": 3840,
+            "height": 1080
+        },
+        {
+            "id": 353,
+            "file_name": "20240506 180017_nan_W084_sample.jpg",
+            "date_time_taken": "2024-05-06 18:00:17.725118909+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-top-0.3.0/000048b02d3ae2f4/1715018417725118909-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 354,
+            "file_name": "20240426 210024_nan_W084_sample.jpg",
+            "date_time_taken": "2024-04-26 21:00:24.180402247+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-top-0.3.0/000048b02d3ae2f4/1714165224180402247-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 356,
+            "file_name": "20240815 200027_nan_W084_sample.jpg",
+            "date_time_taken": "2024-08-15 20:00:27.096691234+00:00",
+            "node": "000048b02d3ae2f4",
+            "camera": NaN,
+            "vsn": "W084",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-486/sage-imagesampler-left-0.3.4/000048b02d3ae2f4/1723752027096691234-sample.jpg",
+            "width": 3840,
+            "height": 1080
+        },
+        {
+            "id": 401,
+            "file_name": "20240825 020013_nan_W097_sample.jpg",
+            "date_time_taken": "2024-08-25 02:00:13.193069488+00:00",
+            "node": "000048b02dd3c427",
+            "camera": NaN,
+            "vsn": "W097",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1971/sage-imagesampler-bottom-0.3.0/000048b02dd3c427/1724551213193069488-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 416,
+            "file_name": "20240525 130016_nan_W097_sample.jpg",
+            "date_time_taken": "2024-05-25 13:00:16.050202700+00:00",
+            "node": "000048b02dd3c427",
+            "camera": NaN,
+            "vsn": "W097",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1971/sage-imagesampler-bottom-0.3.0/000048b02dd3c427/1716642016050202700-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 419,
+            "file_name": "20240903 190016_nan_W097_sample.jpg",
+            "date_time_taken": "2024-09-03 19:00:16.436963954+00:00",
+            "node": "000048b02dd3c427",
+            "camera": NaN,
+            "vsn": "W097",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1971/sage-imagesampler-bottom-0.3.0/000048b02dd3c427/1725390016436963954-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 429,
+            "file_name": "20240625 170012_nan_W097_sample.jpg",
+            "date_time_taken": "2024-06-25 17:00:12.415852037+00:00",
+            "node": "000048b02dd3c427",
+            "camera": NaN,
+            "vsn": "W097",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-1971/sage-imagesampler-bottom-0.3.0/000048b02dd3c427/1719334812415852037-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4,
+            "image_id": 4,
+            "caption": "a metal scaffold on top of a building in the fog",
+            "labels": [
+                "metal",
+                "scaffold",
+                "building",
+                "fog"
+            ]
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "caption": "a black and white image of a metal structure",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "metal",
+                "structure"
+            ]
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "caption": "an overhead view of a metal grate on top of a mountain",
+            "labels": [
+                "overhead",
+                "view",
+                "metal",
+                "grate",
+                "mountain"
+            ]
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "caption": "an aerial view of scaffolding on top of a building",
+            "labels": [
+                "aerial",
+                "view",
+                "building"
+            ]
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "caption": "a black and white image of a building with scaffolding",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "building"
+            ]
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "caption": "an overhead view of a metal grate on top of a mountain",
+            "labels": [
+                "overhead",
+                "view",
+                "metal",
+                "grate",
+                "mountain"
+            ]
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "caption": "a black and white photo of scaffolding on the side of a building",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "building"
+            ]
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "caption": "an aerial view of a metal scaffolding on top of a mountain",
+            "labels": [
+                "aerial",
+                "view",
+                "metal",
+                "mountain"
+            ]
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "caption": "a black and white photo of scaffolding on the side of a building",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "building"
+            ]
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "caption": "a view from the top of a metal scaffolding structure",
+            "labels": [
+                "view",
+                "metal",
+                "structure"
+            ]
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "caption": "an aerial view of a metal structure on top of a mountain",
+            "labels": [
+                "aerial",
+                "view",
+                "metal",
+                "structure",
+                "mountain"
+            ]
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "caption": "a black and white photo of scaffolding on the side of a building",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "building"
+            ]
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "caption": "an aerial view of the top of a mountain",
+            "labels": [
+                "aerial",
+                "view",
+                "mountain"
+            ]
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "caption": "a black and white photo of scaffolding on top of a building",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "building"
+            ]
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "caption": "an aerial view of a metal structure on top of a mountain",
+            "labels": [
+                "aerial",
+                "view",
+                "metal",
+                "structure",
+                "mountain"
+            ]
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "caption": "an aerial view of a field with grass and trees",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "grass",
+                "trees"
+            ]
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "caption": "an infrared image of a grassy field and an aerial image of the same field",
+            "labels": [
+                "infrared",
+                "image",
+                "grassy",
+                "field",
+                "aerial",
+                "image",
+                "field"
+            ]
+        },
+        {
+            "id": 62,
+            "image_id": 62,
+            "caption": "two different pictures of a field with grass and trees",
+            "labels": [
+                "different",
+                "pictures",
+                "field",
+                "grass",
+                "trees"
+            ]
+        },
+        {
+            "id": 74,
+            "image_id": 74,
+            "caption": "an aerial view of a field with grass and wildflowers",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "grass",
+                "wildflowers"
+            ]
+        },
+        {
+            "id": 75,
+            "image_id": 75,
+            "caption": "two pictures of a rocket with a green light on it",
+            "labels": [
+                "pictures",
+                "rocket",
+                "green",
+                "light"
+            ]
+        },
+        {
+            "id": 77,
+            "image_id": 77,
+            "caption": "an aerial view of an open field with grass and trees",
+            "labels": [
+                "aerial",
+                "view",
+                "open",
+                "field",
+                "grass",
+                "trees"
+            ]
+        },
+        {
+            "id": 82,
+            "image_id": 82,
+            "caption": "a black and white photo of the night sky",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "night",
+                "sky"
+            ]
+        },
+        {
+            "id": 85,
+            "image_id": 85,
+            "caption": "a cloudy sky with a tree in the foreground",
+            "labels": [
+                "cloudy",
+                "sky",
+                "tree",
+                "foreground"
+            ]
+        },
+        {
+            "id": 86,
+            "image_id": 86,
+            "caption": "an aerial view of a field from a helicopter",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "helicopter"
+            ]
+        },
+        {
+            "id": 87,
+            "image_id": 87,
+            "caption": "an aerial view of a field with grass and trees",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "grass",
+                "trees"
+            ]
+        },
+        {
+            "id": 90,
+            "image_id": 90,
+            "caption": "an aerial view of a field from a helicopter",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "helicopter"
+            ]
+        },
+        {
+            "id": 91,
+            "image_id": 91,
+            "caption": "an image of an airplane flying in the sky",
+            "labels": [
+                "image",
+                "airplane",
+                "sky"
+            ]
+        },
+        {
+            "id": 93,
+            "image_id": 93,
+            "caption": "a black and white photo of the night sky",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "night",
+                "sky"
+            ]
+        },
+        {
+            "id": 98,
+            "image_id": 98,
+            "caption": "a black and white photo of a light shining on the ground",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "light",
+                "ground"
+            ]
+        },
+        {
+            "id": 103,
+            "image_id": 103,
+            "caption": "an aerial view of a field with grass and trees",
+            "labels": [
+                "aerial",
+                "view",
+                "field",
+                "grass",
+                "trees"
+            ]
+        },
+        {
+            "id": 104,
+            "image_id": 104,
+            "caption": "a rocket is flying in the sky with a cloud in the background",
+            "labels": [
+                "rocket",
+                "sky",
+                "cloud",
+                "background"
+            ]
+        },
+        {
+            "id": 105,
+            "image_id": 105,
+            "caption": "a view of the sky with a tree in the foreground",
+            "labels": [
+                "view",
+                "sky",
+                "tree",
+                "foreground"
+            ]
+        },
+        {
+            "id": 113,
+            "image_id": 113,
+            "caption": "two images of the sky, one with a black background and the other with a white background",
+            "labels": [
+                "images",
+                "sky",
+                "black",
+                "background",
+                "white",
+                "background"
+            ]
+        },
+        {
+            "id": 120,
+            "image_id": 120,
+            "caption": "a black and white image of a camera on top of a hill",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "camera",
+                "hill"
+            ]
+        },
+        {
+            "id": 219,
+            "image_id": 219,
+            "caption": "an aerial view of an rv parked on the side of the road",
+            "labels": [
+                "aerial",
+                "view",
+                "rv",
+                "road"
+            ]
+        },
+        {
+            "id": 223,
+            "image_id": 223,
+            "caption": "an aerial view of an rv parked in a grassy field",
+            "labels": [
+                "aerial",
+                "view",
+                "rv",
+                "grassy",
+                "field"
+            ]
+        },
+        {
+            "id": 228,
+            "image_id": 228,
+            "caption": "an rv is parked in the middle of a field at night",
+            "labels": [
+                "rv",
+                "middle",
+                "field",
+                "night"
+            ]
+        },
+        {
+            "id": 236,
+            "image_id": 236,
+            "caption": "an rv parked on the side of a hill at night",
+            "labels": [
+                "rv",
+                "hill",
+                "night"
+            ]
+        },
+        {
+            "id": 238,
+            "image_id": 238,
+            "caption": "an aerial view of an rv parked on a dirt road",
+            "labels": [
+                "aerial",
+                "view",
+                "rv",
+                "dirt",
+                "road"
+            ]
+        },
+        {
+            "id": 239,
+            "image_id": 239,
+            "caption": "an aerial view of an rv park with a car parked next to it",
+            "labels": [
+                "aerial",
+                "view",
+                "rv",
+                "park",
+                "car"
+            ]
+        },
+        {
+            "id": 252,
+            "image_id": 252,
+            "caption": "the view from the top of the mountain",
+            "labels": [
+                "view",
+                "mountain"
+            ]
+        },
+        {
+            "id": 261,
+            "image_id": 261,
+            "caption": "a view of a snow covered area from a camera",
+            "labels": [
+                "view",
+                "snow",
+                "area",
+                "camera"
+            ]
+        },
+        {
+            "id": 282,
+            "image_id": 282,
+            "caption": "the sun is setting behind a building with trees in the background",
+            "labels": [
+                "sun",
+                "building",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 284,
+            "image_id": 284,
+            "caption": "a black and white photo of a pond at night",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "pond",
+                "night"
+            ]
+        },
+        {
+            "id": 286,
+            "image_id": 286,
+            "caption": "live camera from lake of the woods state park, lake of the woods, wi",
+            "labels": [
+                "live",
+                "camera",
+                "lake",
+                "woods",
+                "state",
+                "park",
+                "lake",
+                "woods",
+                "wi"
+            ]
+        },
+        {
+            "id": 288,
+            "image_id": 288,
+            "caption": "the camera is looking up at the sky with trees in the background",
+            "labels": [
+                "camera",
+                "sky",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 291,
+            "image_id": 291,
+            "caption": "an image of a cloudy sky with trees in the background",
+            "labels": [
+                "image",
+                "cloudy",
+                "sky",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 294,
+            "image_id": 294,
+            "caption": "live camera from creekside elementary school, creekside, id",
+            "labels": [
+                "live",
+                "camera",
+                "creekside",
+                "elementary",
+                "school",
+                "creekside"
+            ]
+        },
+        {
+            "id": 295,
+            "image_id": 295,
+            "caption": "a blurry image of a person standing in front of a house",
+            "labels": [
+                "blurry",
+                "image",
+                "person",
+                "house"
+            ]
+        },
+        {
+            "id": 296,
+            "image_id": 296,
+            "caption": "a webcam view of a body of water with a bridge over it",
+            "labels": [
+                "webcam",
+                "view",
+                "body",
+                "water",
+                "bridge"
+            ]
+        },
+        {
+            "id": 298,
+            "image_id": 298,
+            "caption": "live camera from wyoming state fairgrounds, jackson, wy",
+            "labels": [
+                "live",
+                "camera",
+                "wyoming",
+                "state",
+                "fairgrounds",
+                "jackson",
+                "wy"
+            ]
+        },
+        {
+            "id": 302,
+            "image_id": 302,
+            "caption": "live camera from lake of the woods state park, lake of the woods, wi",
+            "labels": [
+                "live",
+                "camera",
+                "lake",
+                "woods",
+                "state",
+                "park",
+                "lake",
+                "woods",
+                "wi"
+            ]
+        },
+        {
+            "id": 303,
+            "image_id": 303,
+            "caption": "a black and white photo of a field at night",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "field",
+                "night"
+            ]
+        },
+        {
+            "id": 304,
+            "image_id": 304,
+            "caption": "a black and white image of a pond with a bridge in the background",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "pond",
+                "bridge",
+                "background"
+            ]
+        },
+        {
+            "id": 305,
+            "image_id": 305,
+            "caption": "a webcam image of a pond with a bridge over it",
+            "labels": [
+                "webcam",
+                "image",
+                "pond",
+                "bridge"
+            ]
+        },
+        {
+            "id": 306,
+            "image_id": 306,
+            "caption": "a black and white image of a lake at night",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "lake",
+                "night"
+            ]
+        },
+        {
+            "id": 307,
+            "image_id": 307,
+            "caption": "a fisheye view of a pond and grassy area",
+            "labels": [
+                "fisheye",
+                "view",
+                "pond",
+                "grassy",
+                "area"
+            ]
+        },
+        {
+            "id": 308,
+            "image_id": 308,
+            "caption": "a black and white photo of a pond at night",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "pond",
+                "night"
+            ]
+        },
+        {
+            "id": 310,
+            "image_id": 310,
+            "caption": "a view of the sky with clouds in the background",
+            "labels": [
+                "view",
+                "sky",
+                "clouds",
+                "background"
+            ]
+        },
+        {
+            "id": 314,
+            "image_id": 314,
+            "caption": "the sky is over a building with trees in the background",
+            "labels": [
+                "sky",
+                "building",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 315,
+            "image_id": 315,
+            "caption": "a webcam view of a grassy area with a pond in the background",
+            "labels": [
+                "webcam",
+                "view",
+                "grassy",
+                "area",
+                "pond",
+                "background"
+            ]
+        },
+        {
+            "id": 317,
+            "image_id": 317,
+            "caption": "a black and white image of a field at night",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "field",
+                "night"
+            ]
+        },
+        {
+            "id": 318,
+            "image_id": 318,
+            "caption": "there is a canoe on the ground next to a lake",
+            "labels": [
+                "canoe",
+                "ground",
+                "lake"
+            ]
+        },
+        {
+            "id": 321,
+            "image_id": 321,
+            "caption": "a black and white photo of the sunset over a field",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "sunset",
+                "field"
+            ]
+        },
+        {
+            "id": 325,
+            "image_id": 325,
+            "caption": "a black and white image of a car driving down the road at night",
+            "labels": [
+                "black",
+                "white",
+                "image",
+                "car",
+                "road",
+                "night"
+            ]
+        },
+        {
+            "id": 326,
+            "image_id": 326,
+            "caption": "a black and white photo of the night sky",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "night",
+                "sky"
+            ]
+        },
+        {
+            "id": 329,
+            "image_id": 329,
+            "caption": "an aerial view of a small town with mountains in the background",
+            "labels": [
+                "aerial",
+                "view",
+                "small",
+                "town",
+                "mountains",
+                "background"
+            ]
+        },
+        {
+            "id": 332,
+            "image_id": 332,
+            "caption": "a view of a small town with mountains in the background",
+            "labels": [
+                "view",
+                "small",
+                "town",
+                "mountains",
+                "background"
+            ]
+        },
+        {
+            "id": 336,
+            "image_id": 336,
+            "caption": "a thermal image shows the temperature of the water in a bathtub",
+            "labels": [
+                "thermal",
+                "image",
+                "temperature",
+                "water",
+                "bathtub"
+            ]
+        },
+        {
+            "id": 337,
+            "image_id": 337,
+            "caption": "live camera from whitefish ski area, whitefish, montana 59601",
+            "labels": [
+                "live",
+                "camera",
+                "whitefish",
+                "ski",
+                "area",
+                "whitefish",
+                "montana"
+            ]
+        },
+        {
+            "id": 338,
+            "image_id": 338,
+            "caption": "a thermal image of a person standing in front of a wall",
+            "labels": [
+                "thermal",
+                "image",
+                "person",
+                "wall"
+            ]
+        },
+        {
+            "id": 340,
+            "image_id": 340,
+            "caption": "live camera from yellowstone national park, yellowstone national park, wyoming",
+            "labels": [
+                "live",
+                "camera",
+                "yellowstone",
+                "national",
+                "park",
+                "yellowstone",
+                "national",
+                "park",
+                "wyoming"
+            ]
+        },
+        {
+            "id": 342,
+            "image_id": 342,
+            "caption": "thermal image of an electrical cable",
+            "labels": [
+                "thermal",
+                "image",
+                "electrical",
+                "cable"
+            ]
+        },
+        {
+            "id": 343,
+            "image_id": 343,
+            "caption": "live camera from jackson, wyoming, usa",
+            "labels": [
+                "live",
+                "camera",
+                "jackson",
+                "wyoming",
+                "usa"
+            ]
+        },
+        {
+            "id": 347,
+            "image_id": 347,
+            "caption": "live camera from jackson, wyoming, usa",
+            "labels": [
+                "live",
+                "camera",
+                "jackson",
+                "wyoming",
+                "usa"
+            ]
+        },
+        {
+            "id": 348,
+            "image_id": 348,
+            "caption": "a thermal image of a truck on the side of the road",
+            "labels": [
+                "thermal",
+                "image",
+                "truck",
+                "road"
+            ]
+        },
+        {
+            "id": 353,
+            "image_id": 353,
+            "caption": "live camera from wyoming county fairgrounds, wyoming county, wyoming",
+            "labels": [
+                "live",
+                "camera",
+                "wyoming",
+                "county",
+                "fairgrounds",
+                "wyoming",
+                "county",
+                "wyoming"
+            ]
+        },
+        {
+            "id": 354,
+            "image_id": 354,
+            "caption": "live camera from custer state park, custer, id",
+            "labels": [
+                "live",
+                "camera",
+                "custer",
+                "state",
+                "park",
+                "custer"
+            ]
+        },
+        {
+            "id": 356,
+            "image_id": 356,
+            "caption": "a thermal image of a boat on the water",
+            "labels": [
+                "thermal",
+                "image",
+                "boat",
+                "water"
+            ]
+        },
+        {
+            "id": 401,
+            "image_id": 401,
+            "caption": "trees on the side of the road",
+            "labels": [
+                "trees",
+                "road"
+            ]
+        },
+        {
+            "id": 416,
+            "image_id": 416,
+            "caption": "a black and white photo of a forest in the fog",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "forest",
+                "fog"
+            ]
+        },
+        {
+            "id": 419,
+            "image_id": 419,
+            "caption": "a view from the top of a hill looking down on a forest",
+            "labels": [
+                "view",
+                "hill",
+                "forest"
+            ]
+        },
+        {
+            "id": 429,
+            "image_id": 429,
+            "caption": "an aerial view of a forest with lots of trees",
+            "labels": [
+                "aerial",
+                "view",
+                "forest",
+                "lots",
+                "trees"
+            ]
+        }
+    ]
+}
