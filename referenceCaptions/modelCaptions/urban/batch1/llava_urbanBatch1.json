@@ -1,0 +1,996 @@
+{
+  "images": [
+    {
+      "id": 11,
+      "file_name": "20240409 210012_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 5,
+      "file_name": "20240411 150009_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 12,
+      "file_name": "20240429 210011_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 7,
+      "file_name": "20240507 074332_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 100,
+      "file_name": "20240507 190009_nan_W085_sample.jpg"
+    },
+    {
+      "id": 1,
+      "file_name": "20240508 034929_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 9,
+      "file_name": "20240517 070011_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 14,
+      "file_name": "20240519 060011_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 3,
+      "file_name": "20240530 170010_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 8,
+      "file_name": "20240603 120015_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 13,
+      "file_name": "20240604 180016_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 10,
+      "file_name": "20240605 090016_nan_W02D_sample.jpg"
+    },
+    {
+      "id": 2,
+      "file_name": "20240606 093209_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 6,
+      "file_name": "20240711 045919_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 99,
+      "file_name": "20240713 100007_nan_W085_sample.jpg"
+    },
+    {
+      "id": 4,
+      "file_name": "20240721 200011_nan_W01E_sample.jpg"
+    },
+    {
+      "id": 101,
+      "file_name": "20240727 180034_nan_W085_sample.jpg"
+    },
+    {
+      "id": 90,
+      "file_name": "20241021 170012_nan_W063_sample.jpg"
+    },
+    {
+      "id": 79,
+      "file_name": "20241217 020014_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 61,
+      "file_name": "20241217 230010_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 58,
+      "file_name": "20241219 060509_right_camera_W05F_right_camera.jpg"
+    },
+    {
+      "id": 36,
+      "file_name": "20241220 150009_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 64,
+      "file_name": "20241221 030505_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 21,
+      "file_name": "20241221 101015_left_camera_W040_left_camera.jpg"
+    },
+    {
+      "id": 31,
+      "file_name": "20241222 233007_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 40,
+      "file_name": "20241224 031507_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 29,
+      "file_name": "20241225 022505_right_camera_W046_right_camera.jpg"
+    },
+    {
+      "id": 22,
+      "file_name": "20241227 124505_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 94,
+      "file_name": "20241227 150148_left_camera_W064_left_camera.jpg"
+    },
+    {
+      "id": 42,
+      "file_name": "20241227 173510_right_camera_W049_right_camera.jpg"
+    },
+    {
+      "id": 53,
+      "file_name": "20250103 065008_left_camera_W04A_left_camera.jpg"
+    },
+    {
+      "id": 62,
+      "file_name": "20250103 183006_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 97,
+      "file_name": "20250103 230014_top_camera_W085_top_camera.jpg"
+    },
+    {
+      "id": 50,
+      "file_name": "20250113 004007_left_camera_W04A_left_camera.jpg"
+    },
+    {
+      "id": 78,
+      "file_name": "20250117 060008_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 16,
+      "file_name": "20250117 063504_right_camera_W040_right_camera.jpg"
+    },
+    {
+      "id": 84,
+      "file_name": "20250117 212508_left_camera_W062_left_camera.jpg"
+    },
+    {
+      "id": 76,
+      "file_name": "20250122 021008_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 70,
+      "file_name": "20250123 155008_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 81,
+      "file_name": "20250123 224011_left_camera_W062_left_camera.jpg"
+    },
+    {
+      "id": 68,
+      "file_name": "20250124 111011_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 80,
+      "file_name": "20250127 154012_right_camera_W062_right_camera.jpg"
+    },
+    {
+      "id": 82,
+      "file_name": "20250127 164513_right_camera_W062_right_camera.jpg"
+    },
+    {
+      "id": 32,
+      "file_name": "20250128 114510_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 30,
+      "file_name": "20250130 194010_right_camera_W046_right_camera.jpg"
+    },
+    {
+      "id": 71,
+      "file_name": "20250131 081008_left_camera_W061_left_camera.jpg"
+    },
+    {
+      "id": 93,
+      "file_name": "20250201 022512_left_camera_W064_left_camera.jpg"
+    },
+    {
+      "id": 17,
+      "file_name": "20250202 142510_left_camera_W040_left_camera.jpg"
+    },
+    {
+      "id": 44,
+      "file_name": "20250202 201104_right_camera_W049_right_camera.jpg"
+    },
+    {
+      "id": 51,
+      "file_name": "20250204 052513_left_camera_W04A_left_camera.jpg"
+    },
+    {
+      "id": 56,
+      "file_name": "20250204 202012_right_camera_W04A_right_camera.jpg"
+    },
+    {
+      "id": 28,
+      "file_name": "20250205 043013_right_camera_W046_right_camera.jpg"
+    },
+    {
+      "id": 63,
+      "file_name": "20250205 052524_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 87,
+      "file_name": "20250206 184008_left_camera_W063_left_camera.jpg"
+    },
+    {
+      "id": 77,
+      "file_name": "20250207 164522_left_camera_W061_left_camera.jpg"
+    },
+    {
+      "id": 75,
+      "file_name": "20250208 080016_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 91,
+      "file_name": "20250209 064508_left_camera_W063_left_camera.jpg"
+    },
+    {
+      "id": 69,
+      "file_name": "20250209 231015_right_camera_W061_right_camera.jpg"
+    },
+    {
+      "id": 89,
+      "file_name": "20250210 030018_left_camera_W063_left_camera.jpg"
+    },
+    {
+      "id": 20,
+      "file_name": "20250210 215509_left_camera_W040_left_camera.jpg"
+    },
+    {
+      "id": 26,
+      "file_name": "20250211 193046_right_camera_W046_right_camera.jpg"
+    },
+    {
+      "id": 47,
+      "file_name": "20250213 232514_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 73,
+      "file_name": "20250214 012512_left_camera_W061_left_camera.jpg"
+    },
+    {
+      "id": 15,
+      "file_name": "20250214 064519_right_camera_W040_right_camera.jpg"
+    },
+    {
+      "id": 25,
+      "file_name": "20250214 141514_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 49,
+      "file_name": "20250215 065513_right_camera_W049_right_camera.jpg"
+    },
+    {
+      "id": 96,
+      "file_name": "20250215 145513_right_camera_W064_right_camera.jpg"
+    },
+    {
+      "id": 83,
+      "file_name": "20250215 193518_left_camera_W062_left_camera.jpg"
+    },
+    {
+      "id": 19,
+      "file_name": "20250217 023010_right_camera_W040_right_camera.jpg"
+    },
+    {
+      "id": 38,
+      "file_name": "20250217 153009_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 72,
+      "file_name": "20250218 041016_left_camera_W061_left_camera.jpg"
+    },
+    {
+      "id": 85,
+      "file_name": "20250218 170514_left_camera_W062_left_camera.jpg"
+    },
+    {
+      "id": 74,
+      "file_name": "20250219 095024_left_camera_W061_left_camera.jpg"
+    },
+    {
+      "id": 95,
+      "file_name": "20250220 123105_left_camera_W064_left_camera.jpg"
+    },
+    {
+      "id": 18,
+      "file_name": "20250222 092029_right_camera_W040_right_camera.jpg"
+    },
+    {
+      "id": 27,
+      "file_name": "20250222 200525_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 24,
+      "file_name": "20250225 215520_left_camera_W046_left_camera.jpg"
+    },
+    {
+      "id": 33,
+      "file_name": "20250227 112113_right_camera_W047_right_camera.jpg"
+    },
+    {
+      "id": 88,
+      "file_name": "20250228 091050_right_camera_W063_right_camera.jpg"
+    },
+    {
+      "id": 23,
+      "file_name": "20250301 012526_right_camera_W046_right_camera.jpg"
+    },
+    {
+      "id": 65,
+      "file_name": "20250301 163543_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 59,
+      "file_name": "20250303 223022_right_camera_W05F_right_camera.jpg"
+    },
+    {
+      "id": 39,
+      "file_name": "20250304 033046_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 34,
+      "file_name": "20250305 153032_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 35,
+      "file_name": "20250306 063536_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 60,
+      "file_name": "20250316 140050_right_camera_W05F_right_camera.jpg"
+    },
+    {
+      "id": 43,
+      "file_name": "20250319 144516_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 46,
+      "file_name": "20250322 193519_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 67,
+      "file_name": "20250324 142507_right_camera_W060_right_camera.jpg"
+    },
+    {
+      "id": 45,
+      "file_name": "20250326 173517_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 54,
+      "file_name": "20250328 043525_left_camera_W04A_left_camera.jpg"
+    },
+    {
+      "id": 41,
+      "file_name": "20250329 115508_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 66,
+      "file_name": "20250330 034025_left_camera_W060_left_camera.jpg"
+    },
+    {
+      "id": 86,
+      "file_name": "20250331 202537_right_camera_W062_right_camera.jpg"
+    },
+    {
+      "id": 55,
+      "file_name": "20250401 063523_left_camera_W04A_left_camera.jpg"
+    },
+    {
+      "id": 57,
+      "file_name": "20250405 081017_left_camera_W05F_left_camera.jpg"
+    },
+    {
+      "id": 48,
+      "file_name": "20250405 202020_left_camera_W049_left_camera.jpg"
+    },
+    {
+      "id": 37,
+      "file_name": "20250405 205516_left_camera_W047_left_camera.jpg"
+    },
+    {
+      "id": 92,
+      "file_name": "20250405 231023_left_camera_W064_left_camera.jpg"
+    }
+  ],
+  "annotations": [
+    {
+      "image": "20240409 210012_nan_W02D_sample.jpg",
+      "caption": "The image shows a view of an enclosure, which appears to be a temporary barrier or fence, likely made of chain-link material and covered with green mesh fencing. On this barrier, there is an irregular opening that allows for visibility through it. The background indicates it's daytime and the area beyond the fence is not clearly visible due to the obstruction. There is no text present in the image.",
+      "duration_sec": 0.97,
+      "image_id": 11
+    },
+    {
+      "image": "20240411 150009_nan_W01E_sample.jpg",
+      "caption": "The image depicts a fenced area, likely for containment or security purposes. Beyond the fence, there is grass and some trees without any leaves, suggesting it might be autumn or winter. There are several posts visible along the length of the fence, supporting its structure. In the foreground, a road can be seen with no vehicles on it, bordered by a grassy area and what appears to be a sidewalk or path leading up to the fence. The ground looks bare, possibly due to the time of year or recent weather conditions that have caused the grass to lose color. There are no people or moving objects in sight. The image is a photograph with a naturalistic color palette.",
+      "duration_sec": 1.4,
+      "image_id": 5
+    },
+    {
+      "image": "20240429 210011_nan_W02D_sample.jpg",
+      "caption": "The image shows a chain-link fence that has been partially covered by green plastic sheeting, possibly to prevent debris or to create a temporary barrier. There is visible damage on the bottom of the sheeting, revealing the metallic structure of the fence behind it. A small portion of the ground is visible at the bottom of the image, and there is vegetation visible in the background. The style of the image appears to be taken with a smartphone camera, as indicated by the camera's flash reflection on the sheeting.",
+      "duration_sec": 1.13,
+      "image_id": 12
+    },
+    {
+      "image": "20240507 074332_nan_W01E_sample.jpg",
+      "caption": "The image shows a small, enclosed area with a dirt floor. In the foreground, there is an animal pen with a tarp covering the ground; there appears to be hay or straw underneath. To the left, there's a small object resembling a toy or a piece of fabric partially visible. On the right side of the image, we see a black dog with a collar sitting inside the pen, facing towards the camera. The background is quite blurred and indistinct, but it suggests an outdoor setting, possibly a backyard or farm area due to the presence of the fence. The overall image quality seems low, with a grainy texture that could be due to the camera's resolution or lighting conditions at the time the photo was taken.",
+      "duration_sec": 1.38,
+      "image_id": 7
+    },
+    {
+      "image": "20240507 190009_nan_W085_sample.jpg",
+      "caption": "The image shows an aerial view of a city street intersection from a high vantage point, likely a webcam or surveillance camera, given the timestamp and angle at which the photo is taken. In the foreground, there is a clear view of a road with multiple lanes leading to a green space or park area in the background. To the left, there appears to be an outdoor seating area with several tables and benches, indicating this might be a public space. The street signs are not clearly readable due to the perspective and angle at which the photo is taken. The sky above is overcast, and there is some cloud cover visible. There are no people or vehicles visible in the image, suggesting it may have been captured during a quiet time of day or there might be an ongoing event that prohibits traffic or pedestrians.",
+      "duration_sec": 1.43,
+      "image_id": 100
+    },
+    {
+      "image": "20240508 034929_nan_W01E_sample.jpg",
+      "caption": "The image is a nighttime photograph showing a security or spotlight illuminating an area. In front of the light is a chain-link fence. The ground appears to be covered with leaves, suggesting it might be autumn. There is some vegetation partially visible in the lower part of the frame. The photo has a grainy quality, typical for images taken in low-light conditions without high ISO settings or long exposures.",
+      "duration_sec": 0.96,
+      "image_id": 1
+    },
+    {
+      "image": "20240517 070011_nan_W02D_sample.jpg",
+      "caption": "The image shows a night scene featuring an outdoor setting with a visible tent or cover partially visible on the left side of the frame. There's a glimpse of a person standing near the edge of the tent, but only the torso and legs are seen due to the angle and lighting. On the right side, there is a partially covered structure with what appears to be a protective covering over it. The background includes a dark sky with a bright light source visible above the structure, suggesting it might be a street lamp or another type of outdoor illumination. There's no text present in the image.",
+      "duration_sec": 1.17,
+      "image_id": 9
+    },
+    {
+      "image": "20240519 060011_nan_W02D_sample.jpg",
+      "caption": "The image depicts a nighttime scene featuring a large object covered with a tarp or covering, positioned outdoors. In front of this covered object is a light source, which illuminates parts of it from below. The light casts shadows and highlights on the tarp, indicating the presence of uneven surfaces or contours. In the background, there is a hint of an urban environment with what appears to be a streetlight providing additional lighting. The overall mood of the image suggests a sense of mystery or curiosity about the nature of the covered object.",
+      "duration_sec": 1.1,
+      "image_id": 14
+    },
+    {
+      "image": "20240530 170010_nan_W01E_sample.jpg",
+      "caption": "The image shows a view of an area that appears to be fenced and partially overgrown with vegetation. There is a chain link fence with vertical barbed wire on top, indicating it may be used as a boundary or security measure. Beyond the fence, there's a patch of what looks like dry grass or shrubbery. The ground is covered with patches of dirt and sparse plant life. In the foreground, there is a signpost featuring two blue markers, one on top of the other, suggesting it might be used to denote boundaries or points of interest. There's also a small metal structure with vertical supports that could be part of a larger fence system or an access point. The background shows a clear sky and a hint of greenery, indicating the presence of trees or bushes further back from the immediate fenced area.",
+      "duration_sec": 1.64,
+      "image_id": 3
+    },
+    {
+      "image": "20240603 120015_nan_W02D_sample.jpg",
+      "caption": "The image shows a chain-link fence covered with a tarp or mesh material, creating a uniform surface over the links of the fence. The sunlight is shining on the surface, suggesting that it may be a clear day. There are no visible texts or markings on the covering. The background is out of focus but appears to be an outdoor setting with greenery and possibly more fencing or structures, indicating that this photo might have been taken in a yard or similar environment.",
+      "duration_sec": 1.06,
+      "image_id": 8
+    },
+    {
+      "image": "20240604 180016_nan_W02D_sample.jpg",
+      "caption": "The image shows a scene featuring a chain link fence with a green tarp draped over it. On this tarp, there is an image or design that appears to be related to nature, such as leaves and possibly a stylized animal figure, but it's not clear enough to identify the specific nature-related theme. The fence is set against a backdrop of what looks like a clear sky. There are no visible texts or distinguishing marks on the tarp that provide additional context about the location or purpose of this setup. The style of the image seems candid, possibly taken during the day with natural lighting, and there's some grass or vegetation visible in the foreground.",
+      "duration_sec": 1.3,
+      "image_id": 13
+    },
+    {
+      "image": "20240605 090016_nan_W02D_sample.jpg",
+      "caption": "The image shows a nighttime scene with a focus on a chain link fence featuring several holes or gaps. In front of this fence, there appears to be a small, enclosed space with some items inside, but it's difficult to make out specific details due to the darkness and the angle at which the photo was taken. The background is mostly dark, with only a hint of another object to the right that looks like a bench or picnic table. There are no visible texts or distinctive brands in the image.",
+      "duration_sec": 1.07,
+      "image_id": 10
+    },
+    {
+      "image": "20240606 093209_nan_W01E_sample.jpg",
+      "caption": "The image appears to be a night-time photograph capturing a scene with artificial lighting, which casts shadows and creates contrast on the ground. In the foreground, there is a chain-link fence that seems to be part of a security system. Behind the fence, an object resembling a person or an animal can be seen sitting under what looks like a streetlight. The subject is illuminated by the light from the lamp, which is casting long shadows in the direction of the camera.\n\nThe lighting creates a dramatic effect, with the ground appearing dark and textured due to the contrast between the brightly lit areas and the shadows. It's difficult to determine if it's an actual person or an animal without more context or clarity in the image. The background is mostly dark, but there are what appear to be trees, suggesting this scene takes place in a rural or semi-rural area with some vegetation.\n\nThe style of the image suggests it could be used for surveillance or security purposes due to the presence of a fence and the focus on the subject in the enclosure. The lighting scheme is consistent and dramatic, which emphasizes the silhouette of the object behind the fence.",
+      "duration_sec": 2.03,
+      "image_id": 2
+    },
+    {
+      "image": "20240711 045919_nan_W01E_sample.jpg",
+      "caption": "The image shows an indoor scene featuring a room with a wire mesh on one side, through which vegetation and weeds can be seen. On the right side of the photo, there appears to be a metal shelf or rack against a wall. The floor of the room is not clearly visible due to the foliage obstructing the view. The lighting in the room is artificial, suggesting it might be nighttime or that the room has no natural light sources. There are no people or moving objects in the image; everything seems stationary.",
+      "duration_sec": 1.11,
+      "image_id": 6
+    },
+    {
+      "image": "20240713 100007_nan_W085_sample.jpg",
+      "caption": "The image shows a nighttime view with a wide-angle lens effect where the edges of the photo are distorted, creating a vignette. In the center, there is a bright, moonlit sky with clouds that appear to be moving due to the long exposure used in the photo. Below the sky, there's a cityscape with lights from buildings and streetlights. The angle of the shot suggests it may have been taken from an elevated position, possibly a building or a hill, given the orientation and the absence of any ground details.",
+      "duration_sec": 1.05,
+      "image_id": 99
+    },
+    {
+      "image": "20240721 200011_nan_W01E_sample.jpg",
+      "caption": "The image depicts an outdoor scene with a black mesh fence partially visible. In front of the fence, there is a green fabric item that appears to be folded or draped over something, although it's not clear from this angle what it is covering. The ground behind the fence is covered with a layer of grass and small plants. To the right in the background, there is a concrete structure, but its purpose is not discernible from this perspective. On the left side of the photo, part of a chair can be seen, suggesting that this may be a backyard or patio area. The image does not provide clear context about the location or the reason for the mesh fence and green fabric item being there.",
+      "duration_sec": 1.39,
+      "image_id": 4
+    },
+    {
+      "image": "20240727 180034_nan_W085_sample.jpg",
+      "caption": "The image shows a photograph of an outdoor scene from a high angle perspective, likely taken with a wide-angle lens given the distortion at the edges. It appears to be a cloudy day as the sky is overcast with large, white cumulus clouds scattered across it. Below, there's a view of a landscape that seems to be residential or suburban, with trees and houses visible in the distance. The area looks flat with no distinct features, such as hills or mountains. The color palette is dominated by shades of gray, blue, and green, reflecting the cloudy weather and the natural environment. There are no people or vehicles discernible from this angle.",
+      "duration_sec": 1.23,
+      "image_id": 101
+    },
+    {
+      "image": "20241021 170012_nan_W063_sample.jpg",
+      "caption": "The image is a panoramic photo of an urban street scene taken from a high angle, possibly from an apartment building or similar vantage point overlooking the street. It shows the intersection of two roads with traffic signals and lanes marked by lines and arrows. There's a mix of cars, pedestrians, and bicycles on the street. The time appears to be daytime with ample sunlight, suggesting it might be late afternoon or early evening given the shadows and lighting conditions.\n\nThe architecture includes modern buildings with a variety of facades; some have large glass windows reflecting the sky and trees, while others show more traditional designs with bricks and concrete exteriors. Trees are visible along the street, adding greenery to the urban environment. The sky is clear but not very bright, which could indicate either an overcast day or a time of day when direct sunlight is not strong.\n\nThere's no text or distinctive branding within the image that would provide additional context about the location or the conditions under which the photo was taken (e.g., date and time, weather, etc.). The panoramic view captures both sides of the street simultaneously, allowing for a comprehensive view of the urban landscape at the time the photo was taken.",
+      "duration_sec": 2.1,
+      "image_id": 90
+    },
+    {
+      "image": "20241217 020014_right_camera_W061_right_camera.jpg",
+      "caption": "The image appears to be a creative or artistic photograph that captures a city street scene from an unusual perspective, possibly taken with a fisheye lens or through a distorting mirror. It shows a reflection of a traffic light and a sign on a curved surface in the foreground, which gives the impression that the viewer is looking up at the street from below the actual level of the street. The reflection is upside down, with the sky being the ground, suggesting the camera's lens has distorted the image.\n\nIn the reflection, there are elements such as a traffic light and a sign, which are common urban features, but they are not in their usual upright position. The traffic lights are red, green, and yellow, indicating different stages of traffic flow. \n\nThere is also a vehicle's side mirror visible in the distorted reflection on the right side of the image, which further emphasizes the distortion effect created by the lens or mirror. In the background, there are buildings that seem to be part of an urban environment with signs and lights typical for city streets at night. The image has a surreal quality due to the distortion and inversion of the elements within it.",
+      "duration_sec": 1.98,
+      "image_id": 79
+    },
+    {
+      "image": "20241217 230010_left_camera_W060_left_camera.jpg",
+      "caption": "The image is an upside-down photo of a city street at night. At the center, there's a traffic light and a crosswalk with pedestrians walking across it. Cars are parked or moving along the road on both sides. There's a building in the background, and to the right, the facade of another structure is partially visible. The sky is dark, suggesting nighttime, and there are some stars visible, indicating a clear sky. The streets appear wet, reflecting the ambient light from streetlights and vehicles. The overall composition of the image shows an urban setting with typical city infrastructure.",
+      "duration_sec": 1.18,
+      "image_id": 61
+    },
+    {
+      "image": "20241219 060509_right_camera_W05F_right_camera.jpg",
+      "caption": "The image is a nighttime photograph taken from an elevated perspective, possibly a bridge or overpass. In the foreground, there's a dark road with streetlights and a red stop sign visible, indicating it might be an industrial area or a service road. Behind the road, there are brick structures that could be part of an industrial complex or perhaps an abandoned or under-construction site.\n\nThe skyline in the background features silhouettes of buildings against the night sky. There's no moonlight, suggesting either an overcast sky or a time when the moon is not visible. The presence of a few cars and streetlights indicates that there might be human activity nearby, possibly in a residential area or commercial district outside the view captured by this image.\n\nThere are no people or distinctive landmarks identifiable from this angle and distance. The focus seems to be on the road and the contrast between the lit streetlights and the surrounding darkness.",
+      "duration_sec": 1.62,
+      "image_id": 58
+    },
+    {
+      "image": "20241220 150009_left_camera_W047_left_camera.jpg",
+      "caption": "The image shows an urban street scene with a focus on a road intersection that is relatively empty of vehicles. There are two directions of traffic, one going toward the left side of the image and another leading to the right. The road appears to be clear except for a few parked cars along the sides.\n\nThe surrounding area includes several buildings that seem to house businesses, as indicated by signage. There are also trees in the foreground on the left side, suggesting that the street is lined with greenery. The sky overhead is overcast, and it appears to be a cool or cold day due to the leafless state of some of the trees.\n\nIn the background, there's a clear view of more buildings, including one with an illuminated sign that says \"DICK'S,\" which is a brand name for sporting goods stores. The overall impression is of a quiet day in a town or city center.",
+      "duration_sec": 1.66,
+      "image_id": 36
+    },
+    {
+      "image": "20241221 030505_left_camera_W060_left_camera.jpg",
+      "caption": "The image shows a nighttime scene of an urban intersection with a traffic light. There are multiple cars at the intersection, waiting for the traffic light to change. The sky is dark, indicating it's nighttime, and the cityscape can be seen behind the traffic lights. A street sign is visible in the distance, but not legible due to the image resolution. The overall impression is that of a quiet city area at night.",
+      "duration_sec": 0.96,
+      "image_id": 64
+    },
+    {
+      "image": "20241221 101015_left_camera_W040_left_camera.jpg",
+      "caption": "The image shows a night-time city street scene viewed through a camera with a fisheye lens, which creates a wide-angle perspective of the environment. At the center of the image is a black car traveling on the road, captured mid-motion as indicated by motion blur. The car appears to be an SUV and has its headlights on.\n\nThe street is a four-way intersection with marked lanes and clear lane markings that are illuminated by the vehicle's lights. There are no other vehicles immediately ahead of or behind the car in the frame. On both sides of the road, there are pedestrian crosswalks, but no pedestrians are visible.\n\nThe surrounding environment is urban, with buildings along the street, a bicycle rack on one side, and what appears to be a parking meter on the sidewalk. The intersection has street signs or markers, although their details are not clear due to the angle and lighting conditions. There's no text or distinctive objects that provide specific information about the location.\n\nThe overall image quality is somewhat grainy, likely due to the camera settings or low-light conditions. The lighting suggests it is nighttime, and the sky is dark with no visible stars or moon.",
+      "duration_sec": 2.05,
+      "image_id": 21
+    },
+    {
+      "image": "20241222 233007_left_camera_W046_left_camera.jpg",
+      "caption": "The image shows a nighttime scene of an urban street with multiple lanes of traffic. There are several cars in motion on the road, and some traffic lights are visible. The photo appears to be taken from a high vantage point, possibly from a window or overpass, looking down onto the street below. The lighting suggests it is nighttime, and there's no significant pedestrian activity visible. The street has markings for lanes and crosswalks, typical of city streets, but the quality of the image is low, making finer details difficult to discern.",
+      "duration_sec": 1.11,
+      "image_id": 31
+    },
+    {
+      "image": "20241224 031507_left_camera_W047_left_camera.jpg",
+      "caption": "The image shows a nighttime urban scene, likely taken from an elevated position such as a balcony or a bridge. In the foreground, there is a busy street with multiple lanes of traffic, where cars are visible. There's also a pedestrian crosswalk marked by white lines, and no vehicles appear to be moving through this part of the road. On the right side of the image, there's a commercial area with illuminated signs for businesses such as restaurants or fast food chains. The sky is overcast, and it appears to be raining given the wet surfaces on the street. There are no people visible in the scene.",
+      "duration_sec": 1.27,
+      "image_id": 40
+    },
+    {
+      "image": "20241225 022505_right_camera_W046_right_camera.jpg",
+      "caption": "The image is a nighttime photo of a city street scene viewed from an upper vantage point, likely from a building overlooking the street. It shows an intersection with traffic lights and pedestrian crossing signals. There's a digital billboard displaying what appears to be a commercial or advertisement on the right side of the image. The sky is dark, indicating it's nighttime, and there are bright streetlights illuminating the scene. In the foreground, we can see part of a person's upper body, possibly taking the photo, but the focus is on the cityscape below.",
+      "duration_sec": 1.14,
+      "image_id": 29
+    },
+    {
+      "image": "20241227 124505_left_camera_W046_left_camera.jpg",
+      "caption": "The image appears to be a nighttime photograph of a scene viewed through a security camera lens. In the foreground, there is a black car parked by the sidewalk with its headlights on. The car's lights reflect off the wet surface that seems to have been recently rained on or is being washed down.\n\nThe background shows a city street at night with wet pavement and a few white markings in the road. There are traffic signs, including an arrow pointing straight ahead and another indicating a no-left-turn lane. Traffic lights are also visible in the background, suggesting this intersection is controlled by signals.\n\nThe image has a grainy quality typical of security camera footage, which may indicate lower resolution or a night vision mode if the camera is equipped with one. There's no text present on any of the objects in the scene. The overall lighting suggests it might be early morning or late evening as streetlights are on, but there are no people visible in this part of the frame.",
+      "duration_sec": 1.76,
+      "image_id": 22
+    },
+    {
+      "image": "20241227 150148_left_camera_W064_left_camera.jpg",
+      "caption": "The image depicts a city street scene during daylight. There is a clear view of multiple lanes with white lane markings and an intersection ahead, where traffic lights are visible. On the left side of the road, there is a sign that reads \"2016 CIRCULAR DRIVER'S TEST\" with an arrow pointing to the right, indicating the direction of the test.\n\nOn the right side of the image, we can see modern high-rise buildings with reflective glass facades. The architecture suggests a contemporary urban environment. The street itself has a sidewalk on either side, and there are trees interspersed along the pavement.\n\nThere is a pedestrian crossing in the foreground, indicating a designated area for pedestrians to cross the road safely. The sky is overcast, suggesting it might be a cool or cloudy day. There are no people visible in the immediate vicinity of the intersection. The photo appears to have been taken from a distance with a wide-angle lens, as indicated by the distortion near the edges of the frame.",
+      "duration_sec": 1.88,
+      "image_id": 94
+    },
+    {
+      "image": "20241227 173510_right_camera_W049_right_camera.jpg",
+      "caption": "The image is a wide-angle photograph showing an urban scene with overcast or cloudy skies. In the foreground, there's a concrete highway with two lanes of traffic. A van is visible driving on this road. There are no people or distinctive characters in the immediate vicinity of the viewer; the focus seems to be on the surrounding infrastructure and buildings.\n\nOn either side of the highway, there appears to be construction activity with barriers, cones, and possibly work trucks, suggesting some sort of ongoing project. The landscape features what looks like a parking lot or staging area to the left, with several cars parked.\n\nIn the background, there are structures that resemble commercial buildings, although they are not in sharp focus due to the wide-angle perspective. The road is lined by vehicles moving in both directions. There's a clear sky above, but no visible landmarks or notable features that immediately stand out as identifiable locations.",
+      "duration_sec": 1.65,
+      "image_id": 42
+    },
+    {
+      "image": "20250103 065008_left_camera_W04A_left_camera.jpg",
+      "caption": "The image depicts a nighttime street scene with an urban setting. A large, multi-lane road stretches across the frame, marked by lane dividers and traffic markings. On the left side of the photo, there are pedestrian crosswalks and lanes dedicated to bike traffic, as indicated by bicycle symbols on the pavement. The street is illuminated by artificial lighting that casts a glow on the asphalt.\n\nThere are no visible vehicles or people in this portion of the image, which gives the scene an emptiness at night. In the background, there are buildings with lit windows, suggesting a residential or commercial area. On the right side of the photo, there is a bridge overpassing the road, and a glimpse of traffic lights can be seen in the distance, indicating an intersection ahead.\n\nThe sky above is dark, indicative of nighttime conditions, and there are no visible clouds or stars. The image has a slight blur to it, which could be due to camera shake or motion from traffic during exposure.",
+      "duration_sec": 1.79,
+      "image_id": 53
+    },
+    {
+      "image": "20250103 183006_left_camera_W060_left_camera.jpg",
+      "caption": "The image depicts a daytime urban scene viewed from an elevated position, looking down onto a street intersection. At the forefront, there is a busy city intersection with multiple lanes of traffic and various vehicles, including cars and a truck, stopped at the traffic light. Pedestrians are also present on the sidewalks, and public transit buses are visible in the background.\n\nThe roads are lined with parked cars and a few trees can be seen along the sidewalk. In the distance, there is an overpass structure that suggests a multi-lane highway running parallel to the street. The sky is clear and blue, indicating good weather conditions. Buildings of varying heights flank both sides of the street, suggesting a dense urban environment.\n\nThere are no visible signs or distinctive landmarks that allow for specific identification of this location. The photo appears to be taken with a standard camera from an observation point possibly from another building or structure near the intersection.",
+      "duration_sec": 1.66,
+      "image_id": 62
+    },
+    {
+      "image": "20250103 230014_top_camera_W085_top_camera.jpg",
+      "caption": "The image shows a wide-angle photograph taken from a high vantage point, looking down on an expansive body of water that could be a lake or river. The sky is clear with no visible clouds, suggesting it might be early morning or late evening given the soft light and long shadows on the ground below. In the distance, there appears to be a faint outline of a cityscape with buildings and infrastructure against the horizon. There are no visible people or moving objects in this image, giving it a serene and quiet atmosphere. The photo has a slight fisheye distortion due to the wide-angle lens used to capture the scene.",
+      "duration_sec": 1.2,
+      "image_id": 97
+    },
+    {
+      "image": "20250113 004007_left_camera_W04A_left_camera.jpg",
+      "caption": "The image shows a nighttime view of an urban landscape, likely taken from a high vantage point. In the foreground, there's a street intersection with traffic signs and markings visible on the roadway. The road is wet, suggesting recent rain, and there are no vehicles in sight. Above the road, there's a skywalk or pedestrian bridge that crosses over it.\n\nIn the background, a large city skyline can be seen, illuminated by various building lights. The most prominent structure appears to be a tall office building with a facade of reflective windows. The sky is dark and cloudy, indicating either an overcast night or possibly early morning hours. In the distance, there are multiple traffic signals on poles along the roadway.\n\nThe overall scene conveys a sense of quietness in what could be a bustling area during daylight hours, as no pedestrians or vehicles are visible in this snapshot captured from the city bridge.",
+      "duration_sec": 1.71,
+      "image_id": 50
+    },
+    {
+      "image": "20250117 060008_right_camera_W061_right_camera.jpg",
+      "caption": "The image is a nighttime street view, taken from an elevated perspective that appears to be inside a vehicle. In the foreground, there's a traffic light on red, and a road sign with arrows pointing in different directions. To the left of the frame, there are two yellow lines running parallel to each other.\n\nThe background shows a city intersection with a crosswalk where no pedestrians are visible at this moment. The streets are illuminated by streetlights, and various traffic signs can be seen, including an exit sign indicating a right turn is allowed or required. There's also a digital message board displaying \"20-11\" which could refer to a date range or a road name, but the specific meaning is not clear from this angle.\n\nTall buildings flank the intersection, suggesting it's located in an urban environment. The sky above is dark, indicating that it is nighttime, and there are no visible clouds or stars.",
+      "duration_sec": 1.71,
+      "image_id": 78
+    },
+    {
+      "image": "20250117 063504_right_camera_W040_right_camera.jpg",
+      "caption": "The image shows a nighttime view of an urban street scene captured from inside a vehicle. In the foreground, there is a pedestrian crossing with visible painted markings and traffic light signals. A white crosswalk line is visible on the roadway, indicating a designated crossing area. There are no people or vehicles moving through the intersection at this moment.\n\nOn the left side of the street, there appears to be a building with a sign that says \"HARDWARE STORE\" and a parking lot adjacent to it. The street is lit by overhead streetlights and some interior lights from nearby buildings, providing illumination on the road and sidewalks. \n\nThe sky is dark, suggesting nighttime, and there are no visible clouds in the sky. The overall atmosphere is calm with no moving vehicles or people visible in this particular frame of the photo.",
+      "duration_sec": 1.49,
+      "image_id": 16
+    },
+    {
+      "image": "20250117 212508_left_camera_W062_left_camera.jpg",
+      "caption": "The image appears to be a photograph of an urban street scene captured from a high angle, possibly from a traffic camera or surveillance footage. In the foreground, there's a road with various lanes and lane markings. On the right side of the road, there is a concrete median separating the lanes. To the left, a pedestrian crosswalk is visible with painted white lines indicating the crossing area.\n\nAt the intersection, several cars are visible: two cars in one lane appear to be stopped or slowing down for the crosswalk. There's also a person visible on the far right side of the image, likely waiting to cross or walking along the sidewalk.\n\nOn both sides of the road, there are buildings with windows reflecting the daylight. One building has a large green sign on its facade, but the text is not legible in this resolution. The overall environment suggests a city setting during daytime hours under clear weather conditions.",
+      "duration_sec": 1.73,
+      "image_id": 84
+    },
+    {
+      "image": "20250122 021008_right_camera_W061_right_camera.jpg",
+      "caption": "The image shows a nighttime city street scene viewed from an elevated position, possibly from a building or bridge overpass. At the forefront, there is a traffic light with two red lights illuminated on the left side of the frame. To the right of this light, there's a pedestrian walk signal displaying a white figure, which indicates it is safe for pedestrians to cross.\n\nIn the middle ground, several vehicles are visible, including cars and a truck, with their headlights on, moving along the street. The traffic seems to be in motion. There are no people visibly in the image.\n\nIn the background, there is a sign indicating a \"20 MPH SPEED ZONE\" and a digital road sign showing a speed limit of 20 mph. A couple of traffic signs can also be seen, including one for lane usage. The street is lined with various vehicles parked along the sidewalks, and it's clear that the location is in an urban environment due to the density of infrastructure like streetlights and signs.\n\nThe overall scene gives a sense of a quiet nighttime cityscape, with traffic flowing and no pedestrians or cyclists immediately visible in the frame. The image has a slight tilt, which could suggest it was taken from an angle or using an unsteady camera.",
+      "duration_sec": 2.28,
+      "image_id": 76
+    },
+    {
+      "image": "20250123 155008_right_camera_W061_right_camera.jpg",
+      "caption": "The image shows an urban street scene viewed from a high angle. The foreground includes a snowy sidewalk with some melted, revealing signs of recent winter weather. There are multiple cars parked along the curb on both sides of the street. A few pedestrians can be seen walking along the sidewalk.\n\nThe middle ground features a crosswalk area with a traffic light sign visible. To the right, there's a red and white \"Do Not Walk\" sign indicating that it is not safe to cross at this moment. The background shows a mix of low-rise buildings, including what appears to be commercial structures with storefronts.\n\nStreet signs are present, suggesting the intersection has names or directions associated with them. The overall scene suggests a cold winter day in a city environment.",
+      "duration_sec": 1.49,
+      "image_id": 70
+    },
+    {
+      "image": "20250123 224011_left_camera_W062_left_camera.jpg",
+      "caption": "The image appears to be a photograph taken from an elevated perspective, possibly from inside a building or on an overpass, looking down at a traffic intersection. The scene includes multiple cars parked and moving along the roads; the vehicles are various colors and types. It is daylight, and the weather seems clear. In the background, there's a structure that could be part of public transportation infrastructure, such as a bus stop or a train platform. Surrounding the area, there are no visible pedestrians or distinct landmarks to identify the location. The image has a horizontal orientation and is captured during daytime hours.",
+      "duration_sec": 1.23,
+      "image_id": 81
+    },
+    {
+      "image": "20250124 111011_left_camera_W060_left_camera.jpg",
+      "caption": "The image shows an intersection at night with snow on the ground. There are traffic lights visible, indicating a regulated crossing for vehicles and pedestrians. The street appears to be empty, with no vehicles or pedestrians visible. The surrounding area is illuminated by streetlights, providing light against the dark sky. In the background, there's a view of what seems to be an urban environment with buildings, although the focus is on the immediate intersection. There's no text visible in the image.",
+      "duration_sec": 1.05,
+      "image_id": 68
+    },
+    {
+      "image": "20250127 154012_right_camera_W062_right_camera.jpg",
+      "caption": "The image depicts a view from an elevated position looking down at a street intersection. It is daytime with clear visibility. There are several cars parked along the side of the street, and a few vehicles are moving on the road. The cars have a mix of colors including white, silver, and one that appears to be red. The infrastructure includes traffic lights at the junction, and there's a signpost indicating streets or directions.\n\nThe buildings surrounding the intersection have a nondescript appearance, with the one on the left being taller than the others. It has multiple windows and seems to be constructed of concrete blocks. The sky is blue with a few clouds, suggesting a fair weather condition. There are no visible pedestrians in the immediate vicinity of the intersection.",
+      "duration_sec": 1.43,
+      "image_id": 80
+    },
+    {
+      "image": "20250127 164513_right_camera_W062_right_camera.jpg",
+      "caption": "The image depicts a daytime street scene with a clear blue sky. In the foreground, there is a traffic light positioned on a concrete divider between two lanes of traffic. To the left of the traffic light is a street sign that reads \"MILLER ST\" in white lettering on a black background. Behind the divider, a city bus is visible on the right side, and a car is seen parked along the street. There are buildings with red brick facades to the left, suggesting an urban setting. The trees surrounding the area have bare branches, indicating it might be late autumn or winter. The overall impression is of a quiet, residential neighborhood.",
+      "duration_sec": 1.28,
+      "image_id": 82
+    },
+    {
+      "image": "20250128 114510_left_camera_W046_left_camera.jpg",
+      "caption": "The image appears to be a screenshot from a surveillance or security camera, given the angle and the presence of timestamp information which is typical for such footage. It shows a nighttime view of a road intersection with multiple lanes going in different directions. There are no vehicles visible on the roads at the moment the photo was taken. The lighting is artificial, indicating streetlights illuminating the area. On one side of the intersection, there's a pedestrian crossing signal that is currently darkened, suggesting it's safe for pedestrians to cross. In the background, there are buildings with their lights on, indicating they are open for business or perhaps residential buildings. There are also no visible people in this view. The timestamp indicates that the photo was taken at 9:10 PM on a specific date, but due to privacy concerns, I won't disclose the exact time or date the image was captured.",
+      "duration_sec": 1.57,
+      "image_id": 32
+    },
+    {
+      "image": "20250130 194010_right_camera_W046_right_camera.jpg",
+      "caption": "The image is a composite of two different photos, one at the top showing an aerial view of a city street with a sign overhead that reads \"RIDE THE HORSE DOWN\" and includes an arrow pointing to the left. Below the sign, there are buildings, vehicles on the road, and traffic lights controlling the flow of traffic. The sky appears overcast with clouds.\n\nThe bottom photo shows a ground-level perspective of a city street intersection with a crosswalk. There is a truck parked near the curb, and the surroundings include brick buildings, trees, and a fire hydrant. The road has markings for lanes, and there are traffic lights controlling the flow of traffic at this point.\n\nThe style of the composite suggests it might be used for real estate purposes or to illustrate the contrast between an aerial view of a city street and the same location viewed from ground level.",
+      "duration_sec": 1.61,
+      "image_id": 30
+    },
+    {
+      "image": "20250131 081008_left_camera_W061_left_camera.jpg",
+      "caption": "The image shows a nighttime scene of a rain-soaked city street. In the foreground, there's a crosswalk with white stripes and painted arrows, indicating traffic lanes. A solitary vehicle is visible on the right lane, but no pedestrians are in sight. The wet surface of the road reflects the surrounding lights, creating a glossy sheen that highlights the rainfall.\n\nStreetlights cast their glow on the road, and there are multiple traffic lights scattered along the street. These lights suggest an urban environment with traffic regulations in place.\n\nIn the background, a large intersection looms under the overcast sky. The perspective of the photo is from the elevated position of a traffic light camera, providing a view that slightly distorts the road due to the camera's angle. Despite this, it is clear that the street is empty except for the vehicle.\n\nThe rain seems to be falling steadily, contributing to a somewhat moody atmosphere. There are no people or moving cars visible in this particular shot, giving the impression of a calm and quiet night. The image has a watermark indicating \"StockPhoto,\" suggesting that it may have been sourced from a stock photo website.",
+      "duration_sec": 2.01,
+      "image_id": 71
+    },
+    {
+      "image": "20250201 022512_left_camera_W064_left_camera.jpg",
+      "caption": "The image shows a nighttime cityscape. There is a street scene with several cars and traffic lights visible, indicating it's a busy urban area. In the foreground, there are bicycle lanes marked on the road. Streetlights provide illumination, creating a contrast against the dark sky. Buildings of various heights are present, contributing to the dense urban environment. The image appears to be taken from a high vantage point, possibly from an overpass or rooftop, capturing a perspective looking down onto the street below.",
+      "duration_sec": 1.11,
+      "image_id": 93
+    },
+    {
+      "image": "20250202 142510_left_camera_W040_left_camera.jpg",
+      "caption": "The image shows an overhead view of a city street intersection. There is a clear demarcation between opposing lanes of traffic, each lane being separated by dashed lines and no-crossing signs. On both sides of the road are bicycle lanes marked with solid white lines. The pavement appears to be in good condition. A few cars are visible on the road, suggesting that it is currently in use. There's a sidewalk adjacent to the cycling lane where there seems to be some construction activity or barriers blocking the path. To the right, there is a traffic island with no vehicles on it. The surrounding area looks like an urban setting with typical city street elements such as road signs, lampposts, and a curb. There are no people visible in the image. The sky appears to be overcast, indicating a cloudy day.",
+      "duration_sec": 1.51,
+      "image_id": 17
+    },
+    {
+      "image": "20250202 201104_right_camera_W049_right_camera.jpg",
+      "caption": "The image shows an overpass view of a roadway with multiple lanes and vehicles on it, indicating that this is a highway or freeway setup. The sky above appears overcast with clouds, and the ground looks wet, suggesting recent rain. In the background, there are buildings with signs, and it seems to be an urban setting. The photo has a vertical orientation and is taken from an elevated position, looking down on the road. There's no immediate action or event happening in this image; it appears to be a typical day of driving activity.",
+      "duration_sec": 1.1,
+      "image_id": 44
+    },
+    {
+      "image": "20250204 052513_left_camera_W04A_left_camera.jpg",
+      "caption": "The image is a panoramic view of a cityscape at night, captured from an elevated perspective. In the foreground, there's an urban intersection with multiple lanes and traffic markings. A pedestrian crossing signal is visible, along with some street furniture. There's also a partial view of a building on the corner to the right, with its facade illuminated.\n\nThe middle ground shows a multi-lane highway with lane markings. The road appears to be wet, possibly due to recent rain. On either side of the highway, there are buildings that seem to be commercial or residential structures. There's no visible traffic on the road, suggesting it might be late or early in the day when fewer vehicles are typically on the roads.\n\nIn the background, the city skyline is visible with skyscrapers and other high-rise buildings against a cloudy night sky. The skyscrapers have numerous lights that shine brightly, indicating they're in use. There are no people or moving vehicles clearly visible in this part of the image, which gives the scene a quiet ambiance.\n\nThe overall impression is one of an urban environment during nighttime, with the city illuminated by artificial lighting and streetlights.",
+      "duration_sec": 2.03,
+      "image_id": 51
+    },
+    {
+      "image": "20250204 202012_right_camera_W04A_right_camera.jpg",
+      "caption": "The image shows a scene from an urban street intersection. From the perspective of the photo, it appears to be taken from behind a vehicle that's stopped at the intersection. The foreground features a wide pedestrian crosswalk with painted markings and white bollards indicating its boundaries. On either side of the street are traffic lanes with clear lane markers. There is a traffic sign in the center of the intersection with an arrow pointing to the right, indicating a one-way direction for that particular lane.\n\nIn the background, there's a row of storefronts on the left side of the image, and a large building, possibly a parking garage or a commercial structure with multiple floors, is visible on the right. The sky appears overcast, suggesting an overcast or cloudy day. There are no people visible in the photo.",
+      "duration_sec": 1.54,
+      "image_id": 56
+    },
+    {
+      "image": "20250205 043013_right_camera_W046_right_camera.jpg",
+      "caption": "The image shows a nighttime scene of an urban intersection with traffic and pedestrians. There are two visible cars, one near the foreground and another further down the street. Traffic lights regulate the flow of vehicles; both red stoplights can be seen at the top left and bottom right corners of the image. The street is lined with buildings, some of which have visible signs or advertisements, such as a billboard on the left side of the street.\n\nThe sky above is dark, indicating nighttime conditions, and the overall ambiance is illuminated by streetlights and vehicle headlights. In the background, there's a clear view of a wide, empty road that runs parallel to the intersection, leading towards an overpass or bridge in the distance, although the details of this structure are not clearly visible due to distance.\n\nThere are no people visible within the frame provided by the image, but one can observe a pedestrian crossing signal at the bottom right corner, which typically includes a walk symbol for safe passage. The sidewalk on the right side of the image is well-maintained and appears to be clear of obstacles or debris.\n\nThe overall scene suggests a typical urban environment during nighttime hours with regulated traffic flow.",
+      "duration_sec": 2.11,
+      "image_id": 28
+    },
+    {
+      "image": "20250205 052524_left_camera_W060_left_camera.jpg",
+      "caption": "The image shows a nighttime city scene viewed from an elevated position, possibly a building or a bridge. The view looks down onto an intersection with streetlights illuminating the road. There's a traffic light showing red for vehicles traveling in this direction. On the left side of the image, there's a pedestrian walk signal indicating it's safe to cross the street.\n\nThe roads are marked with white lines, and a single car is visible on one of the lanes, suggesting that the photo was taken during a time of low traffic. The intersection is surrounded by buildings, although their details are not discernible.\n\nIn the background, there's a tall building with a large clock face. The sky is dark, and a few clouds are scattered across it. There are no people or moving vehicles visible in this view. The overall style of the image appears to be a realistic photograph capturing an urban setting at night.",
+      "duration_sec": 1.68,
+      "image_id": 63
+    },
+    {
+      "image": "20250206 184008_left_camera_W063_left_camera.jpg",
+      "caption": "The image appears to be a screenshot of a street scene viewed through a car's rearview camera or a similar vehicle-mounted camera. It shows an urban environment with multiple lanes of traffic on both sides, including cars and a truck. There are no visible pedestrians in the immediate vicinity of the vehicle from which the photo was taken. The road has markings indicating lanes and turn lanes, and there is a blue bicycle lane sign on the right side of the street. The surroundings include buildings with various architectural styles, suggesting a mixed-use urban area. The sky is overcast, indicating that it might be raining or that the photo was taken during the late afternoon or early evening. There are no visible people in the image, which reinforces the impression that the photo captures an empty road momentarily without any vehicles passing by.",
+      "duration_sec": 1.6,
+      "image_id": 87
+    },
+    {
+      "image": "20250207 164522_left_camera_W061_left_camera.jpg",
+      "caption": "The image shows an urban street scene taken from a slightly elevated angle, looking down on the traffic below. The road is lined with parked cars and there are various vehicles moving along the street, including trucks and cars. There's a clear sky visible above the buildings. On the right side of the image, there appears to be a commercial building with signage, suggesting this could be a shopping district or a business area. There are no people visible in the image. The overall scene suggests a typical day in an active city environment.",
+      "duration_sec": 1.09,
+      "image_id": 77
+    },
+    {
+      "image": "20250208 080016_right_camera_W061_right_camera.jpg",
+      "caption": "The image is a still from a video, as indicated by the presence of a play button overlaying it. It shows an urban street scene at night, viewed from a high angle looking down towards the street below. The photo captures a traffic light with three lights lit: green for going straight, red for stopping, and yellow for caution, suggesting that vehicles should prepare to stop. Below the traffic light, there is a pedestrian crossing signal showing \"walk\" illuminated in white, indicating it's safe for pedestrians to cross.\n\nThe street intersection has signs with arrows pointing in various directions, but the text on the signs is not clearly legible due to the angle and distance from which the photo was taken. There are no visible vehicles or people, giving a quiet appearance to the scene. The lighting suggests it's late at night, as there are streetlights illuminating the area and the surrounding buildings have interior lights on.\n\nThe bottom right corner of the image contains a small, green-lit sign with an arrow pointing left and the number \"6\" underneath it. The architecture and design of the signs suggest this might be in a city where English is not the primary language, possibly indicating bus routes or a similar transportation system.\n\nThe overall image has a slight blur to the edges, which is common when taking photos at night with slow shutter speeds. The focus seems sharp near the foreground and traffic light, gradually softening towards the background.",
+      "duration_sec": 2.38,
+      "image_id": 75
+    },
+    {
+      "image": "20250209 064508_left_camera_W063_left_camera.jpg",
+      "caption": "The image is a nighttime photograph of an urban scene, specifically taken from the perspective of a vehicle traveling on a roadway. In the foreground, there's a streetlight illuminating the road with a blueish-green hue. The road itself appears to be wet, as indicated by the reflections and the way light is scattered across the surface. On the right side of the road, there are lane markings, but no visible lane dividers due to the perspective.\n\nThe road is curved with a clear demarcation of a turn, marked by what appears to be reflective paint or lines that illuminate under streetlights. There is also a center median separating the two directions of traffic. On the left side of the road, there's a curb leading to a grassy area where some vehicles are parked. The lighting conditions suggest it might be late evening or early morning due to the blue and green light dominance.\n\nThe background reveals a multi-lane highway with lanes for various directions of travel. There is a traffic control signal in the distance, but the image does not provide details about its status. To the right, there are streetlights visible along the highway median. The surrounding area looks urban and industrial, with building structures partially lit by streetlights.\n\nThe watermark \"235\" indicates that this image is likely part of a surveillance system, often used for traffic monitoring or security purposes.",
+      "duration_sec": 2.42,
+      "image_id": 91
+    },
+    {
+      "image": "20250209 231015_right_camera_W061_right_camera.jpg",
+      "caption": "The image shows an urban scene captured from a high vantage point, which suggests it might be taken from a traffic camera or similar installation. In the foreground, there is a pedestrian crossing signal with a 'Don't Walk' sign lit up. Behind this, there is a busy city intersection with traffic lights and signs indicating that it's a one-way street in both directions. The road is lined with parked cars on the side, some of which appear to be parked illegally as they are facing the wrong direction.\n\nThe buildings lining the streets suggest a commercial or residential area, possibly mixed use given the presence of storefronts and what looks like a parking garage. The architecture is modern, with large glass windows. There are trees planted along the sidewalk, adding to the cityscape.\n\nIn the background, you can see more of the urban environment, including additional street signs, traffic lights, and buildings that fade into the distance. There are no people visible in the photo, which makes it difficult to discern activity on the streets. The lighting suggests it's daytime with ample natural light illuminating the scene.",
+      "duration_sec": 1.91,
+      "image_id": 69
+    },
+    {
+      "image": "20250210 030018_left_camera_W063_left_camera.jpg",
+      "caption": "The image appears to be a still frame from a surveillance or traffic camera capturing an urban night scene. In the foreground, there is a dark, paved street with white lane markings. There is a vehicle, which seems to be a black SUV, in motion on the right side of the road, indicated by the red rear light and the car's position relative to the markings. The car has its headlights on. To the left of the image, there are two traffic lights, one yellow and the other green, suggesting the vehicle is moving through an intersection where the signals have turned green.\n\nIn the background, on the right side, there are several parked cars with their rear lights visible. Buildings with various levels of illumination can be seen, including a building in the distance that appears to be well-lit, possibly indicating a commercial or institutional area within a city. The lighting is predominantly artificial and focused downwards onto the street level, creating a strong contrast between the brightly lit areas near the buildings and the darker areas on the road.\n\nThere are no visible texts or distinctive branding in the image. The style of the camera is utilitarian, typical for traffic monitoring systems, with a wide-angle lens that captures the entire scene in one frame.",
+      "duration_sec": 2.17,
+      "image_id": 89
+    },
+    {
+      "image": "20250210 215509_left_camera_W040_left_camera.jpg",
+      "caption": "The image shows a scene of traffic at an intersection. There is a variety of vehicles, including cars and trucks, both parked and in motion, indicating that it is a busy time on this street. The traffic lights are visible, with one showing red for vehicular traffic in the direction we are viewing, and another displaying green for pedestrian crossing. There is a crosswalk across the road where people are present. The surroundings suggest an urban environment with buildings and pedestrians visible. The sky is overcast, suggesting it might be a cloudy day.",
+      "duration_sec": 1.11,
+      "image_id": 20
+    },
+    {
+      "image": "20250211 193046_right_camera_W046_right_camera.jpg",
+      "caption": "The image shows a daytime urban scene with a perspective looking down from above onto a city street intersection. In the foreground, there is a traffic light with multiple colors illuminated, indicating it's regulating different lanes of traffic. To the left, there is a billboard on an overpass structure advertising something related to home improvement or construction, featuring a blue and white graphic and text that's not entirely legible due to the angle and distance.\n\nThe roadway is paved with marked lanes, and there are cars in motion traveling in different directions, suggesting traffic flow. Street signs, such as a green \"GO\" sign and street names, can be seen at the intersection. The architecture of the buildings suggests a commercial or industrial area, though specific building types or uses are not identifiable due to the angle and resolution.\n\nIn the background, there is a clear sky, which contrasts with the industrial setting of the foreground. There are also trees that line the street in parts, adding a touch of greenery to the urban landscape. The overall image quality suggests it might be an overcast day or the photo is taken from inside a vehicle or through a window with glare.",
+      "duration_sec": 1.98,
+      "image_id": 26
+    },
+    {
+      "image": "20250213 232514_left_camera_W049_left_camera.jpg",
+      "caption": "The image shows a view from an overpass or highway overpass, looking down onto a multi-lane roadway at what appears to be either dawn or dusk, given the soft lighting and the long shadows on the street below. Cars are moving along the road in both directions. To the right of the image, there is a large vehicle that resembles a service truck, possibly for public works or maintenance. The sky is clear with a gradient of colors from blue to orange near the horizon, suggesting that it might be around sunrise or sunset. There are no people visible in the photo.",
+      "duration_sec": 1.18,
+      "image_id": 47
+    },
+    {
+      "image": "20250214 012512_left_camera_W061_left_camera.jpg",
+      "caption": "The image is a nighttime photograph of an urban street scene taken with a wide-angle lens, which creates a panoramic view of the street and surroundings. At the center of the photo is a road with several vehicles stopped at a traffic light, suggesting a red light signal. On the left side of the road, there are white lines indicating a lane for turning only or for no parking or stopping.\n\nOn the right side, there's a sidewalk, and along it, there appear to be parked cars on the shoulder of the street. The sky is dark with some stars visible, indicating a clear night. The buildings lining the street are illuminated by artificial lights, which contribute to the brightness of the image.\n\nThere are no people visible in the photograph, but you can see vehicle headlights and taillights as well as the glow from the streetlights and building lights. The focus of the image is on the traffic flow and the urban environment at night.",
+      "duration_sec": 1.71,
+      "image_id": 73
+    },
+    {
+      "image": "20250214 064519_right_camera_W040_right_camera.jpg",
+      "caption": "The image shows a nighttime view of an urban street corner, captured from a window or balcony overlooking the scene. The photo is taken with a smartphone camera, as indicated by the graininess and distortion typical of such devices at night.\n\nIn the foreground, we can see a street intersection with traffic lights illuminated in the distance, casting their glow on the snow-covered street. The road appears to have been recently plowed or cleared of snow, as the lane markings are visible but there is still scattered snow on the right side of the frame. There's a pedestrian crosswalk with white lines indicating its boundaries, and no pedestrians are visible in the image.\n\nThe middle ground shows a few buildings, including what looks like a convenience store or restaurant with an illuminated sign. The building facades are mostly dark, suggesting businesses are closed for the evening.\n\nIn the background, the sky is dark but for some faint stars or distant lights, indicating it's still nighttime. No people or vehicles are visible in this part of the photo, contributing to a quiet, empty atmosphere often associated with late-night city scenes.",
+      "duration_sec": 1.99,
+      "image_id": 15
+    },
+    {
+      "image": "20250214 141514_left_camera_W046_left_camera.jpg",
+      "caption": "The image shows a winter scene of a city street where heavy traffic is visible. The road appears to be an eight-lane divided highway with multiple cars, including at least one truck and several smaller vehicles, stopped or moving slowly. There are also parking lots adjacent to the highway filled with parked cars. Snow is scattered on the ground, indicating recent snowfall.\n\nOn the right side of the image, there's a sidewalk with some pedestrians visible. The sky is overcast, suggesting a cold winter day. The architecture and the sign on the corner indicate an urban setting. There are no people in the foreground, but they can be seen further down the road.\n\nThe perspective of the image suggests it was taken from an elevated position or a vehicle using a forward-facing camera or an action cam that captures the scene in front of it.",
+      "duration_sec": 1.54,
+      "image_id": 25
+    },
+    {
+      "image": "20250215 065513_right_camera_W049_right_camera.jpg",
+      "caption": "The image appears to be a nighttime surveillance camera shot from a street corner, looking onto an intersection that includes a road and a crosswalk. It's currently snowing, as evidenced by the white snow covering the ground. The area looks cold and wintry, with the reflection of streetlights and traffic lights on the wet surfaces.\n\nOn the right side of the image, there's a blurred storefront with illuminated signs, which suggests that it is a commercial area. There are also some vehicles in the distance, including cars parked along the roadside. The lighting from the businesses and streetlights casts a warm glow against the cold snow.\n\nThe camera angle is slightly elevated, providing a broad view of the intersection and the surrounding urban environment.",
+      "duration_sec": 1.42,
+      "image_id": 49
+    },
+    {
+      "image": "20250215 145513_right_camera_W064_right_camera.jpg",
+      "caption": "The image shows a scene from an overpass looking down on a street intersection below. The roadway is visible, with markings indicating lanes and directions of traffic. There are cars at the intersection, suggesting it is an active traffic area. The overpass itself has railings for safety and appears to be part of a larger infrastructure system given its design and materials used.\n\nThe surrounding areas show typical urban elements like buildings in the background and a clear sky above. On the road below, there are no visible pedestrians or cyclists. The angle of the image from above provides a comprehensive view of both the overpass and the street intersection it overlooks.",
+      "duration_sec": 1.3,
+      "image_id": 96
+    },
+    {
+      "image": "20250215 193518_left_camera_W062_left_camera.jpg",
+      "caption": "The image shows a city street scene during what appears to be winter, as suggested by the snow on the ground and the presence of a parking meter with ice formations on it. There is a car parked near the curb, and a bicycle lane sign indicating \"Bike Only.\" The road is wet and reflects some of the surrounding lights, suggesting recent rainfall. On the right side of the image, there are several cars stopped at a traffic light. To the left, there is an elevated train track above the street.\n\nIn the background, there's a building with a visible storefront that reads \"Walgreens,\" indicating the presence of a pharmacy. The sky is overcast, and the overall atmosphere suggests an urban environment during what might be early morning or late evening due to the ambient lighting. There are no people visible in the immediate vicinity of the car.",
+      "duration_sec": 1.63,
+      "image_id": 83
+    },
+    {
+      "image": "20250217 023010_right_camera_W040_right_camera.jpg",
+      "caption": "The image is a nighttime photograph taken from an elevated vantage point, likely inside a building looking out at a city street through a window. The scene depicts a snowy urban setting at night with various elements. In the foreground, there is an intersection with a pedestrian crosswalk marked by white stripes, and traffic lights can be seen at different points along the road. The streets are clear of vehicles, but there are some parked cars visible on the side of the street.\n\nThe road itself appears to be icy or covered in snow, reflecting the artificial lighting from the surrounding buildings and streetlights. There are no people walking on the sidewalks at this time of night. Street signs are also visible, including a traffic sign displaying \"ONE WAY\" to indicate the direction vehicles should travel.\n\nThe sky is dark, suggesting it is nighttime. There are no visible stars due to light pollution from the surrounding cityscape. The buildings lining the street have multiple windows illuminated by interior lights, indicating that they might be businesses or residential apartments open at this late hour.\n\nThere is a building with large glass windows near the intersection, possibly a commercial or public building. In the background, there are other buildings of varying heights and architectural styles, contributing to an urban skyline during nighttime hours. The overall impression is that of a quiet city street captured at a late hour under artificial lighting.",
+      "duration_sec": 2.4,
+      "image_id": 19
+    },
+    {
+      "image": "20250217 153009_left_camera_W047_left_camera.jpg",
+      "caption": "The image is a real-life photograph featuring an urban street scene during daylight hours under a clear sky. It appears to be taken from a high vantage point, possibly from another building or an elevated structure, looking down on a commercial area. In the foreground, there is a street with parked cars on both sides and a road leading into the distance. On the right side of the image, there are buildings that include businesses and perhaps residential apartments, as indicated by a balcony visible on one building. The architecture suggests it could be in an American city.\n\nThe street is lined with trees, indicating efforts to incorporate greenery into the urban landscape. There's a parking lot adjacent to the commercial area where cars are parked. The surrounding environment includes what looks like bare trees and buildings with signage, suggesting a commercial district within a city. The sunlight casts shadows on the ground, indicating the time of day is likely mid-day. The overall scene gives an impression of a typical day in a suburban or semi-urban area.",
+      "duration_sec": 1.82,
+      "image_id": 38
+    },
+    {
+      "image": "20250218 041016_left_camera_W061_left_camera.jpg",
+      "caption": "The image shows a nighttime street scene viewed from a surveillance or security camera. The camera is positioned at an angle, looking down a street that appears to be residential or low-traffic. There are no visible vehicles on the street, which suggests it might be late or early in the day when traffic is generally lighter.\n\nThe street has lane markings and various road signs, including what looks like parking restrictions. The surrounding area includes some greenery and a building with lights on, indicating that this location is within an urban environment.\n\nThere are no people visible in the image, adding to the quiet and serene atmosphere of the scene. The lighting appears to be artificial, coming from street lamps and possibly the interior lights of nearby buildings, as there's no sign of natural light being emitted by the sky or stars.\n\nThe image has a realistic style with natural colors, but it is likely that the quality and angle of the camera can introduce some distortions or inconsistencies in the representation of the scene.",
+      "duration_sec": 1.74,
+      "image_id": 72
+    },
+    {
+      "image": "20250218 170514_left_camera_W062_left_camera.jpg",
+      "caption": "The image is a photograph of an urban street scene taken from a high angle perspective, looking down onto a city intersection. In the foreground, there's a concrete roadway with multiple lane markings. There are also several pedestrian crosswalks visible on the street, indicating that it is designed to accommodate both vehicular and pedestrian traffic. The image shows an overcast sky and some vehicles in motion.\n\nOn the right side of the street, there's a large urban building with multiple windows, suggesting it could be a commercial or office building. On the left, there are signs that appear to be part of a bus stop structure, indicating a public transportation hub in the area. The ground on both sides of the street is covered with snow, suggesting recent cold weather conditions.\n\nIn the background, there's a large highway overpass that spans across the street. Underneath the overpass, there are traffic lanes and on-ramp lanes to access the highway. The roadway appears to be well-maintained with clear lane markings. The overall scene suggests a typical day in an urban setting during winter months.",
+      "duration_sec": 1.92,
+      "image_id": 85
+    },
+    {
+      "image": "20250219 095024_left_camera_W061_left_camera.jpg",
+      "caption": "The image shows a nighttime view of an urban street scene, captured from a high angle that resembles a security or traffic camera. At the forefront, there's an empty road with lane markings and a center median. On both sides of the road, there are buildings and some streetlights are visible. The lighting suggests it is nighttime, as indicated by the darkness surrounding the area.\n\nIn the middle distance, there appears to be snow on the ground, which adds a slight sheen to the scene. The presence of snow implies that the photo was taken during winter or in an area where winter conditions are common.\n\nThere are no people or moving vehicles in sight, giving the impression of calmness. The street itself is free from obstructions, and there are no visible parked cars or pedestrians.",
+      "duration_sec": 1.49,
+      "image_id": 74
+    },
+    {
+      "image": "20250220 123105_left_camera_W064_left_camera.jpg",
+      "caption": "The image is a photograph showing an urban scene at dusk, taken from a high vantage point looking down upon a city street intersection. There are tall buildings lining both sides of the street, with visible windows and architectural details that suggest a modern downtown area. The architecture includes glass facades on some buildings, with one building prominently featuring a reflective glass exterior.\n\nThe sky is darkening, indicating either dawn or dusk, with a few remaining lights suggesting activity in the buildings. Streetlights are visible, and the street itself has clear markings for lanes, which include a bike lane. Vehicles can be seen on the roadway, indicating ongoing traffic flow.\n\nIn the lower part of the image, there is a snow-covered sidewalk adjacent to the intersection, with patches of melted snow. A pedestrian can be seen walking along this area. The street intersection has several traffic signals and signs, including what appears to be a crosswalk and pedestrian signals for safety. There are no people standing on the street itself, suggesting the photo was taken from a distance or during a quieter moment of activity.\n\nThe image's composition is slightly skewed, which suggests that it may have been taken with a smartphone or similar handheld device rather than a professional camera setup. The lighting conditions and the presence of reflections on building windows indicate that there might be artificial lights within the scene contributing to the overall ambient light levels at the time the photo was captured.",
+      "duration_sec": 2.45,
+      "image_id": 95
+    },
+    {
+      "image": "20250222 092029_right_camera_W040_right_camera.jpg",
+      "caption": "The image is a nighttime photograph showing a street corner viewed from an elevated perspective, possibly from inside a building or car looking out through windows or glass. There are no people visible in this particular frame of the image, which suggests it might be captured during a period when there is low traffic or pedestrian activity.\n\nThe scene includes a road with markings indicating crosswalks and pedestrian walkways, as well as traffic signs including what appears to be a green arrow for left-turn lanes and a red hand signal indicating \"Don't Walk\" at the intersection. There are also streetlights illuminating the area, which suggests it might be an urban setting with standardized infrastructure.\n\nTo the right of the photo, there is a building that seems to be part of a retail or commercial district, as indicated by signage. The sky is dark and void of stars, suggesting it is late at night or early in the morning.\n\nOverall, the image captures a typical urban scene at night with traffic signs and signals, a quiet intersection, and illuminated buildings surrounding the street corner.",
+      "duration_sec": 1.85,
+      "image_id": 18
+    },
+    {
+      "image": "20250222 200525_left_camera_W046_left_camera.jpg",
+      "caption": "The image appears to be a still from a security camera or a similar surveillance device, as indicated by the timestamp and graphical overlay at the bottom of the image. It shows an overhead view of a city intersection with traffic flow. There are multiple lanes with vehicles in motion, suggesting that this is a real-time photo capturing an active moment. The road layout includes marked lanes for different directions of travel.\n\nThe timestamp in the lower left corner indicates the date and time as \"01/24 3:00 PM.\" Additionally, there are various overlaid graphics on the image, including what seems to be a speed limit sign and possibly some sort of alert or warning indicators, which are typical for a security monitoring system.\n\nThe surroundings show a mix of buildings with architectural features that suggest a densely populated urban area. The architecture suggests it could be a city in the United States or Canada, but without more specific details, it's not possible to determine the exact location.\n\nOverall, the image provides a snapshot of everyday city life and traffic management.",
+      "duration_sec": 1.85,
+      "image_id": 27
+    },
+    {
+      "image": "20250225 215520_left_camera_W046_left_camera.jpg",
+      "caption": "The image shows a street scene from an elevated perspective, likely from a traffic camera or security camera. In the foreground, there are several cars stopped at an intersection with traffic lights visible above the vehicles. On the right side of the intersection, multiple lanes can be seen with a few more cars in motion. Pedestrians are present on the sidewalk to the left, and there is a bike lane indicated by a bicycle symbol. The road appears to be in a city environment, given the presence of traffic lights and street infrastructure. There's no significant text or branding visible in the image.",
+      "duration_sec": 1.18,
+      "image_id": 24
+    },
+    {
+      "image": "20250227 112113_right_camera_W047_right_camera.jpg",
+      "caption": "The image shows a nighttime scene at an intersection. It's raining, as evidenced by the wet road and the reflection of light on the surface. The street lights are illuminated, casting pools of light on the road that extend into the distance. Traffic is visible in the background; cars with their headlights on can be seen on the left side of the image.\n\nThere are traffic signs at the intersection, including a stoplight and a no-turn sign indicating that left turns are not permitted. The street corner also has pedestrian crossings with visible white lines for safety. The street itself is lined with what appears to be parking meters and street lamps along the sidewalk.\n\nThere's a small amount of snow on the ground, but it doesn't appear to have fallen recently, as it is not in the process of melting or being disturbed by passing vehicles.",
+      "duration_sec": 1.57,
+      "image_id": 33
+    },
+    {
+      "image": "20250228 091050_right_camera_W063_right_camera.jpg",
+      "caption": "The image is a nighttime street scene captured from the perspective of an elevated surveillance or security camera. It shows a city street intersection with traffic lights indicating red signals for both directions. There are multiple lanes marked by lane dividers, and the road appears to be wet, possibly from recent rain. On the right side of the image, there is a building with signage that includes what seems to be a store name, although the exact text is not clear due to the angle and distance.\n\nThe street is illuminated by artificial lighting, including overhead lamps along the roadway. The sky is dark, suggesting it's nighttime. There are no visible pedestrians or vehicles in the immediate vicinity of the camera. In the background, there appears to be a large screen displaying some sort of information, although it's too far away and not clear enough to discern any details.\n\nThere is a watermark on the image that reads \"Copyright \u00a9 2023 Shutterstock,\" indicating the source and ownership of the image. The overall style of the image is realistic with a focus on urban nightlife, as evidenced by the commercial establishment visible in the background.",
+      "duration_sec": 2.07,
+      "image_id": 88
+    },
+    {
+      "image": "20250301 012526_right_camera_W046_right_camera.jpg",
+      "caption": "The image appears to be a nighttime street view captured from an elevated position, possibly from a traffic light or a building with an accessible window. There are two traffic lights visible at different heights: one on the bottom left corner of the image and another higher up, likely closer to the camera's vantage point. The lower traffic light is red.\n\nThe scene shows a road intersection with multiple lanes in each direction, some of which have cars traveling or parked along them. There are no visible pedestrians on the sidewalks. The lighting suggests it is either nighttime or early morning, given the darkness and streetlights illuminating the scene.\n\nOn the right side of the image, there's a bright advertisement with colorful graphics and text, although the specific content of the ad is not entirely clear due to the perspective and angle. The billboard appears to be quite large, occupying a significant part of the skyline as seen from this position.\n\nThe environment suggests an urban setting, and the architecture visible in the background indicates buildings that are likely part of a commercial area or mixed-use development. The image has a photographic quality with realistic colors and lighting effects typical for digital photography capturing street scenes at night.",
+      "duration_sec": 2.09,
+      "image_id": 23
+    },
+    {
+      "image": "20250301 163543_left_camera_W060_left_camera.jpg",
+      "caption": "The image appears to be a photograph showing an urban scene at an intersection with traffic signals and street signs. In the foreground, there is a city street with lane markings and no visible vehicles. On the right side of the photo, there are pedestrians walking on the sidewalk next to a building under construction. A person can be seen carrying what looks like a handbag or shopping bag.\n\nIn the middle ground, there is an overpass with various signs and lights mounted on it. The skyline in the background includes several buildings of varying heights, suggesting this might be a downtown area of a city. There's a clear blue sky above, indicating good weather conditions. The image has a vertical orientation and captures the view from street level, looking up towards the intersection ahead.",
+      "duration_sec": 1.44,
+      "image_id": 65
+    },
+    {
+      "image": "20250303 223022_right_camera_W05F_right_camera.jpg",
+      "caption": "The image shows an urban landscape viewed from a high vantage point. In the foreground, there's a street with some vehicles and a parking lot. Behind the street, there is a mix of buildings; on the left, there appears to be a warehouse or industrial building, and on the right, there are taller structures that could be residential or commercial buildings. The sky is clear and blue, indicating good weather. In the distance, there's a prominent skyline with several high-rise buildings, including what seems to be a distinctive, modern structure which might be a notable landmark. There is also a large body of water adjacent to this skyline, suggesting the city may be situated near a river or lake. The image has a horizontal orientation and is taken during daylight hours, as indicated by the shadows on the buildings.",
+      "duration_sec": 1.49,
+      "image_id": 59
+    },
+    {
+      "image": "20250304 033046_left_camera_W047_left_camera.jpg",
+      "caption": "The image shows a night-time street scene from an elevated vantage point, likely from a building or an overpass. The street appears to be empty with no visible traffic or pedestrians. There are some businesses on the right side of the street, and storefronts have illuminated signs and displays. Streetlights along both sides of the road are turned off, contributing to the quiet ambiance of the scene.\n\nThe sky is dark, suggesting it is late evening or early nighttime. The atmosphere appears calm with no visible activity or movement. The image has a watermark text that reads \"Copyright 2015,\" indicating the photograph's copyright status from the time of its creation. This suggests that the image was taken in 2015 and is protected by copyright laws.\n\nPlease note that if you have any questions about the description, feel free to ask!",
+      "duration_sec": 1.59,
+      "image_id": 39
+    },
+    {
+      "image": "20250305 153032_left_camera_W047_left_camera.jpg",
+      "caption": "The image shows a street scene under an overcast sky with dark clouds indicating possible rain or storm conditions. The road is empty with no visible vehicles, and there are traffic arrows painted on the pavement. On the left side of the road, there are shops that appear to be part of a shopping center or strip mall. The architecture suggests they may be small businesses with storefronts.\n\nOn the right side of the image, there is a sign indicating a \"Budweiser\" establishment and another sign that is partially obscured by the clouds, but it seems to be an advertisement for a fast-food restaurant chain. In the background, there's a building with what appears to be a parking lot to its left. The overall impression is of a suburban or commercial area that looks somewhat desolate due to the weather conditions.",
+      "duration_sec": 1.57,
+      "image_id": 34
+    },
+    {
+      "image": "20250306 063536_left_camera_W047_left_camera.jpg",
+      "caption": "The image depicts a nighttime view of an urban street intersection. There is a wide road with several lanes and streetlights providing illumination. On the right side of the image, there are commercial establishments with their lights on, including what appears to be a storefront with a lit sign. A tree can be seen at the corner, partially obscuring the view of the intersection. The sky is dark with some clouds, suggesting it might be early evening or late night. There are no people visible in the image due to the darkness and camera settings.",
+      "duration_sec": 1.1,
+      "image_id": 35
+    },
+    {
+      "image": "20250316 140050_right_camera_W05F_right_camera.jpg",
+      "caption": "The image shows a city street scene viewed from a high vantage point, possibly from a bridge or an elevated platform. In the foreground, there's a multi-lane road with traffic signs and markings. To the left, there is a building that appears to be part of an industrial complex, indicated by large red brick structures. The buildings have red roofs and are bordered by a chain-link fence. On the right side of the street, there's a line of trees that divide the road from another area which seems to be a park or recreational space.\n\nIn the distance, you can see a skyline with modern buildings, including what looks like high-rise residential towers. The architecture suggests it could be in an urban environment. The sky is overcast, and the overall lighting and color suggest that the photo was taken during the day under cloudy or possibly rainy conditions.",
+      "duration_sec": 1.62,
+      "image_id": 60
+    },
+    {
+      "image": "20250319 144516_left_camera_W049_left_camera.jpg",
+      "caption": "The image is a vertical photograph showing an elevated roadway overlooking a cityscape. In the foreground, there's a clear view of two vehicles traveling on the highway, which runs through the center of the image, divided by dashed lines. To the left and right sides of the highway, there are traffic lanes marked with white dash lines and solid white lane markers. The road appears to be well-maintained with a concrete surface.\n\nThere is an onramp visible to the left side of the frame, leading up to the elevated section of the highway. On this ramp, there is a person walking towards the highway, carrying what looks like a bicycle or a similar object. The sky above is clear with no clouds visible, indicating good weather conditions.\n\nIn the distance, you can see the outlines of buildings that appear to be part of an urban environment, along with what seems to be a body of water on the right side. There are no distinctive landmarks or notable features that stand out, suggesting it could be a generic section of a highway in a city. The sun is shining brightly, casting shadows on the road and highlighting the details of the scene.\n\nOn the lower left corner of the image, there's a watermark or logo that seems to be related to security cameras, but it's not clear enough to read the text accurately. This could indicate that the photo was taken with a surveillance camera mounted at this location.",
+      "duration_sec": 2.44,
+      "image_id": 43
+    },
+    {
+      "image": "20250322 193519_left_camera_W049_left_camera.jpg",
+      "caption": "The image is a photograph depicting an urban scene. It shows a multi-lane highway with several cars in motion, traveling in both directions. In the foreground, there are two lanes of traffic; the vehicles are modern and appear to be parked or moving slowly due to congestion. In the background, the city skyline is visible with multiple buildings of various heights, suggesting a densely populated area. There's a bridge crossing over the highway, and on the right side of the photo, there is a pedestrian walkway running parallel to the road. The sky is clear, indicating good weather conditions at the time the photo was taken.",
+      "duration_sec": 1.27,
+      "image_id": 46
+    },
+    {
+      "image": "20250324 142507_right_camera_W060_right_camera.jpg",
+      "caption": "The image appears to be a screenshot from a live video feed. It shows an elevated view of an urban street with an overhead roadway and underpass. The street is lined with buildings, including one that resembles a Target store on the right side of the frame, which has its distinctive logo visible. There's a building with a brick facade in the background on the left side of the image. The overpass has a sign indicating a speed limit or a directional instruction, but the text is not clear enough to read accurately.\n\nThe street below is empty except for a car parked on the right side. There are also trees visible along the roadside. To the left, there's an area of grass and some vehicles in a parking lot adjacent to the roadway. The overall impression is that of an urban landscape with infrastructure typical of cities in North America.\n\nThe quality of the image suggests it might be captured from a traffic camera or a security surveillance camera. The perspective is from above, providing a top-down view of the scene below.",
+      "duration_sec": 1.81,
+      "image_id": 67
+    },
+    {
+      "image": "20250326 173517_left_camera_W049_left_camera.jpg",
+      "caption": "The image shows a view of an elevated highway overpassing another road below. The highway is divided into multiple lanes with vehicles parked or driving along its length. In the foreground, there's a barrier separating the two roads, and a few cars are visible on both sides. Surrounding the highway are buildings that appear to be part of an urban environment. In the distance, you can see the skyline of a city with tall structures. The lighting suggests it might be either early morning or late afternoon. There is no visible text or distinctive brands in the image.",
+      "duration_sec": 1.2,
+      "image_id": 45
+    },
+    {
+      "image": "20250328 043525_left_camera_W04A_left_camera.jpg",
+      "caption": "The image shows a nighttime view of an urban street scene. There is a traffic signal with illuminated red and green lights, indicating a stop command for vehicles heading toward the camera and a go command for those coming from the other direction. The street has multiple lanes marked by white lines and there are pedestrian crossing signals showing \"Walk\" signs. A white arrow pointing right suggests the direction for turning onto another road. There is no traffic visible on this particular stretch of the road, contributing to an empty street.\n\nOn the left side of the street, there is a row of parked cars with their headlights off. The vehicles appear to be in a designated parking area adjacent to the main roadway. On the right side of the image, there are street lights providing illumination along the roadside and on the street itself.\n\nThe sky above appears dark, suggesting nighttime conditions. The photograph has a perspective from an elevated vantage point, possibly taken from inside a vehicle or a nearby building. There is a watermark visible across the image with text that reads \"Image credit: www.imagecredit.com.\" This indicates that the image may be subject to copyright restrictions and that the viewer should check the source for any license requirements.",
+      "duration_sec": 2.01,
+      "image_id": 54
+    },
+    {
+      "image": "20250329 115508_left_camera_W049_left_camera.jpg",
+      "caption": "The image appears to be a wide-angle photograph of an urban scene. At the forefront, there's a large, gray concrete overpass that spans across the center and right side of the image. Below this overpass, there is a four-lane highway with solid white markings dividing the lanes; the lanes are currently clear of any vehicles. On the left side of the image, there is a watermark or logo on the concrete surface that reads \"City\", but it's partially obscured by the angle and the overpass. In the background, there are several buildings visible, suggesting an urban setting with multi-story structures. There's also a skyscraper with multiple levels in the far distance, which indicates the image might have been taken in or around a city center. The lighting suggests it could be either dawn or dusk due to the soft and diffused illumination.",
+      "duration_sec": 1.64,
+      "image_id": 41
+    },
+    {
+      "image": "20250330 034025_left_camera_W060_left_camera.jpg",
+      "caption": "The image shows a nighttime view of a city street during or after rainfall, as indicated by the wet surfaces and reflections on the ground. The street is illuminated by streetlights and there are vehicle lights, suggesting that traffic is flowing. In the foreground, there's a building with a visible window reflecting the light from the outside. There are water droplets visible in the image, creating streaks and distortions that give the scene an artistic or abstract quality. The style of the image seems to be a digital manipulation or filter, as indicated by the stylized textures on the ground and around the edges of the photo.",
+      "duration_sec": 1.27,
+      "image_id": 66
+    },
+    {
+      "image": "20250331 202537_right_camera_W062_right_camera.jpg",
+      "caption": "The image shows a street intersection with multiple lanes of traffic and pedestrians visible on both sides of the road. There's a crosswalk for pedestrians and several traffic lights to control the flow of vehicles. A large street sign is prominently displayed, showing directional guidance and possibly providing information about the intersecting streets. The architecture suggests it might be in an urban area with multi-story buildings lining the road. It appears to be a clear day with no visible weather conditions. There are trees alongside the road, indicating some greenery within the urban environment.",
+      "duration_sec": 1.2,
+      "image_id": 86
+    },
+    {
+      "image": "20250401 063523_left_camera_W04A_left_camera.jpg",
+      "caption": "The image shows an urban night scene of a city street at a traffic intersection. The street is lit by artificial light, and there are no people visible in this area. On the right side of the image, there is a white sign with a black arrow pointing to the left. Above the sign, there is a smaller red light illuminated. To the left, there is a series of concrete traffic barriers indicating a crosswalk for pedestrians and cyclists. The barriers are painted in a light color, possibly white or grey, with black lettering that is too small to read clearly. In the background, there is an overpass and some architectural structures, but they are not the focus of this image. On the left side, the skyline includes city lights and a bridge, which suggests the photo was taken near water, as bridges often span rivers or other bodies of water. There are no visible vehicles on the street. The style of the image is a real-life photograph with a perspective that captures both the road and its surroundings.",
+      "duration_sec": 1.78,
+      "image_id": 55
+    },
+    {
+      "image": "20250405 081017_left_camera_W05F_left_camera.jpg",
+      "caption": "The image appears to be a still from a surveillance or traffic camera showing a street scene at night. It captures a rainy or wet condition, as evidenced by the reflection on the surface where the photo is taken from. The streetlights are turned on, illuminating the pavement and creating reflections that mimic falling raindrops.\n\nOn the right side of the image, there's a traffic signal with multiple lights, indicating different lanes or directions for vehicles to follow. The traffic light is glowing red, which typically means for drivers to stop at the intersection ahead.\n\nIn the background, there are buildings that suggest an urban environment. The architecture and lighting indicate that it could be in a downtown area of a city, possibly in the vicinity of a busy intersection or commercial district.\n\nThe image also contains some digital artifacts or glitches that seem to be distorting the colors and image quality. These might be due to motion blur, lens flare, or other camera-related issues.\n\nOverall, the image provides a snapshot of an urban night scene with wet conditions, reflective surfaces, and traffic signals, likely taken from a traffic or security camera.",
+      "duration_sec": 2.0,
+      "image_id": 57
+    },
+    {
+      "image": "20250405 202020_left_camera_W049_left_camera.jpg",
+      "caption": "The image depicts an aerial view of a highway overpass during daylight hours. The bridge structure appears to be made of concrete, and there are white lines painted on its surface, which typically indicate lanes for vehicles. Below the overpass, several cars are visible moving in both directions of traffic. There is also a vehicle with an open top driving on the right side of the road, likely following the flow of traffic. The surrounding environment includes urban infrastructure such as buildings and possibly some greenery or trees, although it's difficult to discern specific details from this angle. The sky is overcast, suggesting it might be a cloudy day. There are no visible texts or distinctive markings that provide additional context about the location or conditions of the image.",
+      "duration_sec": 1.4,
+      "image_id": 48
+    },
+    {
+      "image": "20250405 205516_left_camera_W047_left_camera.jpg",
+      "caption": "The image shows an urban street scene on a cloudy day, with various vehicles and pedestrians visible. There is a mix of residential and commercial buildings lining the street. Cars are driving on both sides of the road, which has multiple traffic lanes. The sky is overcast, suggesting it could be during late afternoon or early evening due to the soft lighting. There are trees with bare branches in the foreground, indicating that it might be autumn or winter. The quality of the image is a bit grainy and appears to be taken from a distance or through glass, as indicated by the slight reflection at the bottom of the photo.",
+      "duration_sec": 1.21,
+      "image_id": 37
+    },
+    {
+      "image": "20250405 231023_left_camera_W064_left_camera.jpg",
+      "caption": "The image shows a city street scene viewed from an elevated perspective, likely from a balcony or higher floor of a building. In the foreground, there's a bicycle lane with a blue paint designation, and a crosswalk that also features a painted pattern, possibly for enhanced visibility to drivers. There are no people visible on the street at this time.\n\nIn the mid-ground, you can see buildings, one of which has a modern glass facade, suggesting an urban environment. The architecture suggests a mix of residential and commercial buildings.\n\nThe background reveals a skyline with various towers, some of which have reflective glass surfaces. The street is surrounded by traffic lights and signs, indicating it's a controlled intersection or segment of the street. There are no visible pedestrians in the image.\n\nOverall, the photo captures an urban setting during daylight hours with a focus on transportation infrastructure.",
+      "duration_sec": 1.66,
+      "image_id": 92
+    }
+  ]
+}

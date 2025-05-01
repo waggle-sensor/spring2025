@@ -1,0 +1,2233 @@
+{
+    "info": {
+        "year": 2025,
+        "version": "1.0",
+        "description": "Generated captions from paligemma",
+        "contributor": "Cody",
+        "url": "",
+        "date_created": "2025-04-07T00:00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution License",
+            "url": "http://example.com/license"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "20240508 034929_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-08 03:49:29.499063963+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-right-0.2.5/000048b02d15bc3d/1715140169499063963-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 2,
+            "file_name": "20240606 093209_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-06-06 09:32:09.917595489+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-right-0.2.5/000048b02d15bc3d/1717666329917595489-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 3,
+            "file_name": "20240530 170010_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-30 17:00:10.581099474+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1717088410581099474-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 4,
+            "file_name": "20240721 200011_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-07-21 20:00:11.036847016+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bc3d/1721592011036847016-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 5,
+            "file_name": "20240411 150009_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-04-11 15:00:09.859552281+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1712847609859552281-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 6,
+            "file_name": "20240711 045919_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-07-11 04:59:19.375121776+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-left-0.2.5/000048b02d15bc3d/1720673959375121776-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 7,
+            "file_name": "20240507 074332_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-07 07:43:32.977489177+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-left-0.2.5/000048b02d15bc3d/1715067812977489177-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 8,
+            "file_name": "20240603 120015_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-06-03 12:00:15.789066950+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1717416015789066950-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 9,
+            "file_name": "20240517 070011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-17 07:00:11.016129609+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1715929211016129609-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 10,
+            "file_name": "20240605 090016_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-06-05 09:00:16.595130479+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1717578016595130479-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 11,
+            "file_name": "20240409 210012_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-09 21:00:12.603192903+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1712696412603192903-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 12,
+            "file_name": "20240429 210011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-29 21:00:11.201936621+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1714424411201936621-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 13,
+            "file_name": "20240604 180016_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-06-04 18:00:16.734927510+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1717524016734927510-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 14,
+            "file_name": "20240519 060011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-19 06:00:11.294336440+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1716098411294336440-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 15,
+            "file_name": "20250214 064519_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-14 06:45:19.891920470+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1739515519891920470-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 16,
+            "file_name": "20250117 063504_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-01-17 06:35:04.936255916+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1737095704936255916-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 17,
+            "file_name": "20250202 142510_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-02 14:25:10.249940336+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1738506310249940336-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 18,
+            "file_name": "20250222 092029_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-22 09:20:29.529331044+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1740216029529331044-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 19,
+            "file_name": "20250217 023010_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-17 02:30:10.761606236+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1739759410761606236-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 20,
+            "file_name": "20250210 215509_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-10 21:55:09.712463583+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1739224509712463583-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 21,
+            "file_name": "20241221 101015_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2024-12-21 10:10:15.062992093+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1734775815062992093-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 22,
+            "file_name": "20241227 124505_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2024-12-27 12:45:05.953389356+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1735303505953389356-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 23,
+            "file_name": "20250301 012526_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-03-01 01:25:26.403164575+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1740792326403164575-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 24,
+            "file_name": "20250225 215520_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-25 21:55:20.483171026+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1740520520483171026-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 25,
+            "file_name": "20250214 141514_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-14 14:15:14.432774253+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1739542514432774253-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 26,
+            "file_name": "20250211 193046_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-02-11 19:30:46.267644462+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1739302246267644462-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 27,
+            "file_name": "20250222 200525_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-22 20:05:25.309062863+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1740254725309062863-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 28,
+            "file_name": "20250205 043013_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-02-05 04:30:13.524170180+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1738729813524170180-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 29,
+            "file_name": "20241225 022505_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2024-12-25 02:25:05.764314148+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1735093505764314148-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 30,
+            "file_name": "20250130 194010_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-01-30 19:40:10.274478733+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1738266010274478733-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 31,
+            "file_name": "20241222 233007_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2024-12-22 23:30:07.415246199+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1734910207415246199-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 32,
+            "file_name": "20250128 114510_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-01-28 11:45:10.940058148+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1738064710940058148-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 33,
+            "file_name": "20250227 112113_right_camera_W047_right_camera.jpg",
+            "date_time_taken": "2025-02-27 11:21:13.736721492+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "right_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae32e/1740655273736721492-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 34,
+            "file_name": "20250305 153032_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-03-05 15:30:32.682104544+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1741188632682104544-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 35,
+            "file_name": "20250306 063536_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-03-06 06:35:36.970835673+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1741242936970835673-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 36,
+            "file_name": "20241220 150009_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2024-12-20 15:00:09.370601819+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1734706809370601819-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 37,
+            "file_name": "20250405 205516_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-04-05 20:55:16.212032312+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1743886516212032312-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 38,
+            "file_name": "20250217 153009_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-17 15:30:09.928148458+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1739806209928148458-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 39,
+            "file_name": "20250304 033046_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-03-04 03:30:46.544789966+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1741059046544789966-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 40,
+            "file_name": "20241224 031507_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2024-12-24 03:15:07.773667477+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1735010107773667477-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 41,
+            "file_name": "20250329 115508_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-03-29 11:55:08.763504168+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1743249308763504168-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 42,
+            "file_name": "20241227 173510_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2024-12-27 17:35:10.798871318+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1735320910798871318-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 43,
+            "file_name": "20250319 144516_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-03-19 14:45:16.215460935+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1742395516215460935-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 44,
+            "file_name": "20250202 201104_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-02-02 20:11:04.096332303+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1738527064096332303-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 45,
+            "file_name": "20250326 173517_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-03-26 17:35:17.947231996+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1743010517947231996-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 46,
+            "file_name": "20250322 193519_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-03-22 19:35:19.300356405+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1742672119300356405-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 47,
+            "file_name": "20250213 232514_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-13 23:25:14.366080937+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1739489114366080937-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 48,
+            "file_name": "20250405 202020_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-04-05 20:20:20.142458755+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1743884420142458755-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 49,
+            "file_name": "20250215 065513_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-02-15 06:55:13.732768693+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1739602513732768693-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 50,
+            "file_name": "20250113 004007_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-13 00:40:07.033369128+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1736728807033369128-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 51,
+            "file_name": "20250204 052513_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-02-04 05:25:13.109564573+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1738646713109564573-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 53,
+            "file_name": "20250103 065008_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-03 06:50:08.806655528+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1735887008806655528-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 54,
+            "file_name": "20250328 043525_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-03-28 04:35:25.639049712+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1743136525639049712-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 55,
+            "file_name": "20250401 063523_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-04-01 06:35:23.625850064+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1743489323625850064-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 56,
+            "file_name": "20250204 202012_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-02-04 20:20:12.883836282+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1738700412883836282-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 57,
+            "file_name": "20250405 081017_left_camera_W05F_left_camera.jpg",
+            "date_time_taken": "2025-04-05 08:10:17.865626638+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "left_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae25f/1743840617865626638-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 58,
+            "file_name": "20241219 060509_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2024-12-19 06:05:09.365417124+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1734588309365417124-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 59,
+            "file_name": "20250303 223022_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-03 22:30:22.990886562+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1741041022990886562-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 60,
+            "file_name": "20250316 140050_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-16 14:00:50.541907405+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1742133650541907405-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 61,
+            "file_name": "20241217 230010_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2024-12-17 23:00:10.465836798+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1734476410465836798-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 62,
+            "file_name": "20250103 183006_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-01-03 18:30:06.755620131+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1735929006755620131-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 63,
+            "file_name": "20250205 052524_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-02-05 05:25:24.523978452+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1738733124523978452-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 64,
+            "file_name": "20241221 030505_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2024-12-21 03:05:05.424324155+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1734750305424324155-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 65,
+            "file_name": "20250301 163543_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-01 16:35:43.356856381+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1740846943356856381-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 66,
+            "file_name": "20250330 034025_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-30 03:40:25.842242503+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1743306025842242503-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 67,
+            "file_name": "20250324 142507_right_camera_W060_right_camera.jpg",
+            "date_time_taken": "2025-03-24 14:25:07.799832047+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "right_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae27c/1742826307799832047-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 68,
+            "file_name": "20250124 111011_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-01-24 11:10:11.430568106+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1737717011430568106-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 69,
+            "file_name": "20250209 231015_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-09 23:10:15.660282780+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739142615660282780-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 70,
+            "file_name": "20250123 155008_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-23 15:50:08.043654529+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737647408043654529-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 71,
+            "file_name": "20250131 081008_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-01-31 08:10:08.353720999+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1738311008353720999-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 72,
+            "file_name": "20250218 041016_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-18 04:10:16.928878561+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739851816928878561-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 73,
+            "file_name": "20250214 012512_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-14 01:25:12.824543839+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739496312824543839-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 74,
+            "file_name": "20250219 095024_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-19 09:50:24.281432047+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739958624281432047-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 75,
+            "file_name": "20250208 080016_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-08 08:00:16.770651255+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739001616770651255-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 76,
+            "file_name": "20250122 021008_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-22 02:10:08.177341784+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737511808177341784-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 77,
+            "file_name": "20250207 164522_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-07 16:45:22.446446485+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1738946722446446485-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 78,
+            "file_name": "20250117 060008_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-17 06:00:08.439659253+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737093608439659253-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 79,
+            "file_name": "20241217 020014_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2024-12-17 02:00:14.888133003+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1734400814888133003-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 80,
+            "file_name": "20250127 154012_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-27 15:40:12.305454395+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1737992412305454395-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 81,
+            "file_name": "20250123 224011_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-01-23 22:40:11.663252010+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1737672011663252010-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 82,
+            "file_name": "20250127 164513_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-27 16:45:13.762157535+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1737996313762157535-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 83,
+            "file_name": "20250215 193518_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-02-15 19:35:18.083989099+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1739648118083989099-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 84,
+            "file_name": "20250117 212508_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-01-17 21:25:08.830405379+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1737149108830405379-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 85,
+            "file_name": "20250218 170514_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-02-18 17:05:14.842751310+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1739898314842751310-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 86,
+            "file_name": "20250331 202537_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-03-31 20:25:37.411608652+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1743452737411608652-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 87,
+            "file_name": "20250206 184008_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-06 18:40:08.048611326+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1738867208048611326-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 88,
+            "file_name": "20250228 091050_right_camera_W063_right_camera.jpg",
+            "date_time_taken": "2025-02-28 09:10:50.637601980+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "right_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae221/1740733850637601980-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 89,
+            "file_name": "20250210 030018_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-10 03:00:18.365466042+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1739156418365466042-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 90,
+            "file_name": "20241021 170012_nan_W063_sample.jpg",
+            "date_time_taken": "2024-10-21 17:00:12.082894006+00:00",
+            "node": "000048b02d3ae221",
+            "camera": NaN,
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d3ae221/1729530012082894006-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 91,
+            "file_name": "20250209 064508_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-09 06:45:08.137217489+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1739083508137217489-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 92,
+            "file_name": "20250405 231023_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-04-05 23:10:23.968596304+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1743894623968596304-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 93,
+            "file_name": "20250201 022512_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-02-01 02:25:12.945571486+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1738376712945571486-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 94,
+            "file_name": "20241227 150148_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2024-12-27 15:01:48.486290182+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1735311708486290182-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 95,
+            "file_name": "20250220 123105_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-02-20 12:31:05.815358258+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1740054665815358258-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 96,
+            "file_name": "20250215 145513_right_camera_W064_right_camera.jpg",
+            "date_time_taken": "2025-02-15 14:55:13.868916006+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "right_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae318/1739631313868916006-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 97,
+            "file_name": "20250103 230014_top_camera_W085_top_camera.jpg",
+            "date_time_taken": "2025-01-03 23:00:14.891747480+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "top_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-2631/sage-imagesampler-top-0.3.5/000048b02d35a9ce/1735945214891747480-top_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 98,
+            "file_name": "20240507 190009_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-07 19:00:09.094634303+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-577/sage-imagesampler-top-0.3.0/000048b02d35a9ce/1715108409094634303-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 99,
+            "file_name": "20240713 100007_nan_W085_sample.jpg",
+            "date_time_taken": "2024-07-13 10:00:07.003190276+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-577/sage-imagesampler-top-0.3.0/000048b02d35a9ce/1720864807003190276-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 100,
+            "file_name": "20240507 190009_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-07 19:00:09.263302568+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1715108409263302568-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 101,
+            "file_name": "20240727 180034_nan_W085_sample.jpg",
+            "date_time_taken": "2024-07-27 18:00:34.931695982+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-577/sage-imagesampler-top-0.3.0/000048b02d35a9ce/1722103234931695982-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "caption": "Night vision",
+            "labels": [
+                "Night",
+                "vision"
+            ]
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "caption": "This is a night time image of a fence with a cat walking along it.",
+            "labels": [
+                "night",
+                "time",
+                "image",
+                "fence",
+                "cat"
+            ]
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "caption": "Fence",
+            "labels": [
+                "Fence"
+            ]
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "caption": "This is a picture of a fence that has been cut and is now covered with a tarp to prevent the grass from growing through it.",
+            "labels": [
+                "picture",
+                "fence",
+                "tarp",
+                "grass"
+            ]
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "caption": "Chain link fence",
+            "labels": [
+                "Chain",
+                "link",
+                "fence"
+            ]
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "caption": "This is a picture of a cat that is walking around in the backyard.",
+            "labels": [
+                "picture",
+                "cat",
+                "backyard"
+            ]
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "caption": "Dog in the backyard",
+            "labels": [
+                "Dog",
+                "backyard"
+            ]
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "caption": "Shade cloth",
+            "labels": [
+                "Shade",
+                "cloth"
+            ]
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "caption": "The sun is shining through the fence and the shade cloth is blowing in the wind.",
+            "labels": [
+                "sun",
+                "fence",
+                "shade",
+                "cloth",
+                "wind"
+            ]
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "caption": "The image shows a person in a dark area behind a fence.",
+            "labels": [
+                "image",
+                "person",
+                "dark",
+                "area",
+                "fence"
+            ]
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "caption": "fence",
+            "labels": [
+                "fence"
+            ]
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "caption": "fence",
+            "labels": [
+                "fence"
+            ]
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "caption": "fence",
+            "labels": [
+                "fence"
+            ]
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "caption": "The sun is shining through the fence and the tarp is blowing in the wind.",
+            "labels": [
+                "sun",
+                "fence",
+                "tarp",
+                "wind"
+            ]
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "caption": "The view from the hotel room window at night.",
+            "labels": [
+                "view",
+                "hotel",
+                "room",
+                "window",
+                "night"
+            ]
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "caption": "The bike lane is not separated from the roadway.",
+            "labels": [
+                "bike",
+                "lane",
+                "roadway"
+            ]
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "caption": "The intersection of 16th and 17th streets in downtown Denver.",
+            "labels": [
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "downtown",
+                "Denver"
+            ]
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "caption": "This is a view of the intersection of 16th and 17th streets.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "caption": "The image shows a group of autonomous vehicles on a test track.",
+            "labels": [
+                "image",
+                "group",
+                "autonomous",
+                "vehicles",
+                "test",
+                "track"
+            ]
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "caption": "The driver of the car was speeding and was not paying attention to the road.",
+            "labels": [
+                "driver",
+                "car",
+                "attention",
+                "road"
+            ]
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "caption": "The driver of this vehicle is suspected of having been involved in a hit and run.",
+            "labels": [
+                "driver",
+                "vehicle",
+                "hit"
+            ]
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "caption": "This is a picture of a busy intersection in the city of Chicago.",
+            "labels": [
+                "picture",
+                "busy",
+                "intersection",
+                "city",
+                "Chicago"
+            ]
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "caption": "The image shows a busy intersection with a lot of traffic.",
+            "labels": [
+                "image",
+                "busy",
+                "intersection",
+                "lot",
+                "traffic"
+            ]
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "caption": "The image shows a typical intersection in the city.",
+            "labels": [
+                "image",
+                "typical",
+                "intersection",
+                "city"
+            ]
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking north.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "north"
+            ]
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "caption": "This image shows a typical intersection with a one-way street and a two-way street.",
+            "labels": [
+                "image",
+                "typical",
+                "intersection",
+                "way",
+                "street",
+                "way",
+                "street"
+            ]
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "caption": "The intersection of 16th and 17th streets in the 16th Ward.",
+            "labels": [
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "16th",
+                "Ward"
+            ]
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "caption": "This is a picture of a busy intersection in the city of Chicago.",
+            "labels": [
+                "picture",
+                "busy",
+                "intersection",
+                "city",
+                "Chicago"
+            ]
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "caption": "This is a live view of the intersection of 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and 16th and",
+            "labels": [
+                "live",
+                "view",
+                "intersection",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th",
+                "16th"
+            ]
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "caption": "This is a picture of a street intersection.",
+            "labels": [
+                "picture",
+                "street",
+                "intersection"
+            ]
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "caption": "This image shows a pedestrian crossing the street in a crosswalk.",
+            "labels": [
+                "image",
+                "pedestrian",
+                "street",
+                "crosswalk"
+            ]
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "caption": "The view from the top of the building.",
+            "labels": [
+                "view",
+                "building"
+            ]
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "caption": "This is a live webcam of the intersection of 10th and 11th streets in the city of Detroit.",
+            "labels": [
+                "live",
+                "webcam",
+                "intersection",
+                "10th",
+                "11th",
+                "streets",
+                "city",
+                "Detroit"
+            ]
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "caption": "The view from the 10th floor of the building.",
+            "labels": [
+                "view",
+                "10th",
+                "floor",
+                "building"
+            ]
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "caption": "This is a view of the intersection of 16th and 17th streets in the 16th Ward.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "16th",
+                "Ward"
+            ]
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "caption": "This is a view of the intersection of 10th and 10th Avenue NW.",
+            "labels": [
+                "view",
+                "intersection",
+                "10th",
+                "10th",
+                "Avenue",
+                "NW"
+            ]
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "caption": "Nighttime view of the intersection of 16th and 17th streets.",
+            "labels": [
+                "Nighttime",
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "caption": "Nighttime view of the intersection of 16th and 17th streets.",
+            "labels": [
+                "Nighttime",
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "caption": "This is a view of the 10th Street bridge looking south.",
+            "labels": [
+                "view",
+                "10th",
+                "Street",
+                "bridge"
+            ]
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking north.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "north"
+            ]
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "caption": "The camera is facing east.",
+            "labels": [
+                "camera",
+                "east"
+            ]
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "caption": "This is a view of the intersection of 12th and 13th streets in the 13th ward.",
+            "labels": [
+                "view",
+                "intersection",
+                "12th",
+                "13th",
+                "streets",
+                "13th",
+                "ward"
+            ]
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "caption": "This is a view of the bridge from the south side looking north.",
+            "labels": [
+                "view",
+                "bridge",
+                "south",
+                "north"
+            ]
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "caption": "This is a view of the traffic on the bridge looking south.",
+            "labels": [
+                "view",
+                "traffic",
+                "bridge"
+            ]
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "caption": "This is a view of the traffic on the bridge looking south.",
+            "labels": [
+                "view",
+                "traffic",
+                "bridge"
+            ]
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "caption": "This is a webcam image of the 10th Street bridge looking east.",
+            "labels": [
+                "webcam",
+                "image",
+                "10th",
+                "Street",
+                "bridge",
+                "east"
+            ]
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "caption": "webcam",
+            "labels": [
+                "webcam"
+            ]
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "caption": "Night view of the city",
+            "labels": [
+                "Night",
+                "view",
+                "city"
+            ]
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "caption": "Night",
+            "labels": [
+                "Night"
+            ]
+        },
+        {
+            "id": 53,
+            "image_id": 53,
+            "caption": "Seoul, South Korea",
+            "labels": [
+                "Seoul",
+                "South",
+                "Korea"
+            ]
+        },
+        {
+            "id": 54,
+            "image_id": 54,
+            "caption": "This is a picture of a road.",
+            "labels": [
+                "picture",
+                "road"
+            ]
+        },
+        {
+            "id": 55,
+            "image_id": 55,
+            "caption": "The view from the bridge looking south.",
+            "labels": [
+                "view",
+                "bridge"
+            ]
+        },
+        {
+            "id": 56,
+            "image_id": 56,
+            "caption": "The intersection of 10th and 11th streets in the district.",
+            "labels": [
+                "intersection",
+                "10th",
+                "11th",
+                "streets",
+                "district"
+            ]
+        },
+        {
+            "id": 57,
+            "image_id": 57,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 58,
+            "image_id": 58,
+            "caption": "Night time view of the construction site.",
+            "labels": [
+                "Night",
+                "time",
+                "view",
+                "construction",
+                "site"
+            ]
+        },
+        {
+            "id": 59,
+            "image_id": 59,
+            "caption": "The skyline of downtown Winnipeg as seen from the Red River Valley Trail.",
+            "labels": [
+                "skyline",
+                "downtown",
+                "Winnipeg",
+                "Red",
+                "River",
+                "Valley",
+                "Trail"
+            ]
+        },
+        {
+            "id": 60,
+            "image_id": 60,
+            "caption": "The skyline of downtown Minneapolis from the west bank of the Mississippi River.",
+            "labels": [
+                "skyline",
+                "downtown",
+                "Minneapolis",
+                "west",
+                "bank",
+                "Mississippi",
+                "River"
+            ]
+        },
+        {
+            "id": 61,
+            "image_id": 61,
+            "caption": "This is a photo of a police chase in progress.",
+            "labels": [
+                "photo",
+                "police",
+                "chase",
+                "progress"
+            ]
+        },
+        {
+            "id": 62,
+            "image_id": 62,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking south.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 63,
+            "image_id": 63,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 64,
+            "image_id": 64,
+            "caption": "The image shows a busy intersection at night.",
+            "labels": [
+                "image",
+                "busy",
+                "intersection",
+                "night"
+            ]
+        },
+        {
+            "id": 65,
+            "image_id": 65,
+            "caption": "Street view of 16th and Lincoln",
+            "labels": [
+                "Street",
+                "view",
+                "16th",
+                "Lincoln"
+            ]
+        },
+        {
+            "id": 66,
+            "image_id": 66,
+            "caption": "This image was captured by a camera mounted on the front of the vehicle.",
+            "labels": [
+                "image",
+                "camera",
+                "vehicle"
+            ]
+        },
+        {
+            "id": 67,
+            "image_id": 67,
+            "caption": "The ramp to the bridge is shown in the foreground.",
+            "labels": [
+                "ramp",
+                "bridge",
+                "foreground"
+            ]
+        },
+        {
+            "id": 68,
+            "image_id": 68,
+            "caption": "This is a picture of the intersection of 16th and 17th streets.",
+            "labels": [
+                "picture",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 69,
+            "image_id": 69,
+            "caption": "This is a view of the intersection of 16th and Michigan.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "Michigan"
+            ]
+        },
+        {
+            "id": 70,
+            "image_id": 70,
+            "caption": "This is a view of the intersection of 16th and Michigan. The intersection is in the middle of the image. The intersection is in the middle of the image.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "Michigan",
+                "intersection",
+                "middle",
+                "image",
+                "intersection",
+                "middle",
+                "image"
+            ]
+        },
+        {
+            "id": 71,
+            "image_id": 71,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 72,
+            "image_id": 72,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 73,
+            "image_id": 73,
+            "caption": "The image shows a traffic stop on the 1000 block of 10th Street.",
+            "labels": [
+                "image",
+                "traffic",
+                "stop",
+                "block",
+                "10th",
+                "Street"
+            ]
+        },
+        {
+            "id": 74,
+            "image_id": 74,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 75,
+            "image_id": 75,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking south.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 76,
+            "image_id": 76,
+            "caption": "The white car is the model s.",
+            "labels": [
+                "white",
+                "car",
+                "model",
+                "s."
+            ]
+        },
+        {
+            "id": 77,
+            "image_id": 77,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking north.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "north"
+            ]
+        },
+        {
+            "id": 78,
+            "image_id": 78,
+            "caption": "This is a webcam image of the intersection of 10th and 10th and 10th and 11th.",
+            "labels": [
+                "webcam",
+                "image",
+                "intersection",
+                "10th",
+                "10th",
+                "10th",
+                "11th"
+            ]
+        },
+        {
+            "id": 79,
+            "image_id": 79,
+            "caption": "The view from the camera looking down at the intersection of 10th and 11th streets.",
+            "labels": [
+                "view",
+                "camera",
+                "intersection",
+                "10th",
+                "11th",
+                "streets"
+            ]
+        },
+        {
+            "id": 80,
+            "image_id": 80,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking north.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "north"
+            ]
+        },
+        {
+            "id": 81,
+            "image_id": 81,
+            "caption": "Intersection",
+            "labels": [
+                "Intersection"
+            ]
+        },
+        {
+            "id": 82,
+            "image_id": 82,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 83,
+            "image_id": 83,
+            "caption": "The bike lane is clearly marked and separated from the traffic.",
+            "labels": [
+                "bike",
+                "lane",
+                "traffic"
+            ]
+        },
+        {
+            "id": 84,
+            "image_id": 84,
+            "caption": "The intersection of 16th and 16th and 16th and 15th.",
+            "labels": [
+                "intersection",
+                "16th",
+                "16th",
+                "16th",
+                "15th"
+            ]
+        },
+        {
+            "id": 85,
+            "image_id": 85,
+            "caption": "The intersection of 16th and 17th streets.",
+            "labels": [
+                "intersection",
+                "16th",
+                "17th",
+                "streets"
+            ]
+        },
+        {
+            "id": 86,
+            "image_id": 86,
+            "caption": "This is a view of the intersection of 16th and 17th streets looking north.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "north"
+            ]
+        },
+        {
+            "id": 87,
+            "image_id": 87,
+            "caption": "The driver of this car was not wearing a seatbelt.",
+            "labels": [
+                "driver",
+                "car",
+                "seatbelt"
+            ]
+        },
+        {
+            "id": 88,
+            "image_id": 88,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 89,
+            "image_id": 89,
+            "caption": "The driver of this vehicle was arrested and charged with reckless driving.",
+            "labels": [
+                "driver",
+                "vehicle",
+                "reckless",
+                "driving"
+            ]
+        },
+        {
+            "id": 90,
+            "image_id": 90,
+            "caption": "The intersection of 16th and 17th streets in the 16th Street Mall area.",
+            "labels": [
+                "intersection",
+                "16th",
+                "17th",
+                "streets",
+                "16th",
+                "Street",
+                "Mall",
+                "area"
+            ]
+        },
+        {
+            "id": 91,
+            "image_id": 91,
+            "caption": "Street view",
+            "labels": [
+                "Street",
+                "view"
+            ]
+        },
+        {
+            "id": 92,
+            "image_id": 92,
+            "caption": "The view from the camera looking north on Michigan Avenue.",
+            "labels": [
+                "view",
+                "camera",
+                "north",
+                "Michigan",
+                "Avenue"
+            ]
+        },
+        {
+            "id": 93,
+            "image_id": 93,
+            "caption": "This is a picture of a city street at night.",
+            "labels": [
+                "picture",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 94,
+            "image_id": 94,
+            "caption": "This is a view of the intersection of 16th and Michigan.",
+            "labels": [
+                "view",
+                "intersection",
+                "16th",
+                "Michigan"
+            ]
+        },
+        {
+            "id": 95,
+            "image_id": 95,
+            "caption": "Chicago, IL",
+            "labels": [
+                "Chicago",
+                "IL"
+            ]
+        },
+        {
+            "id": 96,
+            "image_id": 96,
+            "caption": "The image shows a car driving on a bike lane.",
+            "labels": [
+                "image",
+                "car",
+                "bike",
+                "lane"
+            ]
+        },
+        {
+            "id": 97,
+            "image_id": 97,
+            "caption": "No clouds",
+            "labels": [
+                "clouds"
+            ]
+        },
+        {
+            "id": 98,
+            "image_id": 98,
+            "caption": "Click here to view the image in full size",
+            "labels": [
+                "image",
+                "size"
+            ]
+        },
+        {
+            "id": 99,
+            "image_id": 99,
+            "caption": "The sky is clear and the clouds are moving slowly.",
+            "labels": [
+                "sky",
+                "clear",
+                "clouds"
+            ]
+        },
+        {
+            "id": 100,
+            "image_id": 100,
+            "caption": "Click here to view the image in full size",
+            "labels": [
+                "image",
+                "size"
+            ]
+        },
+        {
+            "id": 101,
+            "image_id": 101,
+            "caption": "The sky is covered with clouds.",
+            "labels": [
+                "sky",
+                "clouds"
+            ]
+        }
+    ]
+}

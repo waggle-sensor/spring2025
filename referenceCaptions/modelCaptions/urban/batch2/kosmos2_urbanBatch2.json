@@ -1,0 +1,2995 @@
+{
+    "info": {
+        "year": 2025,
+        "version": "1.0",
+        "description": "Generated captions from kosmos2",
+        "contributor": "Cody",
+        "url": "",
+        "date_created": "2025-04-07T00:00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution License",
+            "url": "http://example.com/license"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "20240504 134113_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-04 13:41:13.269850989+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-left-0.2.5/000048b02d15bc3d/1714830073269850989-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 2,
+            "file_name": "20240506 070012_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-06 07:00:12.177762299+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1714978812177762299-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 3,
+            "file_name": "20240512 220010_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-12 22:00:10.991487090+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1715551210991487090-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 4,
+            "file_name": "20240614 103724_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-06-14 10:37:24.697411496+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-right-0.2.5/000048b02d15bc3d/1718361444697411496-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 5,
+            "file_name": "20240506 060010_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-06 06:00:10.945623416+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1714975210945623416-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 6,
+            "file_name": "20240516 120011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-16 12:00:11.942490344+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1715860811942490344-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 7,
+            "file_name": "20240604 010016_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-06-04 01:00:16.733409586+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1717462816733409586-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 8,
+            "file_name": "20240513 100011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-13 10:00:11.423518048+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1715594411423518048-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 9,
+            "file_name": "20240411 160012_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-11 16:00:12.215183797+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1712851212215183797-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 10,
+            "file_name": "20240421 040011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-21 04:00:11.075799236+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1713672011075799236-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 11,
+            "file_name": "20250129 193006_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-01-29 19:30:06.979405142+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1738179006979405142-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 12,
+            "file_name": "20241209 090014_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2024-12-09 09:00:14.913969762+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3b1304/1733734814913969762-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 13,
+            "file_name": "20241220 030015_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2024-12-20 03:00:15.366712864+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1734663615366712864-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 14,
+            "file_name": "20250204 194510_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-04 19:45:10.161718384+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1738698310161718384-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 15,
+            "file_name": "20250209 183020_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-09 18:30:20.288925578+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1739125820288925578-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 16,
+            "file_name": "20250405 071011_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-04-05 07:10:11.798993551+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1743837011798993551-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 17,
+            "file_name": "20250202 061010_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-02 06:10:10.604674181+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1738476610604674181-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 18,
+            "file_name": "20241223 211015_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2024-12-23 21:10:15.248657060+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1734988215248657060-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 19,
+            "file_name": "20250205 062019_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-05 06:20:19.669225959+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1738736419669225959-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 20,
+            "file_name": "20250211 151511_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-11 15:15:11.536324109+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1739286911536324109-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 21,
+            "file_name": "20250211 060016_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-11 06:00:16.173387544+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1739253616173387544-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 22,
+            "file_name": "20250201 170514_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-01 17:05:14.158922034+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1738429514158922034-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 23,
+            "file_name": "20250124 051010_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-01-24 05:10:10.507237559+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1737695410507237559-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 24,
+            "file_name": "20250220 192517_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-20 19:25:17.182940163+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1740079517182940163-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 25,
+            "file_name": "20250205 100513_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-05 10:05:13.698470754+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1738749913698470754-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 26,
+            "file_name": "20241228 083007_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2024-12-28 08:30:07.738346614+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1735374607738346614-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 27,
+            "file_name": "20250210 082513_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-10 08:25:13.991703915+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1739175913991703915-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 28,
+            "file_name": "20250129 072011_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-01-29 07:20:11.315775251+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1738135211315775251-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 29,
+            "file_name": "20241215 170007_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2024-12-15 17:00:07.936041702+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.5/000048b02d3ae328/1734282007936041702-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 30,
+            "file_name": "20250222 001027_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-22 00:10:27.148004405+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1740183027148004405-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 31,
+            "file_name": "20250201 052010_right_camera_W047_right_camera.jpg",
+            "date_time_taken": "2025-02-01 05:20:10.567597726+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "right_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae32e/1738387210567597726-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 32,
+            "file_name": "20250217 125509_right_camera_W047_right_camera.jpg",
+            "date_time_taken": "2025-02-17 12:55:09.192053739+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "right_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae32e/1739796909192053739-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 33,
+            "file_name": "20250118 231520_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-01-18 23:15:20.752319619+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1737242120752319619-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 34,
+            "file_name": "20250203 125009_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-03 12:50:09.770514228+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1738587009770514228-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 35,
+            "file_name": "20250201 084049_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-01 08:40:49.846206747+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1738399249846206747-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 36,
+            "file_name": "20250219 004509_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-19 00:45:09.526988448+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1739925909526988448-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 37,
+            "file_name": "20241224 051008_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2024-12-24 05:10:08.689179074+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1735017008689179074-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 38,
+            "file_name": "20250213 113016_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-13 11:30:16.555339631+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1739446216555339631-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 39,
+            "file_name": "20250220 161019_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-20 16:10:19.464940229+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1740067819464940229-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 40,
+            "file_name": "20250203 023514_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-03 02:35:14.501262240+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1738550114501262240-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 41,
+            "file_name": "20241226 103510_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2024-12-26 10:35:10.495914157+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1735209310495914157-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 42,
+            "file_name": "20250303 212124_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-03-03 21:21:24.964923732+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1741036884964923732-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 43,
+            "file_name": "20250321 212008_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-03-21 21:20:08.972423815+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1742592008972423815-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 44,
+            "file_name": "20250402 102511_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-04-02 10:25:11.275564666+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1743589511275564666-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 45,
+            "file_name": "20250130 020505_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-30 02:05:05.108082284+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1738202705108082284-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 46,
+            "file_name": "20250127 041007_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-27 04:10:07.762808759+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1737951007762808759-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 47,
+            "file_name": "20250220 092012_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-02-20 09:20:12.655539413+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1740043212655539413-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 48,
+            "file_name": "20250110 142006_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-01-10 14:20:06.975255322+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1736518806975255322-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 49,
+            "file_name": "20250219 131013_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-02-19 13:10:13.230619516+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1739970613230619516-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 50,
+            "file_name": "20241220 235009_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2024-12-20 23:50:09.625762835+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1734738609625762835-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 51,
+            "file_name": "20250310 071544_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-03-10 07:15:44.346395688+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1741590944346395688-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 52,
+            "file_name": "20250321 151517_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-03-21 15:15:17.035943811+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1742570117035943811-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 53,
+            "file_name": "20241218 181509_left_camera_W05F_left_camera.jpg",
+            "date_time_taken": "2024-12-18 18:15:09.560221156+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "left_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae25f/1734545709560221156-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 54,
+            "file_name": "20250310 071017_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-10 07:10:17.427818469+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1741590617427818469-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 55,
+            "file_name": "20250105 020012_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-01-05 02:00:12.768835581+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1736042412768835581-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 56,
+            "file_name": "20250309 064518_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-09 06:45:18.288797824+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1741502718288797824-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 57,
+            "file_name": "20250309 074516_left_camera_W05F_left_camera.jpg",
+            "date_time_taken": "2025-03-09 07:45:16.778796636+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "left_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae25f/1741506316778796636-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 58,
+            "file_name": "20241215 080010_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2024-12-15 08:00:10.570059546+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1734249610570059546-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 59,
+            "file_name": "20250301 091104_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-01 09:11:04.503498342+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1740820264503498342-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 60,
+            "file_name": "20250319 041146_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-19 04:11:46.478571852+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1742357506478571852-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 61,
+            "file_name": "20250130 181021_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-01-30 18:10:21.346037109+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1738260621346037109-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 62,
+            "file_name": "20250214 063512_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-14 06:35:12.551450074+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739514912551450074-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 63,
+            "file_name": "20250219 161513_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-19 16:15:13.346067451+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739981713346067451-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 64,
+            "file_name": "20250131 060016_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-01-31 06:00:16.405130695+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1738303216405130695-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 65,
+            "file_name": "20250216 144020_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-16 14:40:20.503294544+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739716820503294544-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 66,
+            "file_name": "20250213 020013_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-13 02:00:13.647148983+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739412013647148983-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 67,
+            "file_name": "20250118 211507_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-18 21:15:07.076473188+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737234907076473188-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 68,
+            "file_name": "20241207 210012_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2024-12-07 21:00:12.489976956+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1733605212489976956-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 69,
+            "file_name": "20250125 222007_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-25 22:20:07.295501637+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737843607295501637-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 70,
+            "file_name": "20250217 075016_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-17 07:50:16.289129037+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739778616289129037-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 71,
+            "file_name": "20241222 061012_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2024-12-22 06:10:12.383958549+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1734847812383958549-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 72,
+            "file_name": "20250127 085511_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-27 08:55:11.467988552+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1737968111467988552-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 73,
+            "file_name": "20250301 232542_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-03-01 23:25:42.528107847+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1740871542528107847-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 74,
+            "file_name": "20250225 211532_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-02-25 21:15:32.564104957+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1740518132564104957-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 75,
+            "file_name": "20250215 131013_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-02-15 13:10:13.255625658+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1739625013255625658-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 76,
+            "file_name": "20250101 131018_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-01-01 13:10:18.457307346+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1735737018457307346-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 77,
+            "file_name": "20250115 005509_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-15 00:55:09.578160362+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1736902509578160362-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 78,
+            "file_name": "20250216 122517_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-16 12:25:17.454321747+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1739708717454321747-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 79,
+            "file_name": "20250328 000513_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-03-28 00:05:13.598879221+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1743120313598879221-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 80,
+            "file_name": "20250226 070513_right_camera_W063_right_camera.jpg",
+            "date_time_taken": "2025-02-26 07:05:13.089210655+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "right_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae221/1740553513089210655-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 81,
+            "file_name": "20250302 120535_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-03-02 12:05:35.807954639+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1740917135807954639-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 82,
+            "file_name": "20250222 060021_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-22 06:00:21.887466786+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1740204021887466786-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 83,
+            "file_name": "20241229 105506_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2024-12-29 10:55:06.963258435+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1735469706963258435-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 84,
+            "file_name": "20250201 125013_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-02-01 12:50:13.016211999+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1738414213016211999-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 85,
+            "file_name": "20250106 213507_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-01-06 21:35:07.561789411+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1736199307561789411-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 86,
+            "file_name": "20250104 214506_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-01-04 21:45:06.646518728+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1736027106646518728-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 87,
+            "file_name": "20241218 223507_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2024-12-18 22:35:07.445449360+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1734561307445449360-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 88,
+            "file_name": "20250314 204510_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-03-14 20:45:10.898234645+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1741985110898234645-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 89,
+            "file_name": "20241224 022506_right_camera_W064_right_camera.jpg",
+            "date_time_taken": "2024-12-24 02:25:06.336661524+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "right_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae318/1735007106336661524-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 90,
+            "file_name": "20240410 140008_nan_W085_sample.jpg",
+            "date_time_taken": "2024-04-10 14:00:08.957316283+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1712757608957316283-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 91,
+            "file_name": "20240512 200009_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-12 20:00:09.097828538+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1715544009097828538-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 92,
+            "file_name": "20250210 030011_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-02-10 03:00:11.911780+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1739156411911780000-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 93,
+            "file_name": "20250111 110015_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-01-11 11:00:15.055212454+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1736593215055212454-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 94,
+            "file_name": "20240511 130008_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-11 13:00:08.957206232+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1715432408957206232-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 95,
+            "file_name": "20240804 020016_nan_W085_sample.jpg",
+            "date_time_taken": "2024-08-04 02:00:16.394812150+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1722736816394812150-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 96,
+            "file_name": "20250203 050011_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-02-03 05:00:11.745352587+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1738558811745352587-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 97,
+            "file_name": "20250314 050008_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-03-14 05:00:08.434699929+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1741928408434699929-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 98,
+            "file_name": "20250212 190012_top_camera_W085_top_camera.jpg",
+            "date_time_taken": "2025-02-12 19:00:12.125288403+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "top_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-2631/sage-imagesampler-top-0.3.5/000048b02d35a9ce/1739386812125288403-top_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "caption": "The image depicts a fenced-in area with a green tarp covering the ground. The tarp is covering a portion of the area, and there are several plants growing in the area.",
+            "labels": [
+                "image",
+                "area",
+                "green",
+                "tarp",
+                "ground",
+                "tarp",
+                "portion",
+                "area",
+                "plants",
+                "area"
+            ]
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "caption": "The image depicts a nighttime scene with a chain-link fence in the foreground. The fence is illuminated by a spotlight, creating a dark and mysterious atmosphere.",
+            "labels": [
+                "image",
+                "nighttime",
+                "scene",
+                "chain",
+                "link",
+                "fence",
+                "foreground",
+                "fence",
+                "spotlight",
+                "dark",
+                "mysterious",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "caption": "The image depicts a fenced-in area with a chain-link fence surrounding it. The fence is positioned at the edge of a grassy field, and there are trees in the background.",
+            "labels": [
+                "image",
+                "area",
+                "chain",
+                "link",
+                "fence",
+                "fence",
+                "edge",
+                "grassy",
+                "field",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "caption": "The scene depicts a grassy field with a chain-link fence surrounding it. There are several trees in the background, adding to the natural beauty of the area.",
+            "labels": [
+                "scene",
+                "grassy",
+                "field",
+                "chain",
+                "link",
+                "fence",
+                "trees",
+                "background",
+                "natural",
+                "beauty",
+                "area"
+            ]
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "caption": "The image depicts a large, black, and white, chain-link fence with a mesh covering. The fence is located in a field, and there are trees in the background.",
+            "labels": [
+                "image",
+                "large",
+                "black",
+                "white",
+                "chain",
+                "link",
+                "fence",
+                "mesh",
+                "covering",
+                "fence",
+                "field",
+                "trees",
+                "background"
+            ]
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "caption": "The scene depicts a chain-link fence with a green tarp covering it. The tarp is partially covering the fence, and there are several holes in the tarp, likely from a bullet or other projectile.",
+            "labels": [
+                "scene",
+                "chain",
+                "link",
+                "fence",
+                "green",
+                "tarp",
+                "tarp",
+                "fence",
+                "holes",
+                "tarp",
+                "bullet",
+                "projectile"
+            ]
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "caption": "The scene depicts a green fence with a hole in it, possibly caused by vandalism or a natural disaster. The fence is located in a grassy area, and there are several pieces of broken glass scattered around the area.",
+            "labels": [
+                "scene",
+                "green",
+                "fence",
+                "hole",
+                "vandalism",
+                "natural",
+                "disaster",
+                "fence",
+                "grassy",
+                "area",
+                "pieces",
+                "broken",
+                "glass",
+                "area"
+            ]
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "caption": "The image depicts a black and white photo of a fence with a broken chain link fence. The fence is leaning against a building, possibly a warehouse or a factory.",
+            "labels": [
+                "image",
+                "black",
+                "white",
+                "photo",
+                "fence",
+                "broken",
+                "chain",
+                "link",
+                "fence",
+                "fence",
+                "building",
+                "warehouse",
+                "factory"
+            ]
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "caption": "The scene depicts a chain-link fence with a green tarp covering it. The tarp is hanging down, covering the fence's top and bottom sections.",
+            "labels": [
+                "scene",
+                "chain",
+                "link",
+                "fence",
+                "green",
+                "tarp",
+                "tarp",
+                "fence",
+                "sections"
+            ]
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "caption": "The image depicts a fenced-in area with a chain-link fence. The fence is covered in a net, which is likely to protect the area from birds or other animals.",
+            "labels": [
+                "image",
+                "area",
+                "chain",
+                "link",
+                "fence",
+                "fence",
+                "net",
+                "likely",
+                "area",
+                "birds",
+                "animals"
+            ]
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "caption": "The scene depicts a busy city street with a man crossing the street. He is walking across the street, and there are several cars and trucks on the road.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "man",
+                "street",
+                "street",
+                "cars",
+                "trucks",
+                "road"
+            ]
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "caption": "The scene is a nighttime cityscape with a wet street and a wet sidewalk. The street is wet from rain, and the sidewalk is wet as well.",
+            "labels": [
+                "scene",
+                "nighttime",
+                "cityscape",
+                "wet",
+                "street",
+                "wet",
+                "sidewalk",
+                "street",
+                "wet",
+                "rain",
+                "sidewalk",
+                "wet"
+            ]
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "caption": "The scene depicts a busy city street at night, with a wet street and a wet road. There are several cars on the street, including a car on the left side of the image, a car in the middle of the street on the right side, and a car further down the street.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "street",
+                "wet",
+                "road",
+                "cars",
+                "street",
+                "car",
+                "left",
+                "image",
+                "car",
+                "middle",
+                "street",
+                "right",
+                "car",
+                "street"
+            ]
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "caption": "The scene depicts a busy city street with a large intersection with multiple cars and a bicycle. There are multiple cars on the street, some of which are stopped at a red light.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "large",
+                "intersection",
+                "multiple",
+                "cars",
+                "bicycle",
+                "multiple",
+                "cars",
+                "street",
+                "red",
+                "light"
+            ]
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "caption": "The scene depicts a busy city intersection with a large number of cars and pedestrians. There are multiple cars and a truck driving through the intersection, with some cars stopped at the traffic lights.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "large",
+                "number",
+                "cars",
+                "pedestrians",
+                "multiple",
+                "cars",
+                "truck",
+                "intersection",
+                "cars",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "caption": "The scene is a rainy night in a city, with a wet street and a crosswalk. The street is wet from the rain, and the crosswalk is wet as well.",
+            "labels": [
+                "scene",
+                "rainy",
+                "night",
+                "city",
+                "wet",
+                "street",
+                "crosswalk",
+                "street",
+                "wet",
+                "rain",
+                "crosswalk",
+                "wet"
+            ]
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "caption": "The scene depicts a city street at night, with a bicycle parked on the side of the road. The bicycle is positioned in the middle of the street, and there are several people walking around the area.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "bicycle",
+                "road",
+                "bicycle",
+                "middle",
+                "street",
+                "people",
+                "area"
+            ]
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "caption": "The scene depicts a busy city street with a blue car parked on the side of the road. The car is surrounded by a line of cars, including a few cars parked closer to the curb.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "blue",
+                "car",
+                "road",
+                "car",
+                "line",
+                "cars",
+                "cars",
+                "curb"
+            ]
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "caption": "The scene depicts a city street at night, with a street light illuminating the area. The street is empty, with only a few cars visible on the road.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "street",
+                "light",
+                "area",
+                "street",
+                "cars",
+                "visible",
+                "road"
+            ]
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "caption": "The scene depicts a busy city street with a black SUV driving down the road. There are several cars and a bus in the scene, with one car being the main focus.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "black",
+                "SUV",
+                "road",
+                "cars",
+                "bus",
+                "scene",
+                "car",
+                "main",
+                "focus"
+            ]
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "caption": "The image depicts a city street at night, with a car driving down the road. The car is positioned on the left side of the street, and it appears to be moving at a relatively slow pace.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "car",
+                "road",
+                "car",
+                "left",
+                "street",
+                "slow",
+                "pace"
+            ]
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "caption": "The scene depicts a busy city street with a mix of cars and trucks. There are at least ten cars and a truck driving on the road, with some of them closer to the center of the image and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "mix",
+                "cars",
+                "trucks",
+                "cars",
+                "truck",
+                "road",
+                "center",
+                "image"
+            ]
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "caption": "The scene depicts a busy city intersection at night, with several cars and a truck driving through the intersection. There are multiple traffic lights in the scene, with one at the top of the image and another at the bottom.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "night",
+                "cars",
+                "truck",
+                "intersection",
+                "multiple",
+                "traffic",
+                "lights",
+                "scene",
+                "image"
+            ]
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "caption": "The scene depicts a busy city intersection with multiple cars driving on a curved road. There are at least six cars visible in the image, with some closer to the center and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "multiple",
+                "cars",
+                "curved",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "center"
+            ]
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "caption": "The image depicts a city street at night, with a large empty parking lot in the middle of the road. The street is empty, and there are no cars visible.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "large",
+                "parking",
+                "lot",
+                "middle",
+                "road",
+                "street",
+                "cars",
+                "visible"
+            ]
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "caption": "The scene depicts a city street at night, with a wet and foggy atmosphere. The street is lined with traffic lights, with one red light at the intersection of two streets.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "foggy",
+                "atmosphere",
+                "street",
+                "traffic",
+                "lights",
+                "red",
+                "light",
+                "intersection",
+                "streets"
+            ]
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "caption": "The scene depicts a snowy city street at night, with a few cars driving on the road. There are several cars visible on the street, with some closer to the center and others further away.",
+            "labels": [
+                "scene",
+                "snowy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "street",
+                "closer",
+                "center"
+            ]
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "caption": "The scene depicts a snowy city street at night, with a red traffic light at the intersection. The street is empty, with only a few cars and a few pedestrians visible.",
+            "labels": [
+                "scene",
+                "snowy",
+                "city",
+                "street",
+                "night",
+                "red",
+                "traffic",
+                "light",
+                "intersection",
+                "street",
+                "cars",
+                "pedestrians",
+                "visible"
+            ]
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "caption": "The scene depicts a busy city intersection with multiple cars and trucks driving through the intersection. There are at least ten cars and a truck visible in the image, with some of them closer to the center of the intersection and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "multiple",
+                "cars",
+                "trucks",
+                "intersection",
+                "cars",
+                "truck",
+                "visible",
+                "image",
+                "center",
+                "intersection"
+            ]
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "caption": "The scene depicts a busy city street at night, with a mix of cars and trucks driving down the road. There are numerous cars and a truck driving down a two-lane road, with some cars and one truck occupying the left side of the road and others on the right side.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "mix",
+                "cars",
+                "trucks",
+                "road",
+                "numerous",
+                "cars",
+                "truck",
+                "lane",
+                "road",
+                "cars",
+                "truck",
+                "left",
+                "road",
+                "right"
+            ]
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "caption": "The scene depicts a busy city street at night, with a traffic light controlling the flow of vehicles. There are several cars on the street, including a blue car and a truck, as well as a bus.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "light",
+                "flow",
+                "vehicles",
+                "cars",
+                "street",
+                "blue",
+                "car",
+                "truck",
+                "bus"
+            ]
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "caption": "The scene depicts a busy city street with a traffic light at an intersection. There are several cars and trucks on the road, with some of them stopped at the traffic light.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "traffic",
+                "light",
+                "intersection",
+                "cars",
+                "trucks",
+                "road",
+                "traffic",
+                "light"
+            ]
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "caption": "The scene depicts a busy city street at night, with several cars parked along the side of the road. There are several cars in the image, including a couple of cars on the left side of a street, a car on the right side of that street, and a car in the middle of the street.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "road",
+                "cars",
+                "image",
+                "couple",
+                "cars",
+                "left",
+                "street",
+                "car",
+                "right",
+                "street",
+                "car",
+                "middle",
+                "street"
+            ]
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "caption": "The scene depicts a busy city street at night, with a bus and several cars driving down the road. The street is lined with numerous cars, including a few parked along the curb.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "bus",
+                "cars",
+                "road",
+                "street",
+                "numerous",
+                "cars",
+                "curb"
+            ]
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "caption": "The scene depicts a city street at night, with a dark sky overhead. The street is empty, with only a few cars and a few people visible.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "dark",
+                "sky",
+                "street",
+                "cars",
+                "people",
+                "visible"
+            ]
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "caption": "The scene depicts a busy city street at night, with a large number of cars driving down the road. There are at least twelve cars visible in the image, with some of them occupying the entire width of the street.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "large",
+                "number",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "entire",
+                "width",
+                "street"
+            ]
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "caption": "The scene depicts a city street at night, with a wet and foggy atmosphere. The street is lined with several cars, including a few parked along the curb and others driving down the road.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "foggy",
+                "atmosphere",
+                "street",
+                "cars",
+                "curb",
+                "road"
+            ]
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "caption": "The image depicts a wet and empty highway at night, with a city skyline in the background. The highway is empty, with only a few cars visible on the road.",
+            "labels": [
+                "image",
+                "wet",
+                "highway",
+                "night",
+                "city",
+                "skyline",
+                "background",
+                "highway",
+                "cars",
+                "visible",
+                "road"
+            ]
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "caption": "The image depicts a wide, empty highway with a city skyline in the background. The highway is empty, with only a few cars and trucks driving on it.",
+            "labels": [
+                "image",
+                "wide",
+                "highway",
+                "city",
+                "skyline",
+                "background",
+                "highway",
+                "cars",
+                "trucks"
+            ]
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "caption": "The image depicts a wet and empty highway at night, with a few cars visible on the road. The highway is surrounded by a cityscape, with several streetlights illuminating the area.",
+            "labels": [
+                "image",
+                "wet",
+                "highway",
+                "night",
+                "cars",
+                "visible",
+                "road",
+                "highway",
+                "cityscape",
+                "streetlights",
+                "area"
+            ]
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "caption": "The image depicts a foggy night on a highway, with a wet road and a few cars visible. The road is empty, and the cars are parked along the side of the road.",
+            "labels": [
+                "image",
+                "foggy",
+                "night",
+                "highway",
+                "wet",
+                "road",
+                "cars",
+                "visible",
+                "road",
+                "cars",
+                "road"
+            ]
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "caption": "The scene depicts a busy city street with a large highway overpass. The highway is filled with numerous cars, including a few trucks and a bus.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "large",
+                "highway",
+                "overpass",
+                "highway",
+                "numerous",
+                "cars",
+                "trucks",
+                "bus"
+            ]
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "caption": "The scene depicts a busy city street with a large number of cars driving down the road. There are at least twelve cars visible in the image, with some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "large",
+                "number",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "foreground"
+            ]
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "caption": "The scene is a rainy night at a busy city street with a parking lot and a parking garage. The parking lot is filled with cars, and there are several cars parked in the lot.",
+            "labels": [
+                "scene",
+                "rainy",
+                "night",
+                "busy",
+                "city",
+                "street",
+                "parking",
+                "lot",
+                "parking",
+                "garage",
+                "parking",
+                "lot",
+                "cars",
+                "cars",
+                "lot"
+            ]
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "caption": "The scene depicts a busy city street at night, with several cars driving down the road. There are at least five cars visible in the image, with some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "foreground"
+            ]
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "caption": "The scene depicts a busy city street at night, with a car driving down the road. The car is surrounded by traffic lights, indicating that the road is well-lit.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "car",
+                "road",
+                "car",
+                "traffic",
+                "lights",
+                "road",
+                "lit"
+            ]
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "caption": "The image depicts a city street at night, with a snow-covered street corner and a car parked on the side of the road. The street is lit up by streetlights, creating a warm and inviting atmosphere.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "snow",
+                "street",
+                "corner",
+                "car",
+                "road",
+                "street",
+                "streetlights",
+                "warm",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "caption": "The scene depicts a snowy city street with a large building in the background. The street is covered in snow, and there are several cars parked along the curb.",
+            "labels": [
+                "scene",
+                "snowy",
+                "city",
+                "street",
+                "large",
+                "building",
+                "background",
+                "street",
+                "snow",
+                "cars",
+                "curb"
+            ]
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "caption": "The image depicts a snowy city street with a person riding a bicycle. The street is surrounded by buildings, including a large building with a clock on it.",
+            "labels": [
+                "image",
+                "snowy",
+                "city",
+                "street",
+                "person",
+                "bicycle",
+                "street",
+                "buildings",
+                "large",
+                "building",
+                "clock"
+            ]
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "caption": "The scene depicts a busy city street at night, with several cars driving down the road. There are at least six cars visible in the image, with some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "foreground"
+            ]
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "caption": "The scene depicts a city street at night, with a large bridge spanning the river. The bridge is lit up with streetlights, creating a beautiful and vibrant atmosphere.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "large",
+                "bridge",
+                "river",
+                "bridge",
+                "streetlights",
+                "beautiful",
+                "vibrant",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 52,
+            "image_id": 52,
+            "caption": "The scene depicts a white SUV driving down a city street with a city skyline in the background. The SUV is driving on a wide, empty road, with no other vehicles visible.",
+            "labels": [
+                "scene",
+                "white",
+                "SUV",
+                "city",
+                "street",
+                "city",
+                "skyline",
+                "background",
+                "SUV",
+                "wide",
+                "road",
+                "vehicles",
+                "visible"
+            ]
+        },
+        {
+            "id": 53,
+            "image_id": 53,
+            "caption": "The image depicts a city street with a large black helicopter flying above it. The helicopter is positioned on the side of a building, and it appears to be flying in the air.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "large",
+                "black",
+                "helicopter",
+                "helicopter",
+                "building",
+                "air"
+            ]
+        },
+        {
+            "id": 54,
+            "image_id": 54,
+            "caption": "The image depicts a city street at night, with a highway running through it. The street is empty, and the city skyline is visible in the background.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "highway",
+                "street",
+                "city",
+                "skyline",
+                "visible",
+                "background"
+            ]
+        },
+        {
+            "id": 55,
+            "image_id": 55,
+            "caption": "The scene depicts a city street at night, with a city skyline in the background. The street is empty, and the city lights are on, creating a calm and serene atmosphere.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "city",
+                "skyline",
+                "background",
+                "street",
+                "city",
+                "lights",
+                "calm",
+                "serene",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 56,
+            "image_id": 56,
+            "caption": "The image depicts a city highway at night, with a city skyline in the background. The highway is empty, and the lights of the city are visible on the horizon.",
+            "labels": [
+                "image",
+                "city",
+                "highway",
+                "night",
+                "city",
+                "skyline",
+                "background",
+                "highway",
+                "lights",
+                "city",
+                "visible",
+                "horizon"
+            ]
+        },
+        {
+            "id": 57,
+            "image_id": 57,
+            "caption": "The scene depicts a city street at night, with a bridge spanning the street. The bridge is surrounded by a cityscape, with several buildings visible in the background.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "bridge",
+                "street",
+                "bridge",
+                "cityscape",
+                "buildings",
+                "visible",
+                "background"
+            ]
+        },
+        {
+            "id": 58,
+            "image_id": 58,
+            "caption": "The image depicts a city street at night, with a city skyline in the background. The street is wet, and the reflection of the city lights can be seen in the wet surface.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "city",
+                "skyline",
+                "background",
+                "street",
+                "wet",
+                "reflection",
+                "city",
+                "lights",
+                "wet",
+                "surface"
+            ]
+        },
+        {
+            "id": 59,
+            "image_id": 59,
+            "caption": "The scene depicts a city street at night, with a red car driving down the road. The car is stopped at a traffic light, and there are several traffic lights visible in the scene.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "red",
+                "car",
+                "road",
+                "car",
+                "traffic",
+                "light",
+                "traffic",
+                "lights",
+                "visible",
+                "scene"
+            ]
+        },
+        {
+            "id": 60,
+            "image_id": 60,
+            "caption": "The scene depicts a city street at night, with a city skyline in the background. The street is empty, with only a few cars visible on the road.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "city",
+                "skyline",
+                "background",
+                "street",
+                "cars",
+                "visible",
+                "road"
+            ]
+        },
+        {
+            "id": 61,
+            "image_id": 61,
+            "caption": "The scene depicts a busy city street with a large number of cars parked along the side of the road. There are at least ten cars visible in the image, some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "large",
+                "number",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "foreground"
+            ]
+        },
+        {
+            "id": 62,
+            "image_id": 62,
+            "caption": "The image depicts a deserted city street at night, with a few cars visible on the road. The street is empty, with only a few streetlights illuminating the area.",
+            "labels": [
+                "image",
+                "deserted",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "visible",
+                "road",
+                "street",
+                "streetlights",
+                "area"
+            ]
+        },
+        {
+            "id": 63,
+            "image_id": 63,
+            "caption": "The scene depicts a city street with a large white bus stopped at a traffic light. The bus is positioned on the left side of the street, and there are several cars and a truck on the right side of it.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "large",
+                "white",
+                "bus",
+                "traffic",
+                "light",
+                "bus",
+                "left",
+                "street",
+                "cars",
+                "truck",
+                "right"
+            ]
+        },
+        {
+            "id": 64,
+            "image_id": 64,
+            "caption": "The scene depicts a wet city street at night, with a wet road and a wet sidewalk. The street is empty, and there are no cars visible on it.",
+            "labels": [
+                "scene",
+                "wet",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "road",
+                "wet",
+                "sidewalk",
+                "street",
+                "cars",
+                "visible"
+            ]
+        },
+        {
+            "id": 65,
+            "image_id": 65,
+            "caption": "The scene depicts a city street with a traffic light and a crosswalk. The traffic light is located at the intersection of a street and a sidewalk, and it is yellow.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "traffic",
+                "light",
+                "crosswalk",
+                "traffic",
+                "light",
+                "intersection",
+                "street",
+                "sidewalk",
+                "yellow"
+            ]
+        },
+        {
+            "id": 66,
+            "image_id": 66,
+            "caption": "The scene depicts a busy city street at night during a snowstorm. The street is covered in snow, and numerous cars are driving on it.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "snowstorm",
+                "street",
+                "snow",
+                "numerous",
+                "cars"
+            ]
+        },
+        {
+            "id": 67,
+            "image_id": 67,
+            "caption": "The scene depicts a city street with a traffic light and a stop sign. The stop sign is positioned at the intersection of two streets, with a yellow light indicating that it is safe to proceed.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "traffic",
+                "light",
+                "stop",
+                "sign",
+                "stop",
+                "sign",
+                "intersection",
+                "streets",
+                "yellow",
+                "light",
+                "safe"
+            ]
+        },
+        {
+            "id": 68,
+            "image_id": 68,
+            "caption": "The scene depicts a busy city street with a large number of cars parked along the side of the road. There are at least ten cars visible in the image, with some parked closer to the center and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "large",
+                "number",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "center"
+            ]
+        },
+        {
+            "id": 69,
+            "image_id": 69,
+            "caption": "The scene depicts a busy city street with a traffic light at an intersection. There are several cars and trucks on the road, with some parked and others driving.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "traffic",
+                "light",
+                "intersection",
+                "cars",
+                "trucks",
+                "road"
+            ]
+        },
+        {
+            "id": 70,
+            "image_id": 70,
+            "caption": "The scene is an empty city street at night, with a traffic light and a stop sign visible. The stop sign is positioned at the intersection of two streets, with the traffic light located on the left side of the street.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "light",
+                "stop",
+                "visible",
+                "stop",
+                "sign",
+                "intersection",
+                "streets",
+                "traffic",
+                "light",
+                "left",
+                "street"
+            ]
+        },
+        {
+            "id": 71,
+            "image_id": 71,
+            "caption": "The scene depicts a busy city street at night, with several cars and a police car driving down the road. There are multiple police cars and an ambulance in the scene, with one of the cars being stopped at a red light.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "police",
+                "car",
+                "road",
+                "multiple",
+                "police",
+                "cars",
+                "ambulance",
+                "scene",
+                "cars",
+                "red",
+                "light"
+            ]
+        },
+        {
+            "id": 72,
+            "image_id": 72,
+            "caption": "The scene depicts a city street at night, with a street light illuminating the area. The street is empty, with only a few cars and a truck visible.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "street",
+                "light",
+                "area",
+                "street",
+                "cars",
+                "truck",
+                "visible"
+            ]
+        },
+        {
+            "id": 73,
+            "image_id": 73,
+            "caption": "The scene depicts a busy city intersection with a green bike lane and a white arrow painted on the road. The street is filled with various vehicles, including cars, trucks, and a bus.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "green",
+                "bike",
+                "lane",
+                "white",
+                "arrow",
+                "road",
+                "street",
+                "vehicles",
+                "cars",
+                "trucks",
+                "bus"
+            ]
+        },
+        {
+            "id": 74,
+            "image_id": 74,
+            "caption": "The scene depicts a busy city intersection with a car driving through the intersection. The car is surrounded by numerous cars and trucks, including a train visible in the background.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "car",
+                "intersection",
+                "car",
+                "numerous",
+                "cars",
+                "trucks",
+                "train",
+                "visible",
+                "background"
+            ]
+        },
+        {
+            "id": 75,
+            "image_id": 75,
+            "caption": "The scene depicts a snowy city street with a stoplight and a crosswalk. The stoplight is located at the intersection of two streets, with a green light visible.",
+            "labels": [
+                "scene",
+                "snowy",
+                "city",
+                "street",
+                "stoplight",
+                "crosswalk",
+                "stoplight",
+                "intersection",
+                "streets",
+                "green",
+                "light",
+                "visible"
+            ]
+        },
+        {
+            "id": 76,
+            "image_id": 76,
+            "caption": "The scene depicts a city street at night, with a large roundabout in the middle of the intersection. The roundabout is surrounded by a few buildings, including a tall building on the left side and a smaller building on its right side.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "large",
+                "roundabout",
+                "middle",
+                "intersection",
+                "roundabout",
+                "buildings",
+                "tall",
+                "building",
+                "left",
+                "smaller",
+                "building",
+                "right"
+            ]
+        },
+        {
+            "id": 77,
+            "image_id": 77,
+            "caption": "The scene depicts a city street at night, with a lone person walking down the middle of the road. The street is surrounded by traffic lights, indicating that it is a busy intersection.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "lone",
+                "person",
+                "middle",
+                "road",
+                "street",
+                "traffic",
+                "lights",
+                "busy",
+                "intersection"
+            ]
+        },
+        {
+            "id": 78,
+            "image_id": 78,
+            "caption": "The scene depicts a city street at night, with a wet road and snow on the ground. The street is surrounded by buildings, including a tall building with a clock on the side.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "road",
+                "snow",
+                "ground",
+                "street",
+                "buildings",
+                "tall",
+                "building",
+                "clock"
+            ]
+        },
+        {
+            "id": 79,
+            "image_id": 79,
+            "caption": "The scene depicts a busy city intersection with a large number of cars driving through it. There are at least ten cars visible in the image, with some of them closer to the center and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "intersection",
+                "large",
+                "number",
+                "cars",
+                "cars",
+                "visible",
+                "image",
+                "center"
+            ]
+        },
+        {
+            "id": 80,
+            "image_id": 80,
+            "caption": "The scene depicts a city street at night, with a cityscape visible in the background. The street is empty, with only a few people visible on the sidewalks.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "cityscape",
+                "visible",
+                "background",
+                "street",
+                "people",
+                "visible",
+                "sidewalks"
+            ]
+        },
+        {
+            "id": 81,
+            "image_id": 81,
+            "caption": "The scene depicts a city street at night, with a large white bus traveling down the road. The bus is stopped at a red traffic light, and there are several cars and a truck on the street.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "large",
+                "white",
+                "bus",
+                "road",
+                "bus",
+                "red",
+                "traffic",
+                "light",
+                "cars",
+                "truck",
+                "street"
+            ]
+        },
+        {
+            "id": 82,
+            "image_id": 82,
+            "caption": "The scene depicts a city street at night, with a wet and foggy atmosphere. The street is empty, with only a few cars visible on the road.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "foggy",
+                "atmosphere",
+                "street",
+                "cars",
+                "visible",
+                "road"
+            ]
+        },
+        {
+            "id": 83,
+            "image_id": 83,
+            "caption": "The scene depicts a city street at night, with a wet and foggy atmosphere. The street is lined with tall buildings, creating a sense of urban density.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "night",
+                "wet",
+                "foggy",
+                "atmosphere",
+                "street",
+                "tall",
+                "buildings",
+                "sense",
+                "urban",
+                "density"
+            ]
+        },
+        {
+            "id": 84,
+            "image_id": 84,
+            "caption": "The scene depicts a city street with a cityscape in the background. The street is empty, with only a few cars and a few people visible.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "cityscape",
+                "background",
+                "street",
+                "cars",
+                "people",
+                "visible"
+            ]
+        },
+        {
+            "id": 85,
+            "image_id": 85,
+            "caption": "The scene depicts a city street with a wet and foggy day. The street is lined with tall buildings, including a tall building with a clock on the side.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "wet",
+                "foggy",
+                "day",
+                "street",
+                "tall",
+                "buildings",
+                "tall",
+                "building",
+                "clock"
+            ]
+        },
+        {
+            "id": 86,
+            "image_id": 86,
+            "caption": "The scene depicts a city street with a mix of cars and buses. There are several cars parked along the street, with some closer to the curb and others further away.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "mix",
+                "cars",
+                "buses",
+                "cars",
+                "street",
+                "closer",
+                "curb"
+            ]
+        },
+        {
+            "id": 87,
+            "image_id": 87,
+            "caption": "The scene depicts a busy city street at night, with a group of people walking along the sidewalk. There are several cars parked along the street, including a few near the center and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "group",
+                "people",
+                "sidewalk",
+                "cars",
+                "street",
+                "center"
+            ]
+        },
+        {
+            "id": 88,
+            "image_id": 88,
+            "caption": "The scene depicts a busy city street with a mix of cars and trucks. There are several cars parked along the street, with some closer to the curb and others further away.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "mix",
+                "cars",
+                "trucks",
+                "cars",
+                "street",
+                "closer",
+                "curb"
+            ]
+        },
+        {
+            "id": 89,
+            "image_id": 89,
+            "caption": "The scene depicts a busy city street at night, with several cars driving down the road. There are at least six cars visible in the image, with some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "foreground"
+            ]
+        },
+        {
+            "id": 90,
+            "image_id": 90,
+            "caption": "The scene depicts a busy city street with several cars driving down the road. There are at least six cars visible in the image, with some closer to the foreground and others further back.",
+            "labels": [
+                "scene",
+                "busy",
+                "city",
+                "street",
+                "cars",
+                "road",
+                "cars",
+                "visible",
+                "image",
+                "closer",
+                "foreground"
+            ]
+        },
+        {
+            "id": 91,
+            "image_id": 91,
+            "caption": "The scene depicts a city street with a person riding a bicycle on the road. The bicycle is located near the center of the image, and the person is riding in the middle of the road, with traffic on both sides.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "person",
+                "bicycle",
+                "road",
+                "bicycle",
+                "center",
+                "image",
+                "person",
+                "middle",
+                "road",
+                "traffic",
+                "sides"
+            ]
+        },
+        {
+            "id": 92,
+            "image_id": 92,
+            "caption": "The scene depicts a snowy city street at night, with a highway and several cars driving on it. The street is illuminated by streetlights, creating a warm and cozy atmosphere.",
+            "labels": [
+                "scene",
+                "snowy",
+                "city",
+                "street",
+                "night",
+                "highway",
+                "cars",
+                "street",
+                "streetlights",
+                "warm",
+                "cozy",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 93,
+            "image_id": 93,
+            "caption": "The image depicts a snowy city street at night, with a few cars visible on the road. The street is lined with trees, and there are several streetlights illuminating the area.",
+            "labels": [
+                "image",
+                "snowy",
+                "city",
+                "street",
+                "night",
+                "cars",
+                "visible",
+                "road",
+                "street",
+                "trees",
+                "streetlights",
+                "area"
+            ]
+        },
+        {
+            "id": 94,
+            "image_id": 94,
+            "caption": "The scene depicts a city street with a large parking lot in the middle. There are several cars parked in the lot, including a truck and a car.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "large",
+                "parking",
+                "lot",
+                "middle",
+                "cars",
+                "lot",
+                "truck",
+                "car"
+            ]
+        },
+        {
+            "id": 95,
+            "image_id": 95,
+            "caption": "The scene depicts a city street with a large parking lot in the middle. There are several cars parked in the lot, including a truck and a motorcycle.",
+            "labels": [
+                "scene",
+                "city",
+                "street",
+                "large",
+                "parking",
+                "lot",
+                "middle",
+                "cars",
+                "lot",
+                "truck",
+                "motorcycle"
+            ]
+        },
+        {
+            "id": 96,
+            "image_id": 96,
+            "caption": "The image depicts a snowy city street at night, with a train running along the tracks. The street is illuminated by streetlights, creating a warm and cozy atmosphere.",
+            "labels": [
+                "image",
+                "snowy",
+                "city",
+                "street",
+                "night",
+                "train",
+                "tracks",
+                "street",
+                "streetlights",
+                "warm",
+                "cozy",
+                "atmosphere"
+            ]
+        },
+        {
+            "id": 97,
+            "image_id": 97,
+            "caption": "The image depicts a city street at night, with a car driving down the road. The street is lit up with streetlights, providing a bright and well-lit environment for the car to navigate.",
+            "labels": [
+                "image",
+                "city",
+                "street",
+                "night",
+                "car",
+                "road",
+                "street",
+                "streetlights",
+                "bright",
+                "environment",
+                "car"
+            ]
+        },
+        {
+            "id": 98,
+            "image_id": 98,
+            "caption": "The image features a wide-open sky with a clear blue sky. The sky is filled with fluffy white clouds, which create a serene atmosphere.",
+            "labels": [
+                "image",
+                "open",
+                "sky",
+                "clear",
+                "blue",
+                "sky",
+                "sky",
+                "fluffy",
+                "white",
+                "clouds",
+                "serene",
+                "atmosphere"
+            ]
+        }
+    ]
+}

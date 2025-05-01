@@ -1,0 +1,2259 @@
+{
+    "info": {
+        "year": 2025,
+        "version": "1.0",
+        "description": "Generated captions from blip2",
+        "contributor": "Cody",
+        "url": "",
+        "date_created": "2025-04-07T00:00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Attribution License",
+            "url": "http://example.com/license"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "20240504 134113_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-04 13:41:13.269850989+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-left-0.2.5/000048b02d15bc3d/1714830073269850989-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 2,
+            "file_name": "20240506 070012_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-06 07:00:12.177762299+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1714978812177762299-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 3,
+            "file_name": "20240512 220010_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-05-12 22:00:10.991487090+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bc3d/1715551210991487090-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 4,
+            "file_name": "20240614 103724_nan_W01E_sample.jpg",
+            "date_time_taken": "2024-06-14 10:37:24.697411496+00:00",
+            "node": "000048b02d15bc3d",
+            "camera": NaN,
+            "vsn": "W01E",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/sage/sage-imagesampler-right-0.2.5/000048b02d15bc3d/1718361444697411496-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 5,
+            "file_name": "20240506 060010_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-06 06:00:10.945623416+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1714975210945623416-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 6,
+            "file_name": "20240516 120011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-16 12:00:11.942490344+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1715860811942490344-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 7,
+            "file_name": "20240604 010016_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-06-04 01:00:16.733409586+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1717462816733409586-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 8,
+            "file_name": "20240513 100011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-05-13 10:00:11.423518048+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.0/000048b02d15bdd2/1715594411423518048-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 9,
+            "file_name": "20240411 160012_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-11 16:00:12.215183797+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1712851212215183797-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 10,
+            "file_name": "20240421 040011_nan_W02D_sample.jpg",
+            "date_time_taken": "2024-04-21 04:00:11.075799236+00:00",
+            "node": "000048b02d15bdd2",
+            "camera": NaN,
+            "vsn": "W02D",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.0/000048b02d15bdd2/1713672011075799236-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 11,
+            "file_name": "20250129 193006_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-01-29 19:30:06.979405142+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1738179006979405142-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 12,
+            "file_name": "20241209 090014_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2024-12-09 09:00:14.913969762+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3b1304/1733734814913969762-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 13,
+            "file_name": "20241220 030015_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2024-12-20 03:00:15.366712864+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1734663615366712864-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 14,
+            "file_name": "20250204 194510_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-04 19:45:10.161718384+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1738698310161718384-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 15,
+            "file_name": "20250209 183020_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-09 18:30:20.288925578+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1739125820288925578-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 16,
+            "file_name": "20250405 071011_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-04-05 07:10:11.798993551+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1743837011798993551-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 17,
+            "file_name": "20250202 061010_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-02 06:10:10.604674181+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1738476610604674181-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 18,
+            "file_name": "20241223 211015_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2024-12-23 21:10:15.248657060+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1734988215248657060-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 19,
+            "file_name": "20250205 062019_right_camera_W040_right_camera.jpg",
+            "date_time_taken": "2025-02-05 06:20:19.669225959+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "right_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1304/1738736419669225959-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 20,
+            "file_name": "20250211 151511_left_camera_W040_left_camera.jpg",
+            "date_time_taken": "2025-02-11 15:15:11.536324109+00:00",
+            "node": "000048b02d3b1304",
+            "camera": "left_camera",
+            "vsn": "W040",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1304/1739286911536324109-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 21,
+            "file_name": "20250211 060016_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-11 06:00:16.173387544+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1739253616173387544-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 22,
+            "file_name": "20250201 170514_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-01 17:05:14.158922034+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1738429514158922034-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 23,
+            "file_name": "20250124 051010_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-01-24 05:10:10.507237559+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1737695410507237559-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 24,
+            "file_name": "20250220 192517_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-20 19:25:17.182940163+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1740079517182940163-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 25,
+            "file_name": "20250205 100513_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-05 10:05:13.698470754+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1738749913698470754-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 26,
+            "file_name": "20241228 083007_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2024-12-28 08:30:07.738346614+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1735374607738346614-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 27,
+            "file_name": "20250210 082513_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2025-02-10 08:25:13.991703915+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae328/1739175913991703915-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 28,
+            "file_name": "20250129 072011_right_camera_W046_right_camera.jpg",
+            "date_time_taken": "2025-01-29 07:20:11.315775251+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "right_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae328/1738135211315775251-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 29,
+            "file_name": "20241215 170007_left_camera_W046_left_camera.jpg",
+            "date_time_taken": "2024-12-15 17:00:07.936041702+00:00",
+            "node": "000048b02d3ae328",
+            "camera": "left_camera",
+            "vsn": "W046",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.5/000048b02d3ae328/1734282007936041702-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 30,
+            "file_name": "20250222 001027_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-22 00:10:27.148004405+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1740183027148004405-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 31,
+            "file_name": "20250201 052010_right_camera_W047_right_camera.jpg",
+            "date_time_taken": "2025-02-01 05:20:10.567597726+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "right_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae32e/1738387210567597726-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 32,
+            "file_name": "20250217 125509_right_camera_W047_right_camera.jpg",
+            "date_time_taken": "2025-02-17 12:55:09.192053739+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "right_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae32e/1739796909192053739-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 33,
+            "file_name": "20250118 231520_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-01-18 23:15:20.752319619+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1737242120752319619-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 34,
+            "file_name": "20250203 125009_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-03 12:50:09.770514228+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1738587009770514228-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 35,
+            "file_name": "20250201 084049_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-01 08:40:49.846206747+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1738399249846206747-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 36,
+            "file_name": "20250219 004509_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2025-02-19 00:45:09.526988448+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1739925909526988448-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 37,
+            "file_name": "20241224 051008_left_camera_W047_left_camera.jpg",
+            "date_time_taken": "2024-12-24 05:10:08.689179074+00:00",
+            "node": "000048b02d3ae32e",
+            "camera": "left_camera",
+            "vsn": "W047",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae32e/1735017008689179074-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 38,
+            "file_name": "20250213 113016_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-13 11:30:16.555339631+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1739446216555339631-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 39,
+            "file_name": "20250220 161019_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-20 16:10:19.464940229+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1740067819464940229-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 40,
+            "file_name": "20250203 023514_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2025-02-03 02:35:14.501262240+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1738550114501262240-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 41,
+            "file_name": "20241226 103510_left_camera_W049_left_camera.jpg",
+            "date_time_taken": "2024-12-26 10:35:10.495914157+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "left_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2f1/1735209310495914157-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 42,
+            "file_name": "20250303 212124_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-03-03 21:21:24.964923732+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1741036884964923732-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 43,
+            "file_name": "20250321 212008_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-03-21 21:20:08.972423815+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1742592008972423815-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 44,
+            "file_name": "20250402 102511_right_camera_W049_right_camera.jpg",
+            "date_time_taken": "2025-04-02 10:25:11.275564666+00:00",
+            "node": "000048b02d3ae2f1",
+            "camera": "right_camera",
+            "vsn": "W049",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2f1/1743589511275564666-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 45,
+            "file_name": "20250130 020505_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-30 02:05:05.108082284+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1738202705108082284-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 46,
+            "file_name": "20250127 041007_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-01-27 04:10:07.762808759+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1737951007762808759-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 47,
+            "file_name": "20250220 092012_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-02-20 09:20:12.655539413+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1740043212655539413-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 48,
+            "file_name": "20250110 142006_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-01-10 14:20:06.975255322+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1736518806975255322-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 49,
+            "file_name": "20250219 131013_right_camera_W04A_right_camera.jpg",
+            "date_time_taken": "2025-02-19 13:10:13.230619516+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "right_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae2eb/1739970613230619516-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 50,
+            "file_name": "20241220 235009_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2024-12-20 23:50:09.625762835+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1734738609625762835-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 51,
+            "file_name": "20250310 071544_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-03-10 07:15:44.346395688+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1741590944346395688-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 52,
+            "file_name": "20250321 151517_left_camera_W04A_left_camera.jpg",
+            "date_time_taken": "2025-03-21 15:15:17.035943811+00:00",
+            "node": "000048b02d3ae2eb",
+            "camera": "left_camera",
+            "vsn": "W04A",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae2eb/1742570117035943811-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 53,
+            "file_name": "20241218 181509_left_camera_W05F_left_camera.jpg",
+            "date_time_taken": "2024-12-18 18:15:09.560221156+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "left_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae25f/1734545709560221156-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 54,
+            "file_name": "20250310 071017_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-10 07:10:17.427818469+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1741590617427818469-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 55,
+            "file_name": "20250105 020012_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-01-05 02:00:12.768835581+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1736042412768835581-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 56,
+            "file_name": "20250309 064518_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2025-03-09 06:45:18.288797824+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1741502718288797824-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 57,
+            "file_name": "20250309 074516_left_camera_W05F_left_camera.jpg",
+            "date_time_taken": "2025-03-09 07:45:16.778796636+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "left_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae25f/1741506316778796636-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 58,
+            "file_name": "20241215 080010_right_camera_W05F_right_camera.jpg",
+            "date_time_taken": "2024-12-15 08:00:10.570059546+00:00",
+            "node": "000048b02d3ae25f",
+            "camera": "right_camera",
+            "vsn": "W05F",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-18/sage-imagesampler-right-0.3.5/000048b02d3ae25f/1734249610570059546-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 59,
+            "file_name": "20250301 091104_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-01 09:11:04.503498342+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1740820264503498342-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 60,
+            "file_name": "20250319 041146_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-03-19 04:11:46.478571852+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1742357506478571852-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 61,
+            "file_name": "20250130 181021_left_camera_W060_left_camera.jpg",
+            "date_time_taken": "2025-01-30 18:10:21.346037109+00:00",
+            "node": "000048b02d3ae27c",
+            "camera": "left_camera",
+            "vsn": "W060",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae27c/1738260621346037109-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 62,
+            "file_name": "20250214 063512_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-14 06:35:12.551450074+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739514912551450074-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 63,
+            "file_name": "20250219 161513_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-19 16:15:13.346067451+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739981713346067451-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 64,
+            "file_name": "20250131 060016_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-01-31 06:00:16.405130695+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1738303216405130695-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 65,
+            "file_name": "20250216 144020_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-16 14:40:20.503294544+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739716820503294544-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 66,
+            "file_name": "20250213 020013_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2025-02-13 02:00:13.647148983+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1739412013647148983-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 67,
+            "file_name": "20250118 211507_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-18 21:15:07.076473188+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737234907076473188-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 68,
+            "file_name": "20241207 210012_left_camera_W061_left_camera.jpg",
+            "date_time_taken": "2024-12-07 21:00:12.489976956+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "left_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-18/sage-imagesampler-left-0.3.5/000048b02d3b12e3/1733605212489976956-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 69,
+            "file_name": "20250125 222007_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-01-25 22:20:07.295501637+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1737843607295501637-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 70,
+            "file_name": "20250217 075016_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2025-02-17 07:50:16.289129037+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1739778616289129037-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 71,
+            "file_name": "20241222 061012_right_camera_W061_right_camera.jpg",
+            "date_time_taken": "2024-12-22 06:10:12.383958549+00:00",
+            "node": "000048b02d3b12e3",
+            "camera": "right_camera",
+            "vsn": "W061",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b12e3/1734847812383958549-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 72,
+            "file_name": "20250127 085511_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-27 08:55:11.467988552+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1737968111467988552-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 73,
+            "file_name": "20250301 232542_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-03-01 23:25:42.528107847+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1740871542528107847-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 74,
+            "file_name": "20250225 211532_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-02-25 21:15:32.564104957+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1740518132564104957-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 75,
+            "file_name": "20250215 131013_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-02-15 13:10:13.255625658+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1739625013255625658-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 76,
+            "file_name": "20250101 131018_left_camera_W062_left_camera.jpg",
+            "date_time_taken": "2025-01-01 13:10:18.457307346+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "left_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3b1303/1735737018457307346-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 77,
+            "file_name": "20250115 005509_right_camera_W062_right_camera.jpg",
+            "date_time_taken": "2025-01-15 00:55:09.578160362+00:00",
+            "node": "000048b02d3b1303",
+            "camera": "right_camera",
+            "vsn": "W062",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3b1303/1736902509578160362-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 78,
+            "file_name": "20250216 122517_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-16 12:25:17.454321747+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1739708717454321747-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 79,
+            "file_name": "20250328 000513_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-03-28 00:05:13.598879221+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1743120313598879221-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 80,
+            "file_name": "20250226 070513_right_camera_W063_right_camera.jpg",
+            "date_time_taken": "2025-02-26 07:05:13.089210655+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "right_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae221/1740553513089210655-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 81,
+            "file_name": "20250302 120535_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-03-02 12:05:35.807954639+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1740917135807954639-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 82,
+            "file_name": "20250222 060021_left_camera_W063_left_camera.jpg",
+            "date_time_taken": "2025-02-22 06:00:21.887466786+00:00",
+            "node": "000048b02d3ae221",
+            "camera": "left_camera",
+            "vsn": "W063",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae221/1740204021887466786-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 83,
+            "file_name": "20241229 105506_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2024-12-29 10:55:06.963258435+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1735469706963258435-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 84,
+            "file_name": "20250201 125013_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-02-01 12:50:13.016211999+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1738414213016211999-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 85,
+            "file_name": "20250106 213507_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-01-06 21:35:07.561789411+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1736199307561789411-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 86,
+            "file_name": "20250104 214506_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-01-04 21:45:06.646518728+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1736027106646518728-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 87,
+            "file_name": "20241218 223507_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2024-12-18 22:35:07.445449360+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1734561307445449360-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 88,
+            "file_name": "20250314 204510_left_camera_W064_left_camera.jpg",
+            "date_time_taken": "2025-03-14 20:45:10.898234645+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "left_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-left-2668/sage-imagesampler-left-0.3.5/000048b02d3ae318/1741985110898234645-left_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 89,
+            "file_name": "20241224 022506_right_camera_W064_right_camera.jpg",
+            "date_time_taken": "2024-12-24 02:25:06.336661524+00:00",
+            "node": "000048b02d3ae318",
+            "camera": "right_camera",
+            "vsn": "W064",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-right-2668/sage-imagesampler-right-0.3.5/000048b02d3ae318/1735007106336661524-right_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 90,
+            "file_name": "20240410 140008_nan_W085_sample.jpg",
+            "date_time_taken": "2024-04-10 14:00:08.957316283+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1712757608957316283-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 91,
+            "file_name": "20240512 200009_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-12 20:00:09.097828538+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1715544009097828538-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 92,
+            "file_name": "20250210 030011_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-02-10 03:00:11.911780+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1739156411911780000-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 93,
+            "file_name": "20250111 110015_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-01-11 11:00:15.055212454+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1736593215055212454-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 94,
+            "file_name": "20240511 130008_nan_W085_sample.jpg",
+            "date_time_taken": "2024-05-11 13:00:08.957206232+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1715432408957206232-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 95,
+            "file_name": "20240804 020016_nan_W085_sample.jpg",
+            "date_time_taken": "2024-08-04 02:00:16.394812150+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": NaN,
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-577/sage-imagesampler-bottom-0.3.0/000048b02d35a9ce/1722736816394812150-sample.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 96,
+            "file_name": "20250203 050011_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-02-03 05:00:11.745352587+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1738558811745352587-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 97,
+            "file_name": "20250314 050008_bottom_camera_W085_bottom_camera.jpg",
+            "date_time_taken": "2025-03-14 05:00:08.434699929+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "bottom_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-bottom-2631/sage-imagesampler-bottom-0.3.5/000048b02d35a9ce/1741928408434699929-bottom_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        },
+        {
+            "id": 98,
+            "file_name": "20250212 190012_top_camera_W085_top_camera.jpg",
+            "date_time_taken": "2025-02-12 19:00:12.125288403+00:00",
+            "node": "000048b02d35a9ce",
+            "camera": "top_camera",
+            "vsn": "W085",
+            "url": "https://storage.sagecontinuum.org/api/v1/data/imagesampler-top-2631/sage-imagesampler-top-0.3.5/000048b02d35a9ce/1739386812125288403-top_camera.jpg",
+            "width": 2560,
+            "height": 1920
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "caption": "a black cat sitting on a fence next to a house",
+            "labels": [
+                "black",
+                "cat",
+                "fence",
+                "house"
+            ]
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "caption": "a black and white photo of a fence at night",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "fence",
+                "night"
+            ]
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "caption": "a chain link fence with a blue pole in the middle",
+            "labels": [
+                "chain",
+                "link",
+                "fence",
+                "blue",
+                "pole",
+                "middle"
+            ]
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "caption": "a tall chain link fence in the middle of a grassy field",
+            "labels": [
+                "tall",
+                "chain",
+                "link",
+                "fence",
+                "middle",
+                "grassy",
+                "field"
+            ]
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "caption": "a black and white photo of a fence in front of a building",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "fence",
+                "building"
+            ]
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "caption": "a chain link fence",
+            "labels": [
+                "chain",
+                "link",
+                "fence"
+            ]
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "caption": "a chain link fence",
+            "labels": [
+                "chain",
+                "link",
+                "fence"
+            ]
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "caption": "a black and white photo of a fence",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "fence"
+            ]
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "caption": "a chain link fence",
+            "labels": [
+                "chain",
+                "link",
+                "fence"
+            ]
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "caption": "a black and white photo of a chain link fence",
+            "labels": [
+                "black",
+                "white",
+                "photo",
+                "chain",
+                "link",
+                "fence"
+            ]
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "caption": "a view of a city street with cars and a person crossing the street",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "cars",
+                "person",
+                "street"
+            ]
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "caption": "a view of a street at night with a traffic light",
+            "labels": [
+                "view",
+                "street",
+                "night",
+                "traffic",
+                "light"
+            ]
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "caption": "a view of a city street from above",
+            "labels": [
+                "view",
+                "city",
+                "street"
+            ]
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "caption": "this is an aerial view of an intersection in chicago",
+            "labels": [
+                "aerial",
+                "view",
+                "intersection",
+                "chicago"
+            ]
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "caption": "a picture of a city street with cars on it",
+            "labels": [
+                "picture",
+                "city",
+                "street",
+                "cars"
+            ]
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "caption": "a view of a city street at night with traffic lights",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "caption": "a view of a city street from above",
+            "labels": [
+                "view",
+                "city",
+                "street"
+            ]
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "caption": "several cars are parked on the side of the street",
+            "labels": [
+                "cars",
+                "street"
+            ]
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "caption": "a view of a city street at night time",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "time"
+            ]
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "caption": "several cars and buses are driving down a city street",
+            "labels": [
+                "cars",
+                "buses",
+                "city",
+                "street"
+            ]
+        },
+        {
+            "id": 21,
+            "image_id": 21,
+            "caption": "the street is empty at night",
+            "labels": [
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 22,
+            "image_id": 22,
+            "caption": "several cars are driving down the street in an intersection",
+            "labels": [
+                "cars",
+                "street",
+                "intersection"
+            ]
+        },
+        {
+            "id": 23,
+            "image_id": 23,
+            "caption": "a view of a city street at night with traffic lights",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 24,
+            "image_id": 24,
+            "caption": "cars are driving down the street in an intersection",
+            "labels": [
+                "cars",
+                "street",
+                "intersection"
+            ]
+        },
+        {
+            "id": 25,
+            "image_id": 25,
+            "caption": "a view of an empty city street at night",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 26,
+            "image_id": 26,
+            "caption": "a view of an intersection at night with a traffic light",
+            "labels": [
+                "view",
+                "intersection",
+                "night",
+                "traffic",
+                "light"
+            ]
+        },
+        {
+            "id": 27,
+            "image_id": 27,
+            "caption": "the street is empty at night",
+            "labels": [
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 28,
+            "image_id": 28,
+            "caption": "a view of a street at night with a traffic light",
+            "labels": [
+                "view",
+                "street",
+                "night",
+                "traffic",
+                "light"
+            ]
+        },
+        {
+            "id": 29,
+            "image_id": 29,
+            "caption": "several cars are driving on a city street",
+            "labels": [
+                "cars",
+                "city",
+                "street"
+            ]
+        },
+        {
+            "id": 30,
+            "image_id": 30,
+            "caption": "a view of a city street at night with lots of traffic",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "lots",
+                "traffic"
+            ]
+        },
+        {
+            "id": 31,
+            "image_id": 31,
+            "caption": "a view of a busy intersection at night",
+            "labels": [
+                "view",
+                "busy",
+                "intersection",
+                "night"
+            ]
+        },
+        {
+            "id": 32,
+            "image_id": 32,
+            "caption": "a view of a busy intersection with cars on the road",
+            "labels": [
+                "view",
+                "busy",
+                "intersection",
+                "cars",
+                "road"
+            ]
+        },
+        {
+            "id": 33,
+            "image_id": 33,
+            "caption": "a view of a busy city street at dusk",
+            "labels": [
+                "view",
+                "busy",
+                "city",
+                "street",
+                "dusk"
+            ]
+        },
+        {
+            "id": 34,
+            "image_id": 34,
+            "caption": "a busy city street at dusk with traffic lights and buildings in the background",
+            "labels": [
+                "busy",
+                "city",
+                "street",
+                "dusk",
+                "traffic",
+                "lights",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 35,
+            "image_id": 35,
+            "caption": "the street is empty at night",
+            "labels": [
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 36,
+            "image_id": 36,
+            "caption": "a view of a busy city street at night",
+            "labels": [
+                "view",
+                "busy",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 37,
+            "image_id": 37,
+            "caption": "a city street at night with cars on it",
+            "labels": [
+                "city",
+                "street",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 38,
+            "image_id": 38,
+            "caption": "live camera from chicago international airport, chicago, il 60618",
+            "labels": [
+                "live",
+                "camera",
+                "chicago",
+                "international",
+                "airport",
+                "chicago",
+                "il"
+            ]
+        },
+        {
+            "id": 39,
+            "image_id": 39,
+            "caption": "an image of an empty highway with snow on the ground",
+            "labels": [
+                "image",
+                "highway",
+                "snow",
+                "ground"
+            ]
+        },
+        {
+            "id": 40,
+            "image_id": 40,
+            "caption": "a view of a highway at night with cars driving on it",
+            "labels": [
+                "view",
+                "highway",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 41,
+            "image_id": 41,
+            "caption": "live camera from dallas/frisco airport, dfw international airport, dfw, tx 75207",
+            "labels": [
+                "live",
+                "camera",
+                "dallas",
+                "frisco",
+                "airport",
+                "dfw",
+                "international",
+                "airport",
+                "dfw"
+            ]
+        },
+        {
+            "id": 42,
+            "image_id": 42,
+            "caption": "a view of traffic on a highway with buildings in the background",
+            "labels": [
+                "view",
+                "traffic",
+                "highway",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 43,
+            "image_id": 43,
+            "caption": "a view of traffic on a city street with buildings in the background",
+            "labels": [
+                "view",
+                "traffic",
+                "city",
+                "street",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 44,
+            "image_id": 44,
+            "caption": "live camera from elmhurst fire station, elmhurst, il 60522",
+            "labels": [
+                "live",
+                "camera",
+                "elmhurst",
+                "fire",
+                "station",
+                "elmhurst",
+                "il"
+            ]
+        },
+        {
+            "id": 45,
+            "image_id": 45,
+            "caption": "a city street at night with cars driving on it",
+            "labels": [
+                "city",
+                "street",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 46,
+            "image_id": 46,
+            "caption": "a view of a city street at night with cars driving on it",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 47,
+            "image_id": 47,
+            "caption": "a street at night with a large sign in the middle of the road",
+            "labels": [
+                "street",
+                "night",
+                "large",
+                "sign",
+                "middle",
+                "road"
+            ]
+        },
+        {
+            "id": 48,
+            "image_id": 48,
+            "caption": "a snow covered street in front of a tall building",
+            "labels": [
+                "snow",
+                "street",
+                "tall",
+                "building"
+            ]
+        },
+        {
+            "id": 49,
+            "image_id": 49,
+            "caption": "a view of an intersection in the city with snow on the ground",
+            "labels": [
+                "view",
+                "intersection",
+                "city",
+                "snow",
+                "ground"
+            ]
+        },
+        {
+            "id": 50,
+            "image_id": 50,
+            "caption": "traffic on a city street at night",
+            "labels": [
+                "traffic",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 51,
+            "image_id": 51,
+            "caption": "a street that is empty at night with buildings in the background",
+            "labels": [
+                "street",
+                "night",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 52,
+            "image_id": 52,
+            "caption": "a car is driving down an empty street in a city",
+            "labels": [
+                "car",
+                "street",
+                "city"
+            ]
+        },
+        {
+            "id": 53,
+            "image_id": 53,
+            "caption": "a view of a city street with a bus on it",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "bus"
+            ]
+        },
+        {
+            "id": 54,
+            "image_id": 54,
+            "caption": "live camera from chicago city hall, chicago, il 60611",
+            "labels": [
+                "live",
+                "camera",
+                "chicago",
+                "city",
+                "hall",
+                "chicago",
+                "il"
+            ]
+        },
+        {
+            "id": 55,
+            "image_id": 55,
+            "caption": "live camera from chicago state university, chicago, il 60614",
+            "labels": [
+                "live",
+                "camera",
+                "chicago",
+                "state",
+                "university",
+                "chicago",
+                "il"
+            ]
+        },
+        {
+            "id": 56,
+            "image_id": 56,
+            "caption": "live camera from chicago city hall, chicago, il 60601",
+            "labels": [
+                "live",
+                "camera",
+                "chicago",
+                "city",
+                "hall",
+                "chicago",
+                "il"
+            ]
+        },
+        {
+            "id": 57,
+            "image_id": 57,
+            "caption": "a view of a city street at night with traffic lights",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 58,
+            "image_id": 58,
+            "caption": "a blurry image of a street at night with a fire hydrant in the foreground",
+            "labels": [
+                "blurry",
+                "image",
+                "street",
+                "night",
+                "fire",
+                "hydrant",
+                "foreground"
+            ]
+        },
+        {
+            "id": 59,
+            "image_id": 59,
+            "caption": "a view of a city street at night with a traffic light",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "light"
+            ]
+        },
+        {
+            "id": 60,
+            "image_id": 60,
+            "caption": "a view of a city street at night with traffic lights",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 61,
+            "image_id": 61,
+            "caption": "several cars are parked on the side of the road",
+            "labels": [
+                "cars",
+                "road"
+            ]
+        },
+        {
+            "id": 62,
+            "image_id": 62,
+            "caption": "a view of an empty street at night",
+            "labels": [
+                "view",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 63,
+            "image_id": 63,
+            "caption": "a city street with a bus on it",
+            "labels": [
+                "city",
+                "street",
+                "bus"
+            ]
+        },
+        {
+            "id": 64,
+            "image_id": 64,
+            "caption": "a view of a street at night with cars driving on it",
+            "labels": [
+                "view",
+                "street",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 65,
+            "image_id": 65,
+            "caption": "a city street with a traffic light and buildings in the background",
+            "labels": [
+                "city",
+                "street",
+                "traffic",
+                "light",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 66,
+            "image_id": 66,
+            "caption": "many cars are driving down a snowy street at night",
+            "labels": [
+                "cars",
+                "snowy",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 67,
+            "image_id": 67,
+            "caption": "a street view of a city intersection with buildings in the background",
+            "labels": [
+                "street",
+                "view",
+                "city",
+                "intersection",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 68,
+            "image_id": 68,
+            "caption": "an overhead view of cars driving on a city street",
+            "labels": [
+                "overhead",
+                "view",
+                "cars",
+                "city",
+                "street"
+            ]
+        },
+        {
+            "id": 69,
+            "image_id": 69,
+            "caption": "a view of a busy intersection with cars and street signs",
+            "labels": [
+                "view",
+                "busy",
+                "intersection",
+                "cars",
+                "street",
+                "signs"
+            ]
+        },
+        {
+            "id": 70,
+            "image_id": 70,
+            "caption": "a view of a street at night",
+            "labels": [
+                "view",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 71,
+            "image_id": 71,
+            "caption": "a view of a city street at night with cars on it",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "cars"
+            ]
+        },
+        {
+            "id": 72,
+            "image_id": 72,
+            "caption": "the street is empty at night",
+            "labels": [
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 73,
+            "image_id": 73,
+            "caption": "a view of a city street from an overhead camera",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "overhead",
+                "camera"
+            ]
+        },
+        {
+            "id": 74,
+            "image_id": 74,
+            "caption": "a car is driving down a city street with buildings in the background",
+            "labels": [
+                "car",
+                "city",
+                "street",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 75,
+            "image_id": 75,
+            "caption": "a view of an intersection in the winter with snow on the ground",
+            "labels": [
+                "view",
+                "intersection",
+                "winter",
+                "snow",
+                "ground"
+            ]
+        },
+        {
+            "id": 76,
+            "image_id": 76,
+            "caption": "a view of a city street at dusk with buildings in the background",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "dusk",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 77,
+            "image_id": 77,
+            "caption": "a view of an intersection at night with a person walking across the street",
+            "labels": [
+                "view",
+                "intersection",
+                "night",
+                "person",
+                "street"
+            ]
+        },
+        {
+            "id": 78,
+            "image_id": 78,
+            "caption": "a city street at night with snow on the ground",
+            "labels": [
+                "city",
+                "street",
+                "night",
+                "snow",
+                "ground"
+            ]
+        },
+        {
+            "id": 79,
+            "image_id": 79,
+            "caption": "traffic is backed up on a busy street in downtown chicago",
+            "labels": [
+                "traffic",
+                "busy",
+                "street",
+                "downtown",
+                "chicago"
+            ]
+        },
+        {
+            "id": 80,
+            "image_id": 80,
+            "caption": "the street is empty at night",
+            "labels": [
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 81,
+            "image_id": 81,
+            "caption": "a city bus driving down a city street at night",
+            "labels": [
+                "city",
+                "bus",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 82,
+            "image_id": 82,
+            "caption": "a view of a city street at night with traffic lights",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": 83,
+            "image_id": 83,
+            "caption": "a view of a city street at night with buildings in the background",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "night",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 84,
+            "image_id": 84,
+            "caption": "a view of a city street at dusk with tall buildings in the background",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "dusk",
+                "tall",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 85,
+            "image_id": 85,
+            "caption": "a view of a city street in the rain with tall buildings in the background",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "rain",
+                "tall",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 86,
+            "image_id": 86,
+            "caption": "a view of a city street with a lot of tall buildings",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "lot",
+                "tall",
+                "buildings"
+            ]
+        },
+        {
+            "id": 87,
+            "image_id": 87,
+            "caption": "a view of a city street at dusk with buildings in the background",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "dusk",
+                "buildings",
+                "background"
+            ]
+        },
+        {
+            "id": 88,
+            "image_id": 88,
+            "caption": "a view of a city street with traffic and construction cones",
+            "labels": [
+                "view",
+                "city",
+                "street",
+                "traffic",
+                "construction",
+                "cones"
+            ]
+        },
+        {
+            "id": 89,
+            "image_id": 89,
+            "caption": "cars are driving down a city street at night",
+            "labels": [
+                "cars",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 90,
+            "image_id": 90,
+            "caption": "an aerial view of a city street from the top of a building",
+            "labels": [
+                "aerial",
+                "view",
+                "city",
+                "street",
+                "building"
+            ]
+        },
+        {
+            "id": 91,
+            "image_id": 91,
+            "caption": "an aerial view of the city from the top of a building",
+            "labels": [
+                "aerial",
+                "view",
+                "city",
+                "building"
+            ]
+        },
+        {
+            "id": 92,
+            "image_id": 92,
+            "caption": "an aerial view of a city street at night",
+            "labels": [
+                "aerial",
+                "view",
+                "city",
+                "street",
+                "night"
+            ]
+        },
+        {
+            "id": 93,
+            "image_id": 93,
+            "caption": "a view from the top of a building at night",
+            "labels": [
+                "view",
+                "building",
+                "night"
+            ]
+        },
+        {
+            "id": 94,
+            "image_id": 94,
+            "caption": "a view from the top of a building looking down on a city",
+            "labels": [
+                "view",
+                "building",
+                "city"
+            ]
+        },
+        {
+            "id": 95,
+            "image_id": 95,
+            "caption": "an aerial view of a city with cars driving down the road",
+            "labels": [
+                "aerial",
+                "view",
+                "city",
+                "cars",
+                "road"
+            ]
+        },
+        {
+            "id": 96,
+            "image_id": 96,
+            "caption": "an aerial view of a city street at night with snow on the ground",
+            "labels": [
+                "aerial",
+                "view",
+                "city",
+                "street",
+                "night",
+                "snow",
+                "ground"
+            ]
+        },
+        {
+            "id": 97,
+            "image_id": 97,
+            "caption": "live camera from edmonton city hall, edmonton, alberta",
+            "labels": [
+                "live",
+                "camera",
+                "edmonton",
+                "city",
+                "hall",
+                "edmonton",
+                "alberta"
+            ]
+        },
+        {
+            "id": 98,
+            "image_id": 98,
+            "caption": "live camera from ljubljana university of life sciences, ljubljana, slovenia",
+            "labels": [
+                "live",
+                "camera",
+                "ljubljana",
+                "university",
+                "life",
+                "sciences",
+                "ljubljana",
+                "slovenia"
+            ]
+        }
+    ]
+}

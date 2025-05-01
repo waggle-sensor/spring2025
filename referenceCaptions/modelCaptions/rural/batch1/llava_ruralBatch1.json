@@ -1,0 +1,836 @@
+{
+  "images": [
+    {
+      "id": 41,
+      "file_name": "20240320 200006_nan_W070_sample.jpg"
+    },
+    {
+      "id": 42,
+      "file_name": "20240325 180011_nan_W070_sample.jpg"
+    },
+    {
+      "id": 17,
+      "file_name": "20240403 130012_nan_W020_sample.jpg"
+    },
+    {
+      "id": 70,
+      "file_name": "20240408 150038_nan_W084_sample.jpg"
+    },
+    {
+      "id": 56,
+      "file_name": "20240415 060015_nan_W083_sample.jpg"
+    },
+    {
+      "id": 10,
+      "file_name": "20240416 001021_nan_V041_sample.jpg"
+    },
+    {
+      "id": 69,
+      "file_name": "20240416 100014_nan_W084_sample.jpg"
+    },
+    {
+      "id": 46,
+      "file_name": "20240416 140014_nan_W083_sample.jpg"
+    },
+    {
+      "id": 68,
+      "file_name": "20240423 220016_nan_W084_sample.jpg"
+    },
+    {
+      "id": 78,
+      "file_name": "20240426 210024_nan_W084_sample.jpg"
+    },
+    {
+      "id": 58,
+      "file_name": "20240427 070014_nan_W083_sample.jpg"
+    },
+    {
+      "id": 23,
+      "file_name": "20240427 210013_nan_W067_sample.jpg"
+    },
+    {
+      "id": 8,
+      "file_name": "20240428 203511_nan_V041_sample.jpg"
+    },
+    {
+      "id": 50,
+      "file_name": "20240428 210033_nan_W083_sample.jpg"
+    },
+    {
+      "id": 38,
+      "file_name": "20240502 110007_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 21,
+      "file_name": "20240504 200012_nan_W020_sample.jpg"
+    },
+    {
+      "id": 74,
+      "file_name": "20240506 170136_nan_W084_sample.jpg"
+    },
+    {
+      "id": 77,
+      "file_name": "20240506 180017_nan_W084_sample.jpg"
+    },
+    {
+      "id": 14,
+      "file_name": "20240510 122520_nan_V041_sample.jpg"
+    },
+    {
+      "id": 60,
+      "file_name": "20240512 010011_nan_W083_sample.jpg"
+    },
+    {
+      "id": 39,
+      "file_name": "20240512 220013_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 28,
+      "file_name": "20240514 090010_nan_W067_sample.jpg"
+    },
+    {
+      "id": 71,
+      "file_name": "20240517 010028_nan_W084_sample.jpg"
+    },
+    {
+      "id": 73,
+      "file_name": "20240519 220025_nan_W084_sample.jpg"
+    },
+    {
+      "id": 35,
+      "file_name": "20240520 010048_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 34,
+      "file_name": "20240520 050012_nan_W067_sample.jpg"
+    },
+    {
+      "id": 72,
+      "file_name": "20240521 140022_nan_W084_sample.jpg"
+    },
+    {
+      "id": 54,
+      "file_name": "20240522 100012_nan_W083_sample.jpg"
+    },
+    {
+      "id": 81,
+      "file_name": "20240525 130016_nan_W097_sample.jpg"
+    },
+    {
+      "id": 55,
+      "file_name": "20240526 100012_nan_W083_sample.jpg"
+    },
+    {
+      "id": 76,
+      "file_name": "20240526 230128_nan_W084_sample.jpg"
+    },
+    {
+      "id": 25,
+      "file_name": "20240527 180015_nan_W067_sample.jpg"
+    },
+    {
+      "id": 32,
+      "file_name": "20240529 130013_nan_W067_sample.jpg"
+    },
+    {
+      "id": 44,
+      "file_name": "20240531 030014_nan_W083_sample.jpg"
+    },
+    {
+      "id": 64,
+      "file_name": "20240531 110016_nan_W084_sample.jpg"
+    },
+    {
+      "id": 75,
+      "file_name": "20240604 010008_nan_W084_sample.jpg"
+    },
+    {
+      "id": 18,
+      "file_name": "20240604 150009_nan_W020_sample.jpg"
+    },
+    {
+      "id": 49,
+      "file_name": "20240604 230013_nan_W083_sample.jpg"
+    },
+    {
+      "id": 13,
+      "file_name": "20240604 235511_nan_V041_sample.jpg"
+    },
+    {
+      "id": 15,
+      "file_name": "20240605 222521_nan_V041_sample.jpg"
+    },
+    {
+      "id": 61,
+      "file_name": "20240610 000016_nan_W083_sample.jpg"
+    },
+    {
+      "id": 47,
+      "file_name": "20240611 140019_nan_W083_sample.jpg"
+    },
+    {
+      "id": 43,
+      "file_name": "20240612 100014_nan_W083_sample.jpg"
+    },
+    {
+      "id": 53,
+      "file_name": "20240613 060013_nan_W083_sample.jpg"
+    },
+    {
+      "id": 37,
+      "file_name": "20240624 070008_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 83,
+      "file_name": "20240625 170012_nan_W097_sample.jpg"
+    },
+    {
+      "id": 57,
+      "file_name": "20240712 210033_nan_W083_sample.jpg"
+    },
+    {
+      "id": 26,
+      "file_name": "20240715 220014_nan_W067_sample.jpg"
+    },
+    {
+      "id": 59,
+      "file_name": "20240716 000012_nan_W083_sample.jpg"
+    },
+    {
+      "id": 40,
+      "file_name": "20240719 030012_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 51,
+      "file_name": "20240725 140011_nan_W083_sample.jpg"
+    },
+    {
+      "id": 31,
+      "file_name": "20240728 150009_nan_W067_sample.jpg"
+    },
+    {
+      "id": 36,
+      "file_name": "20240729 160012_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 3,
+      "file_name": "20240730 171511_nan_V041_sample.jpg"
+    },
+    {
+      "id": 16,
+      "file_name": "20240804 110012_nan_W020_sample.jpg"
+    },
+    {
+      "id": 4,
+      "file_name": "20240806 035510_nan_V041_sample.jpg"
+    },
+    {
+      "id": 22,
+      "file_name": "20240807 100009_nan_W067_sample.jpg"
+    },
+    {
+      "id": 62,
+      "file_name": "20240810 070013_nan_W083_sample.jpg"
+    },
+    {
+      "id": 7,
+      "file_name": "20240812 122511_nan_V041_sample.jpg"
+    },
+    {
+      "id": 30,
+      "file_name": "20240814 210012_nan_W067_sample.jpg"
+    },
+    {
+      "id": 19,
+      "file_name": "20240815 000012_nan_W020_sample.jpg"
+    },
+    {
+      "id": 79,
+      "file_name": "20240815 200027_nan_W084_sample.jpg"
+    },
+    {
+      "id": 27,
+      "file_name": "20240821 180050_nan_W067_sample.jpg"
+    },
+    {
+      "id": 80,
+      "file_name": "20240825 020013_nan_W097_sample.jpg"
+    },
+    {
+      "id": 52,
+      "file_name": "20240826 010011_nan_W083_sample.jpg"
+    },
+    {
+      "id": 6,
+      "file_name": "20240826 172521_nan_V041_sample.jpg"
+    },
+    {
+      "id": 82,
+      "file_name": "20240903 190016_nan_W097_sample.jpg"
+    },
+    {
+      "id": 65,
+      "file_name": "20240905 040016_nan_W084_sample.jpg"
+    },
+    {
+      "id": 67,
+      "file_name": "20240908 140016_nan_W084_sample.jpg"
+    },
+    {
+      "id": 9,
+      "file_name": "20240912 084505_nan_V041_sample.jpg"
+    },
+    {
+      "id": 66,
+      "file_name": "20240914 100014_nan_W084_sample.jpg"
+    },
+    {
+      "id": 1,
+      "file_name": "20240916 164505_nan_V041_sample.jpg"
+    },
+    {
+      "id": 5,
+      "file_name": "20240918 042505_nan_V041_sample.jpg"
+    },
+    {
+      "id": 24,
+      "file_name": "20240921 020014_nan_W067_sample.jpg"
+    },
+    {
+      "id": 33,
+      "file_name": "20240930 090031_nan_W067_sample.jpg"
+    },
+    {
+      "id": 11,
+      "file_name": "20241004 171506_nan_V041_sample.jpg"
+    },
+    {
+      "id": 45,
+      "file_name": "20241004 180012_nan_W083_sample.jpg"
+    },
+    {
+      "id": 29,
+      "file_name": "20241009 030013_nan_W067_sample.jpg"
+    },
+    {
+      "id": 48,
+      "file_name": "20241009 130019_nan_W083_sample.jpg"
+    },
+    {
+      "id": 63,
+      "file_name": "20241014 220032_nan_W083_sample.jpg"
+    },
+    {
+      "id": 12,
+      "file_name": "20241016 123505_nan_V041_sample.jpg"
+    },
+    {
+      "id": 2,
+      "file_name": "20241018 042006_nan_V041_sample.jpg"
+    },
+    {
+      "id": 20,
+      "file_name": "20241018 070011_nan_W020_sample.jpg"
+    }
+  ],
+  "annotations": [
+    {
+      "image": "20240320 200006_nan_W070_sample.jpg",
+      "caption": "The image shows an outdoor scene with a panoramic view. In the foreground, there is a chain-link fence and some vegetation. Beyond the fence, there's a road or trail that seems to be winding through a hilly landscape. The terrain appears rugged with sparse trees and grass.\n\nIn the distance, there are mountains under a partly cloudy sky. The clouds suggest it might be early morning or late afternoon. There is no visible activity or movement in the scene, giving it a serene quality. The image has a watermark that reads \"Picture taken by a drone,\" indicating that the photo was likely taken with a remote-controlled aircraft camera.",
+      "duration_sec": 5.08,
+      "image_id": 41
+    },
+    {
+      "image": "20240325 180011_nan_W070_sample.jpg",
+      "caption": "The image shows a snow-covered landscape, with a clear view of a foggy valley through which a highway or road cuts through, as indicated by the white line on the ground. The surrounding area appears to be a mix of open land and some vegetation, indicating that this is likely a mountainous region. The sky is overcast, suggesting recent or ongoing snowfall. The foreground shows a fence or boundary with a chain-link top, beyond which there is more vegetation. In the middle ground, there are trees, possibly pines, and a small structure that could be a guardhouse or similar facility. The terrain is steeply sloping towards the valley, and the overall impression is of a winter scene in a mountainous environment.",
+      "duration_sec": 1.34,
+      "image_id": 42
+    },
+    {
+      "image": "20240403 130012_nan_W020_sample.jpg",
+      "caption": "The image is a composite of two different photos placed side by side, with no visible connection between them.\n\nOn the left side, there is an aerial photo showing a landscape from above. It appears to be a dry or arid area with patches of vegetation and some bare ground. There are no distinct features or landmarks that can provide context for the location.\n\nOn the right side, there is a close-up photo of what looks like a computer screen displaying an image with a grid overlaying it. The image beneath the grid is a low-resolution depiction of a landscape, similar to the one on the left, but with no detail or clarity due to the resolution and the distortion caused by the grid.\n\nThere are no texts present in either photo that would provide additional information about the content or context of the images. The style of the image suggests it might be used for comparative purposes, perhaps highlighting a difference in quality between the two photos.",
+      "duration_sec": 2.0,
+      "image_id": 17
+    },
+    {
+      "image": "20240408 150038_nan_W084_sample.jpg",
+      "caption": "The image shows a landscape under an overcast sky with clouds. In the foreground, there is a view of a snowy area with trees and buildings that suggest this might be a residential or rural community. There's a mix of green foliage and snow on the ground, indicating recent snowfall. In the middle distance, there's a body of water reflecting the sky, possibly a lake or river.\n\nIn the background, the terrain becomes flatter with more open space, which appears to be under cloud cover. There are no people visible in the image. The photograph seems to have been taken during the daytime due to the natural light.",
+      "duration_sec": 1.24,
+      "image_id": 70
+    },
+    {
+      "image": "20240415 060015_nan_W083_sample.jpg",
+      "caption": "The image appears to be a screenshot of a night-time scene with a photographic overlay. It shows a night-time view with a dark sky, and there's a body of water visible in the foreground. In the background, there are what look like structures or buildings, possibly part of a recreational area or park. The quality of the image suggests it might be from a security camera due to its resolution and graininess.",
+      "duration_sec": 0.96,
+      "image_id": 56
+    },
+    {
+      "image": "20240416 001021_nan_V041_sample.jpg",
+      "caption": "The image shows a utility structure at an elevated position, possibly part of a telecommunications or energy infrastructure. There is a large metallic frame with multiple horizontal and vertical bars supporting other components that are not clearly visible due to the angle and distance from which the photo was taken. In front of this structure, there appears to be a view of a forested area under a clear sky. The surroundings suggest this could be a mountainous region given the presence of trees and the lack of buildings or human activity in the immediate vicinity. There are no visible people in the image.",
+      "duration_sec": 1.05,
+      "image_id": 10
+    },
+    {
+      "image": "20240416 100014_nan_W084_sample.jpg",
+      "caption": "The image appears to be a screenshot of a computer screen displaying various windows and applications, suggesting that someone is working on multiple tasks or has multiple open programs at once. In the foreground, there's a window with a web browser open, showing what looks like an error page or a loading icon in the center. The web address indicates it might be from a news website, but I can't provide specific details due to the image's resolution and size.\n\nIn the background, on the right side of the screenshot, there is a small thumbnail or minimized window showing what seems to be a video feed with an orange-yellow tint, possibly indicating an error or a malfunction in the video display. The image quality is quite low, which might suggest that it's a small or old monitor, or perhaps that the image itself is of low resolution.\n\nThe overall impression is of a computer desktop with multiple open applications and windows, indicative of multitasking or a variety of ongoing tasks.",
+      "duration_sec": 1.76,
+      "image_id": 69
+    },
+    {
+      "image": "20240416 140014_nan_W083_sample.jpg",
+      "caption": "The image is a vertical, panoramic photograph that appears to have been taken with a fisheye lens or a similar wide-angle effect. It captures a scene during what looks like either dawn or dusk, given the soft light and color gradients in the sky. The foreground shows an overcast sky above a structure with a corrugated metal roof, possibly a small building or storage shed. In the background, there's a row of evergreen trees, and beyond them, the silhouette of a mountain range under a gray sky can be seen. The image has a digital glitch effect that obscures the lower half, resulting in vertical streaks or patterns that disrupt the coherence of the scene at the bottom of the image. There's no text present in the image to provide additional context.",
+      "duration_sec": 1.42,
+      "image_id": 46
+    },
+    {
+      "image": "20240423 220016_nan_W084_sample.jpg",
+      "caption": "The image shows a landscape scene, likely taken from an elevated perspective given the bird's-eye view of the area below. In the foreground, there is a dry and barren field with sparse vegetation. On the left side of the image, a snow-capped mountain range can be seen in the distance, providing a contrast to the arid landscape at the forefront.\n\nIn the center of the image, there's a small patch of green grass, surrounded by brown and dry earth. The sky is mostly clear with a few scattered clouds, suggesting a sunny day.\n\nThe image has a watermark text at the bottom right corner that reads \"Canva,\" indicating that the image may have been edited or created using Canva's design tools. The style of the image suggests it could be a screenshot from a presentation or a digital scrapbook page.",
+      "duration_sec": 1.46,
+      "image_id": 68
+    },
+    {
+      "image": "20240426 210024_nan_W084_sample.jpg",
+      "caption": "The image appears to be a photograph taken from a high vantage point, looking down towards a cloudy sky and a landscape below. In the foreground, there's a cloud cover that is dense and diffused, suggesting an overcast or possibly approaching stormy conditions. Below this layer of clouds, one can see what seems to be a rural or semi-rural area with buildings, likely houses or small commercial structures. The terrain includes grasslands and areas of vegetation. The colors in the image are muted, with a palette dominated by grayscale tones due to the cloud cover, which makes it difficult to discern specific details about the landmarks below.",
+      "duration_sec": 1.2,
+      "image_id": 78
+    },
+    {
+      "image": "20240427 070014_nan_W083_sample.jpg",
+      "caption": "The image is a composite of two photos, presented as a single graphic with a seamless transition between them. It appears to show a nighttime scene of a body of water, possibly a river or canal, with an adjacent area of land and vegetation. There's a dark sky, suggesting it might be nighttime. The first photo captures the right side, showing the water in detail with reflections, while the second photo shows the left side where the land is visible. The transition between the two images seems abrupt, with the color and lighting changing drastically, creating a visual contrast between the two halves of the scene.",
+      "duration_sec": 1.16,
+      "image_id": 58
+    },
+    {
+      "image": "20240427 210013_nan_W067_sample.jpg",
+      "caption": "The image appears to be a photograph taken during a cloudy day, with the sky overcast and no visible sunlight. There is a tree in the foreground on the left side of the photo. In the background, there's a body of water reflecting some of the clouds, and it looks like the bottom part of the image might be cut off or obscured, leaving only the upper half of the scene. The overall atmosphere seems moody and gloomy due to the overcast weather conditions.",
+      "duration_sec": 0.99,
+      "image_id": 23
+    },
+    {
+      "image": "20240428 203511_nan_V041_sample.jpg",
+      "caption": "The image depicts an elevated view of a construction site, possibly from a drone or a tall structure. There is a platform with a metal grid flooring and railings at the edges for safety. Above this platform, there's a wooden scaffolding structure, which appears to be under construction. Additionally, there are various materials and tools scattered around the area, suggesting ongoing work. The sky above is overcast, and the ground below is mostly grassy with some bare patches, indicating that it might be late autumn or winter. There are no people visible in the image, but one can see the outlines of a person standing on the scaffolding. In the background, there seems to be a forested area with trees and vegetation, suggesting that this construction site is located at some distance from urban development. The overall scene conveys the industrial and construction aspects of the photo, with no visible human activity in the immediate vicinity of the camera or drone.",
+      "duration_sec": 1.6,
+      "image_id": 8
+    },
+    {
+      "image": "20240428 210033_nan_W083_sample.jpg",
+      "caption": "The image shows a landscape scene, likely taken from an elevated vantage point such as a bridge or viewpoint overlooking water. In the foreground, there is a large body of water with some ripples suggesting recent activity, possibly fishing or boating. On the left side of the image, there is a structure that appears to be a boat dock or ramp leading into the water. The middle ground shows a roadway adjacent to the water's edge, which seems to be a highway or major thoroughfare with no traffic visible at the moment the photo was taken.\n\nTo the right, there are some trees in the distance and a clear sky above. There is a small building or hut located on the far bank of the water, which might serve as a boathouse or storage facility for watercraft. The overall impression is that of a peaceful, natural setting with no immediate human activity observed.",
+      "duration_sec": 1.67,
+      "image_id": 50
+    },
+    {
+      "image": "20240502 110007_nan_W06F_sample.jpg",
+      "caption": "The image is a nighttime photograph showing a dark scene with a focus on an object that appears to be a camper or trailer. There's no clear indication of its nature, but it has a small, dark structure attached, possibly a tent or cover. In the upper right corner, there's a patch of sky visible above the camper, suggesting that the photo was taken during nighttime. The rest of the image is quite dark, making details hard to discern. There are no people or other moving objects visible in this still image.",
+      "duration_sec": 1.11,
+      "image_id": 38
+    },
+    {
+      "image": "20240504 200012_nan_W020_sample.jpg",
+      "caption": "The image shows an aerial view of a rural landscape with a large, open field and some scattered bushes or vegetation. In the distance, there appears to be water, possibly a lake or river, on the right side of the image, reflecting what might be a bright sky. The terrain is flat, and the field seems to be a clearing or pasture without any distinct features or crops visible from this angle. There are no notable buildings or structures within the frame that can be seen from above. The sky is partly cloudy with some blue patches indicating fair weather conditions.",
+      "duration_sec": 1.17,
+      "image_id": 21
+    },
+    {
+      "image": "20240506 170136_nan_W084_sample.jpg",
+      "caption": "The image shows an aerial view of a rural landscape under an overcast sky. On the ground, there are several small buildings that appear to be houses or cabins, spaced out across the field. In the foreground, there is a brown grassy area with what seems like a road or path leading into it. The terrain slopes gently upwards towards some low hills in the distance, which are partially obscured by clouds. The overall color palette of the scene is muted due to the gray sky, and the lighting suggests an overcast day.",
+      "duration_sec": 1.02,
+      "image_id": 74
+    },
+    {
+      "image": "20240506 180017_nan_W084_sample.jpg",
+      "caption": "The image shows a landscape with a cloudy sky and dark, storm clouds gathering above. Below this, there is a rural area with a few buildings, possibly a small town or residential complex. The land appears flat with some low vegetation visible. There are no people or moving vehicles in the immediate vicinity of the photo. The photo itself has a slight horizontal tilt, and there is a watermark overlaying it that reads \"Google Earth.\" The style of the image is consistent with satellite imagery typically used for mapping purposes.",
+      "duration_sec": 1.03,
+      "image_id": 77
+    },
+    {
+      "image": "20240510 122520_nan_V041_sample.jpg",
+      "caption": "The image shows an industrial or construction setting at night. In the foreground, there is a view of a metal structure with a dark interior. This structure appears to be part of a larger piece of equipment, as suggested by the presence of pipes and ductwork running above it. The metal framework is supported by a series of vertical posts and horizontal braces, creating a grid-like pattern.\n\nThe background is slightly blurred but seems to depict an outdoor environment with what looks like a building or industrial facility. There are no visible people in the image. The lighting is artificial and focused on the metal structure, casting shadows around it.\n\nIn the bottom left corner of the image, there is a watermark or text that reads \"BORIS BEZ2021,\" which indicates that this photo may have been taken by someone named Boris Bez in the year 2021. The watermark suggests that this is likely an unauthorized photograph, as it contains the name of an individual without permission.",
+      "duration_sec": 1.67,
+      "image_id": 14
+    },
+    {
+      "image": "20240512 010011_nan_W083_sample.jpg",
+      "caption": "The image appears to be a screenshot from a surveillance or security camera. It shows a daylight view of an outdoor area with cloudy skies. In the foreground, there is a building with a metal roof and what looks like a snowy ground. The sky has a few scattered clouds, suggesting an overcast day. There are no people visible in the image. The focus of the camera is on the right side where some object or structure is partially obscured by the viewpoint, making it difficult to identify exactly what it is.",
+      "duration_sec": 1.01,
+      "image_id": 60
+    },
+    {
+      "image": "20240512 220013_nan_W06F_sample.jpg",
+      "caption": "The image depicts an outdoor scene with a clear sky and some clouds in the upper left corner. In the foreground, there is a well-maintained area with several large RVs parked closely together, suggesting this might be a campground or a recreational vehicle park. There's a variety of RV types visible; one has an open front with a screen door, another appears to have a full camper setup, and there is also a small trailer attached to a truck.\n\nIn the middle ground, there is a sloping terrain with dry grass and sparse vegetation, indicating it might be late spring or early summer. The surrounding area looks arid, with no significant landmarks in sight, reinforcing the impression of a remote location.\n\nThe overall setting suggests a leisure destination for outdoor enthusiasts who enjoy camping or recreational vehicles. There is no visible text in the image to provide additional context.",
+      "duration_sec": 1.64,
+      "image_id": 39
+    },
+    {
+      "image": "20240514 090010_nan_W067_sample.jpg",
+      "caption": "The image shows a nighttime scene with a dark sky filled with stars. There's a faint, blurred outline of trees or shrubbery on the left side of the photo. In the lower right corner, there is a bright light that appears to be an artificial illumination. The image is a low-resolution photograph, possibly taken at night without a flash, as indicated by the graininess and lack of detail in the background. There are no texts or distinctive markings visible in the image.",
+      "duration_sec": 1.07,
+      "image_id": 28
+    },
+    {
+      "image": "20240517 010028_nan_W084_sample.jpg",
+      "caption": "The image is a composite of multiple photos, and it seems to be from a video as indicated by the play button icon on the top left corner. The central image shows a close-up view of a yellow object with a black surface that appears to have some texture or pattern. To the left and right of this central image, there are smaller thumbnails that show different views of the same object, possibly taken from an angle or with a zoom in and out function. The top left corner has a play button icon superimposed on it, suggesting that the user can click on it to start playing the video. There is no visible text within the image to provide context or additional information about the content.",
+      "duration_sec": 1.31,
+      "image_id": 71
+    },
+    {
+      "image": "20240519 220025_nan_W084_sample.jpg",
+      "caption": "The image is a composite of two separate photos placed side by side. On the left, there's a photo with low resolution showing what appears to be a close-up view of a person holding a rope and possibly engaging in an outdoor activity, as suggested by the natural lighting.\n\nOn the right, there's another photo that seems to have been taken from a screen displaying a satellite image or a similar type of mapping data. This photo shows a colorful topographical map with various colors likely representing different types of terrain or features. The area on the map appears to be in the United States, as indicated by the geographic orientation and typical land formations.\n\nThe images are overlaid without any overlap, and there is no text present within the image. The style of the image suggests it may have been taken from a presentation or a video that included these two photos as part of its content.",
+      "duration_sec": 1.55,
+      "image_id": 73
+    },
+    {
+      "image": "20240520 010048_nan_W06F_sample.jpg",
+      "caption": "The image shows a serene rural scene under an overcast sky. In the foreground, there's a parking area with two trailers parked side by side: one is a white fifth-wheel trailer with a matching awning and the other is a gray motorhome with a similar awning pattern. Both vehicles have distinctive markings or logos on them.\n\nA dirt path leads up to these campers, with a grassy area adjacent to the trailers, indicating a recreational site or park. The terrain in the background appears gently sloping, covered with sparse vegetation, and there are no visible structures apart from the trailers. There's also some wildlife in the form of deer grazing at a distance from the campers.\n\nThe lighting suggests it might be late afternoon or early evening, as indicated by the soft, diffused light. The overall impression is one of tranquility and leisure, possibly in a rural area known for its natural beauty and outdoor recreation opportunities.",
+      "duration_sec": 1.71,
+      "image_id": 35
+    },
+    {
+      "image": "20240520 050012_nan_W067_sample.jpg",
+      "caption": "The image is a photograph taken at night and shows an outdoor scene viewed from an elevated perspective, likely from a window. It appears to be a residential area with a grassy lawn visible in the foreground. In the background, there are no distinct features or landmarks that would allow for precise location identification. There are no people or moving objects visible in the image. The lighting suggests it is nighttime, and artificial light sources are not clearly identifiable within this particular viewpoint.\n\nThere is a dark sky with a few stars visible, indicating that there might be cloud cover or the photo was taken during a time when the sky isn't fully dark. The overall color tone of the image suggests it may have been taken with an infrared camera or is a photo manipulated to appear as if taken at night without flashlight.",
+      "duration_sec": 1.52,
+      "image_id": 34
+    },
+    {
+      "image": "20240521 140022_nan_W084_sample.jpg",
+      "caption": "The image shows a sky background with a view of a landscape below. A prominent feature is a large plume of white smoke or vapor rising from the ground, curving slightly to the left and right as it ascends into the blue sky dotted with clouds. Below this plume, you can see trees and what appears to be a distant mountain range under a partly cloudy sky. The lighting suggests it might be midday, and there's no visible activity or movement in the image. There are no texts or people present in the scene.",
+      "duration_sec": 1.03,
+      "image_id": 72
+    },
+    {
+      "image": "20240522 100012_nan_W083_sample.jpg",
+      "caption": "The image shows a nighttime scene with a body of water that reflects the lights, suggesting it might be a lake or a slow-moving river. The water is bordered by land on both sides, which appears to be a combination of grassy areas and possibly a small park or open space. On the right side of the image, there's a bridge or walkway over the water. The lighting suggests it could be early morning or late evening. There are no people visible in this area, adding to the serene and quiet atmosphere of the scene.",
+      "duration_sec": 1.13,
+      "image_id": 54
+    },
+    {
+      "image": "20240525 130016_nan_W097_sample.jpg",
+      "caption": "The image appears to be a nighttime photo taken from an elevated position, looking down upon a forested area. It's dark, and there are trees visible which appear to have leaves. The lighting suggests that it might be illuminated by artificial light or the moonlight peeking through. There is no text present in this image.",
+      "duration_sec": 0.83,
+      "image_id": 81
+    },
+    {
+      "image": "20240526 100012_nan_W083_sample.jpg",
+      "caption": "The image shows a landscape scene with a body of water in the foreground, which appears to be a small pond or lake. There is a patch of grass in the center of the image, surrounded by dirt and possibly some debris or litter. The background features a clear sky and the silhouette of trees, indicating it might be either dawn or dusk. On the left side of the image, there's an overpass with a guardrail that crosses over what seems to be a small bridge or causeway in the water. The overall impression is that of a quiet outdoor space, possibly at the edge of a developed area given the infrastructure elements like the bridge and overpass.",
+      "duration_sec": 1.38,
+      "image_id": 55
+    },
+    {
+      "image": "20240526 230128_nan_W084_sample.jpg",
+      "caption": "The image is a split-screen photo showing two different scenes, which appear to be taken with surveillance cameras due to the wide field of view and the timestamp on one of them indicating it's from a security camera. On the left side, there's an exterior shot featuring what looks like a residential area at night or early morning. The scene is illuminated by outdoor lighting and includes a portion of a house with its front facade visible, a tree in the foreground, and possibly some outdoor furniture. There's a person partially visible on the right side of this photo.\n\nThe right side of the split-screen shows an interior space that resembles a control room or a monitoring center, as indicated by the presence of screens displaying various images and data. The screens are showing multiple channels with different surveillance feeds. Each screen has a timestamp on it, suggesting they are live feeds, and there is some kind of software interface with colorful overlays that might be used for real-time monitoring or analysis.\n\nThe overall style of the image suggests it's meant to provide a contrast between the normalcy of domestic life and the high-tech environment of an intelligence or security operation center.",
+      "duration_sec": 1.94,
+      "image_id": 76
+    },
+    {
+      "image": "20240527 180015_nan_W067_sample.jpg",
+      "caption": "The image shows a grassy area from an elevated perspective, likely taken with a drone camera. In the foreground, there is a patch of brown grass that appears to be dry or possibly burned, contrasting with the surrounding green lawn. This area of brown grass forms a circular pattern within the larger expanse of greenery. There are no visible people or animals in this view. The image is taken during the day under what seems to be clear skies.",
+      "duration_sec": 1.04,
+      "image_id": 25
+    },
+    {
+      "image": "20240529 130013_nan_W067_sample.jpg",
+      "caption": "The image shows a cloudy sky with a warm, golden hue, suggesting it might be sunset or sunrise. Below the sky, there is a tall pine tree prominently positioned in the center of the frame. The surrounding landscape appears to be residential or suburban, with no distinctive features or landmarks that are clearly identifiable. The image has a vertical format and seems to be taken from a window, as indicated by the framing visible at the bottom. There is also a watermark on the image, which reads \"Image by user: [username]\" along with some other text, but it's not fully legible.",
+      "duration_sec": 1.18,
+      "image_id": 32
+    },
+    {
+      "image": "20240531 030014_nan_W083_sample.jpg",
+      "caption": "The image is a nighttime photograph showing a residential area with illuminated streetlights and a house with lights on. There are no people visible in the frame. The photo appears to be taken from an elevated position, possibly from inside a vehicle or atop another structure given the angle of the shot. The lighting suggests it's late evening or early morning, as indicated by the dark sky above.",
+      "duration_sec": 0.89,
+      "image_id": 44
+    },
+    {
+      "image": "20240531 110016_nan_W084_sample.jpg",
+      "caption": "The image shows a photograph of a nighttime scene with a dark sky that suggests it is either twilight or early morning, as indicated by the horizon line at the top of the image where the clouds are visible. In the center of the frame, there appears to be a landscape feature resembling a mountain or hill under a cloudy sky. The lighting suggests that the photo was taken when there was still some light in the sky, possibly around dawn or dusk given the presence of stars and the silhouette of what might be trees or other vegetation against the darker background of the sky.\n\nThe bottom portion of the image shows a different section with a watermark that reads \"CERTIFIE,\" which implies that the image is copyrighted material or possibly part of a certificate process, as it suggests an element of authentication or certification for the image. The style of the photograph seems to be a standard snapshot without any apparent artistic filters applied.",
+      "duration_sec": 1.59,
+      "image_id": 64
+    },
+    {
+      "image": "20240604 010008_nan_W084_sample.jpg",
+      "caption": "The image shows a landscape scene with a focus on a town or village nestled among rolling hills and mountains under an overcast sky. There is a mix of greenery, including fields and pastures, which suggest agricultural activity. A few buildings with what appear to be metal roofs can be seen in the center, indicating residential or perhaps small-scale commercial structures. The architecture suggests a rural setting.\n\nIn the foreground, there's a clear view of the sky, which is partly cloudy with one large gray storm cloud looming above the scene. The lower part of the image displays a road or path that cuts through the landscape, connecting different parts of the town or village. There are no people visible in this image, emphasizing the natural and built environment.\n\nThe style of the image is a straightforward photograph with a focus on the landscape without any noticeable artistic filters or effects applied. The resolution is low, which makes it difficult to discern finer details.",
+      "duration_sec": 1.65,
+      "image_id": 75
+    },
+    {
+      "image": "20240604 150009_nan_W020_sample.jpg",
+      "caption": "The image shows a split-screen comparison of two different views. On the left side, there is an actual photograph of a landscape that appears to be a grassy field with some scattered vegetation and possibly a path or track through it. On the right side, overlaid on top of the actual photo, is a thermal image showing heat signatures in various shades of color. The thermal image has a grid-like pattern and seems to detect different levels of heat emission. There are no texts visible in this image.",
+      "duration_sec": 1.34,
+      "image_id": 18
+    },
+    {
+      "image": "20240604 230013_nan_W083_sample.jpg",
+      "caption": "The image shows a photograph that appears to be affected by camera shake or motion blur, resulting in a distorted and abstract appearance. It's challenging to make out specific details due to the blurriness. The colors are muted with shades of gray, and there seems to be an area where a person is present, possibly taking the photo, indicated by a reflection on a surface that appears to be water or glass. The background is indistinct but suggests it might be an outdoor setting, possibly during a storm or cloudy weather given the darkened sky.",
+      "duration_sec": 1.05,
+      "image_id": 49
+    },
+    {
+      "image": "20240604 235511_nan_V041_sample.jpg",
+      "caption": "The image shows an outdoor scene of a structure with a metal roof, which appears to be under construction or renovation. From this angle, the top side of the building is visible, showing the steel frame and sheet metal panels covering it. There are some tools or equipment leaning against the metal frame, suggesting recent activity at the site. The surroundings include other buildings in the distance, indicating an industrial or construction area. No people are present in the photo. The focus is on the structure and its immediate surroundings.",
+      "duration_sec": 0.96,
+      "image_id": 13
+    },
+    {
+      "image": "20240605 222521_nan_V041_sample.jpg",
+      "caption": "The image shows an outdoor scene featuring a large metal structure with various panels and what appears to be a ladder leading up to it. The structure is supported by multiple posts that seem to be part of a building or infrastructure above ground level, given their alignment and size. In the foreground, there's a glimpse of greenery and trees, suggesting this might be located in a rural or semi-rural area. The lighting suggests it could be either dawn or dusk due to the soft shadows cast on the structure. The image is slightly blurry, which reduces the detail of the structures.",
+      "duration_sec": 1.08,
+      "image_id": 15
+    },
+    {
+      "image": "20240610 000016_nan_W083_sample.jpg",
+      "caption": "The image shows an aerial view of a small body of water, which could be a lake or pond, with a bridge spanning across it. The water appears calm and is surrounded by vegetation on its banks. On the right side of the photo, there's a grassy area that seems to be part of a park or recreational space. In the foreground, there's a patch of grass with no visible features. There are no people or moving vehicles in the image, and the overall atmosphere suggests a quiet, natural setting. The photo has a watermark at the bottom right corner, indicating it might be copyrighted material.",
+      "duration_sec": 1.29,
+      "image_id": 61
+    },
+    {
+      "image": "20240611 140019_nan_W083_sample.jpg",
+      "caption": "The image appears to be taken through a fisheye or wide-angle lens, giving it a distorted perspective with curvature at the edges. It shows an outdoor scene with a cloudy sky and a few trees. In the foreground, there's a structure that could be part of a building or a storage unit, with a roof visible in the background. The fisheye effect adds a unique visual quality to the photograph.",
+      "duration_sec": 0.88,
+      "image_id": 47
+    },
+    {
+      "image": "20240612 100014_nan_W083_sample.jpg",
+      "caption": "The image appears to be a composite or a panoramic photo composed of multiple segments or images. It shows an outdoor scene, likely captured at sunrise or sunset given the warm and soft light visible in the sky. In the foreground, there is a clear view of a residential area with houses visible. The focus of the image is sharp in the center, but it becomes progressively blurrier towards the edges. There's no text present within the image itself to provide further context or information about the location or time captured.",
+      "duration_sec": 1.04,
+      "image_id": 43
+    },
+    {
+      "image": "20240613 060013_nan_W083_sample.jpg",
+      "caption": "The image is a low-resolution nighttime photo showing an outdoor scene, likely taken from inside a building due to the reflection of lights on the window glass. In the foreground, there is a blurred field of view with some indistinct features that could be part of a yard or park area. The lighting suggests it's evening or night, and the focus appears shallow, which blurs the immediate surroundings. There are no clear details visible due to the camera movement or insufficient light conditions.",
+      "duration_sec": 1.06,
+      "image_id": 53
+    },
+    {
+      "image": "20240624 070008_nan_W06F_sample.jpg",
+      "caption": "The image depicts a nighttime scene with a view of a landscape under a clear sky. There are several vehicles parked on a paved surface, which could be a parking lot or a similar outdoor space. To the right of the frame, there is a building with various lights illuminating its facade. In the background, you can see the silhouette of a hillside with trees and what appears to be a residential area with houses. The lighting in the image indicates that it might be a moonlit night or an area with artificial light sources. There are no visible texts on the image.",
+      "duration_sec": 1.16,
+      "image_id": 37
+    },
+    {
+      "image": "20240625 170012_nan_W097_sample.jpg",
+      "caption": "The image shows an aerial view of a dense forested area with a heavy cover of green foliage, possibly indicating tropical or subtropical vegetation. There is a foggy or misty layer visible at the bottom, suggesting that the photo was taken from a high vantage point looking down on the landscape. The colors in the image are dominated by greens and whites due to the fog.",
+      "duration_sec": 0.9,
+      "image_id": 83
+    },
+    {
+      "image": "20240712 210033_nan_W083_sample.jpg",
+      "caption": "The image shows an outdoor scene with a grassy area that appears to be a yard or a field. A small, white structure can be seen in the middle of the grass, which might be a garden shed or some other type of utility building. In front of this structure is a dirt patch devoid of grass.\n\nTo the left side of the image, there's a metal structure that looks like part of an infrastructure system, possibly a water drainage pipe. The pipe appears to be made of steel and has a black surface. It's hard to make out any other details about this structure from this angle.\n\nIn the background, there are trees with green leaves, suggesting it might be late spring or summer. There is also a body of water visible in the distance, indicating that the area is near a lake or river. A wooden pier or dock can be seen partially submerged in the water. The water's surface is calm and reflects the light, which could imply it's a sunny day.\n\nThe image has a slight fisheye distortion, making the edges of the photo curved and the scene distorted due to the wide-angle lens used for the photograph. This distortion is more noticeable at the edges, with the foreground appearing more distorted than the background. The overall impression is that of a serene, natural setting with human-made elements integrated into the landscape.",
+      "duration_sec": 2.4,
+      "image_id": 57
+    },
+    {
+      "image": "20240715 220014_nan_W067_sample.jpg",
+      "caption": "The image shows an aerial view of a field, which appears to be dry and brown. There are no visible plants or vegetation, suggesting it might be a crop field during a season when crops have not yet grown, or perhaps a recently harvested field. In the foreground, there is an object that looks like a piece of agricultural equipment or machinery, possibly used for planting or other agricultural activities. The background shows a clear sky with no clouds and some distant trees. There are no visible texts or distinguishing marks that provide additional context about the location or the nature of the machinery in the field.",
+      "duration_sec": 1.2,
+      "image_id": 26
+    },
+    {
+      "image": "20240716 000012_nan_W083_sample.jpg",
+      "caption": "The image shows a view from inside a vehicle, possibly a car or truck, with a slightly blurred perspective suggesting movement. Through the window, there's a scene outside: a sky filled with clouds and a hint of blue visible near the top, indicating it might be early morning or late afternoon. The clouds are fluffy and white, suggesting it could be a cool or overcast day. Below the sky, there is vegetation that resembles shrubbery or trees, and to the right, part of a building can be seen.\n\nThe reflection in the vehicle's window appears to show the interior of the vehicle, which includes a structure with what looks like metal roofing on its right side. The quality of the photo is somewhat grainy and washed out, likely due to reflections or overexposure from the camera or window glass.",
+      "duration_sec": 1.47,
+      "image_id": 59
+    },
+    {
+      "image": "20240719 030012_nan_W06F_sample.jpg",
+      "caption": "The image shows a rural scene at either sunrise or sunset, as indicated by the warm lighting and color saturation that suggest this could be an evening shot. There are several recreational vehicles (RVs) parked on a grassy field with rolling hills in the background. The RVs appear to be of different sizes and types, including what looks like a travel trailer and other campers or vans. The environment suggests a park or campground setting. The sky is overcast with clouds that are partially illuminated by sunlight, contributing to the pastel hues in the image.",
+      "duration_sec": 1.21,
+      "image_id": 40
+    },
+    {
+      "image": "20240725 140011_nan_W083_sample.jpg",
+      "caption": "The image shows a daytime scene with the sun visibly shining in the sky, creating a lens flare effect across the photograph. In the foreground, there appears to be an outdoor setting with structures that resemble buildings or sheds, partially obscured by the sunlight and the angle at which the photo is taken. The sun's rays are scattered throughout the image, suggesting a bright day and possibly a low-angle perspective from within a vehicle or enclosure.\n\nOn the right side of the image, there is a noticeable streak or line that runs horizontally across the photo. It seems to be a result of a camera effect or filter applied during post-processing. The overall quality of the photo suggests it may have been taken with a smartphone or similar device without a proper lens cover, which can cause such artifacts due to internal reflections within the glass.",
+      "duration_sec": 1.51,
+      "image_id": 51
+    },
+    {
+      "image": "20240728 150009_nan_W067_sample.jpg",
+      "caption": "The image appears to be a photograph taken from an elevated perspective, possibly from an aircraft or a high vantage point. It shows a clear blue sky with no visible clouds or other atmospheric phenomena. In the center of the frame, there is a small, indistinct object that looks like it might be in motion due to its blurred appearance. The object has a darker color than the sky and seems to be on a horizontal trajectory. There are no texts, distinctive markings, or other objects present in the image that provide additional context or information about the location or nature of the photograph.",
+      "duration_sec": 1.14,
+      "image_id": 31
+    },
+    {
+      "image": "20240729 160012_nan_W06F_sample.jpg",
+      "caption": "The image shows an outdoor scene with a focus on recreational vehicles. There is a small camping trailer parked beside a larger fifth-wheel RV. Both vehicles are predominantly white with black accents. In the background, there's a grassy area that looks like a campsite or park, with trees and a clear sky indicating it might be a day with pleasant weather. The setting appears to be rural or semi-rural given the presence of greenery and open space. There are no visible people in the image.",
+      "duration_sec": 1.05,
+      "image_id": 36
+    },
+    {
+      "image": "20240730 171511_nan_V041_sample.jpg",
+      "caption": "The image shows an elevated structure that appears to be a solar farm or a similar type of renewable energy installation. There are rows of solar panels installed on what looks like a metal framework, with a grid-like pattern across the top. Below this array of solar panels is an open area with no visible structures or vegetation. In the background, there is a natural landscape that includes green foliage and a clear sky. The photo has been watermarked with the text \"www.shutterstock.com,\" indicating it might be from a stock photography website.",
+      "duration_sec": 1.06,
+      "image_id": 3
+    },
+    {
+      "image": "20240804 110012_nan_W020_sample.jpg",
+      "caption": "The image shows an aerial view of a landscape during dusk or dawn, given the soft lighting and blue-gray sky. In the foreground, there is a grassy area with some bare ground and a patch of vegetation that seems to be yellowed. A road runs through the middle of the frame, curving gently as it leads toward a body of water in the distance, which appears to be a lake or river given its elongated shape. There are no visible vehicles or people on the road. The horizon is not clearly defined, but there seems to be a line of trees or shrubs just beyond the grassy area, indicating the boundary between the open land and a more densely vegetated area. The image has a rectangular format with a wide aspect ratio, typical of a still frame from an unmanned aerial vehicle (UAV) or drone camera.",
+      "duration_sec": 1.54,
+      "image_id": 16
+    },
+    {
+      "image": "20240806 035510_nan_V041_sample.jpg",
+      "caption": "The image shows a structure that appears to be part of a large industrial or utility facility, possibly on top of a hill or elevated platform given the presence of pipes and what looks like a cooling tower in the background. The structure features metal walkways with handrails, supported by vertical pipe columns, suggesting it is designed for accessibility and safety for maintenance personnel. There are several mechanical components visible on the structure, including what appears to be an electrical panel and possibly other machinery related to industrial processes.\n\nThe surrounding area looks like a rural or semi-rural setting with vegetation in the foreground and the open sky above, indicating it might be early morning or late afternoon given the soft lighting. There are no visible texts or distinguishing marks that provide additional context about the location or the purpose of the facility. The image seems to have been taken from a distance, making it difficult to discern specific details about the equipment and the facility itself.",
+      "duration_sec": 1.58,
+      "image_id": 4
+    },
+    {
+      "image": "20240807 100009_nan_W067_sample.jpg",
+      "caption": "The image appears to be a digital screenshot or photograph of a celestial scene, specifically what seems to be a night sky with stars and possibly constellations. There is no visible text or any other objects that provide additional context about the location or circumstances surrounding the image. The resolution is low, making it difficult to distinguish finer details. The style of the image suggests it could be from a smartphone or camera used for astrophotography, given the presence of stars and the dark sky background.",
+      "duration_sec": 1.1,
+      "image_id": 22
+    },
+    {
+      "image": "20240810 070013_nan_W083_sample.jpg",
+      "caption": "The image appears to be a screenshot from a night vision camera or similar device, showing a scene at night. There is a blurred view of an outdoor area with what looks like a dark sky and some faint light sources that are possibly stars or distant lights. In the foreground, there is a pattern that seems to be a grainy texture overlaying the image, which is typical for images captured with a camera's night vision mode. The overall quality of the image is low due to the darkness and the limitations of night vision technology.",
+      "duration_sec": 1.1,
+      "image_id": 62
+    },
+    {
+      "image": "20240812 122511_nan_V041_sample.jpg",
+      "caption": "The image shows an indoor scene of a structure that appears to be a piece of construction or metalworking equipment, possibly a metal rack or table. There are several vertical bars or pipes forming a framework or scaffolding-like structure. These vertical elements are interconnected by horizontal beams or rails. At the top of the image, there is a large horizontal metal beam that spans across the picture.\n\nThe photo seems to have been taken from a low angle looking up towards the structure, as the bottom edge of the image suggests a surface or platform which might be part of the equipment being used or built. The lighting in the image is artificial and appears to be coming from above, casting shadows on the metal parts.\n\nThe quality of the photo is somewhat blurry and grainy, indicating it may have been taken with a low-resolution camera or during a time when lighting was poor. There are no people or moving objects visible in the image.",
+      "duration_sec": 1.6,
+      "image_id": 7
+    },
+    {
+      "image": "20240814 210012_nan_W067_sample.jpg",
+      "caption": "The image shows an aerial view of a landscape from above, featuring a dry, grassy area with no visible vegetation. There is a single antenna mounted on a pole near the center of the frame. In the background, there's a line of trees or shrubs that are in better condition than the ground. The ground appears to be covered with dry grass or straw. There's a patch of bare earth where the vegetation has been removed, which is visible as a large dark spot on the otherwise green surface. In the lower right corner of the image, there's a white label with black text that reads \"COVID-19 PANDEMIC,\" indicating the photo may have been taken during the COVID-19 pandemic when outdoor activities were limited, and areas like parks or fields might not be maintained as usual. The overall scene suggests an area that has either been intentionally cleared for maintenance, or is affected by a lack of resources due to the pandemic.",
+      "duration_sec": 1.7,
+      "image_id": 30
+    },
+    {
+      "image": "20240815 000012_nan_W020_sample.jpg",
+      "caption": "The image is a photograph taken from an elevated angle looking down at an expansive, open landscape. It appears to be a dry or recently harvested field with patches of green grass and yellow flowers interspersed across the surface. There are no significant structures or landmarks visible in the immediate vicinity. In the background, there is a faint outline that could be a distant body of water, but it's not clear enough to confirm this. The sky is overcast with clouds, suggesting either early morning or late afternoon lighting conditions.",
+      "duration_sec": 1.07,
+      "image_id": 19
+    },
+    {
+      "image": "20240815 200027_nan_W084_sample.jpg",
+      "caption": "The image appears to be a split-screen shot. On the left side, there is a photograph of a yellow hose coiled on a stand outdoors. It looks like an item for sale or use, possibly at a marketplace or during maintenance work.\n\nOn the right side, there is a digitally altered image showing a person standing in front of a building with watermarked areas indicating that the photo has been edited or manipulated. The watermark includes the text \"Image Manipulation,\" suggesting that the image has been digitally modified or enhanced. The background shows a patchy, textured overlay, which is commonly used to mimic brush strokes or other painting techniques in digital editing software.",
+      "duration_sec": 1.33,
+      "image_id": 79
+    },
+    {
+      "image": "20240821 180050_nan_W067_sample.jpg",
+      "caption": "The image is divided into two sections, with each section showing a different photo. The left side of the image shows a small portion of a blurry photograph with bright colors; it appears to be a camera lens with rainbow hues, likely due to a phenomenon such as water droplets on the lens or a filter effect. On the right side is a black and white photograph that seems to be an astronomy-related image, possibly showing celestial objects or structures, but the details are too small to discern any specifics. The style of the images suggests they may have been captured using different types of photography equipment, given the difference in clarity and coloration between the two photos.",
+      "duration_sec": 1.53,
+      "image_id": 27
+    },
+    {
+      "image": "20240825 020013_nan_W097_sample.jpg",
+      "caption": "The image depicts a lush, tropical landscape. There's a dense canopy of trees and foliage that dominate the scene. The environment appears to be misty or foggy, as suggested by the hazy appearance of the background. In the foreground, there is a glimpse of a body of water, possibly a river or lake, with its surface partially obscured by the mist. The colors in the image are dominated by greens, which indicate the presence of vegetation, and hints of brown and grey tones on the trees and skyline, likely due to the mist or fog conditions. No human activity is discernible in this natural setting.",
+      "duration_sec": 1.27,
+      "image_id": 80
+    },
+    {
+      "image": "20240826 010011_nan_W083_sample.jpg",
+      "caption": "The image depicts a rural outdoor setting during daylight with overcast sky. In the foreground, there is a patch of grass with some scattered items that appear to be fishing equipment or similar supplies. To the right, a body of water is visible where two boats are moored; one appears to be an inflatable canoe and the other resembles a small motorboat. The water surface is calm, reflecting the muted light conditions. On the far left side, there is a wooden structure that might serve as a boathouse or shed with various items stored on it. In the background, there's a dirt path leading to a building partially obscured by trees. Above the path, there is an overpass or bridge crossing over the landlocked body of water. The area surrounding the water body looks like a small lakefront property with a house barely visible at the far end under a line of trees. The overall style of the image is realistic and it captures a tranquil recreational area, likely used for boating or fishing activities.",
+      "duration_sec": 1.89,
+      "image_id": 52
+    },
+    {
+      "image": "20240826 172521_nan_V041_sample.jpg",
+      "caption": "The image shows an outdoor scene with a focus on a structure that appears to be a temporary or under-construction shelter or platform made up of metal sheets and wooden planks. The metal sheets are arranged in a corrugated pattern, typical for roofing materials, while the wooden planks seem to form a floor or base for the structure. In the foreground, there's a wooden scaffolding with steel tubes forming the frame, suggesting that it's being used as a support system or is part of the construction process. The background features greenery and an expanse of what looks like a rural area, possibly indicating that the site is on the outskirts of a forest or in a remote location. There are no people visible in the image.",
+      "duration_sec": 1.33,
+      "image_id": 6
+    },
+    {
+      "image": "20240903 190016_nan_W097_sample.jpg",
+      "caption": "The image shows a view of a forested area from an elevated perspective, possibly from a platform or viewing point. The vegetation appears lush with various shades of green, indicative of a dense and healthy ecosystem. There are no clear paths or roads visible in the immediate foreground, suggesting that this area may be relatively untouched by human activity, or that it is a protected natural habitat. The sky is overcast with clouds, giving the image a somewhat grayish tone. There are no distinct landmarks or recognizable features that would suggest the specific location of this forest. The image is a photograph taken during daylight, and there's a watermark or logo in the bottom right corner, indicating it might be from an organization or individual associated with the capture or use of the image.",
+      "duration_sec": 1.49,
+      "image_id": 82
+    },
+    {
+      "image": "20240905 040016_nan_W084_sample.jpg",
+      "caption": "The image shows a nighttime scene taken from a distance, likely from an elevated position such as a balcony or a hillside. In the foreground, there is a patch of grass illuminated by artificial light, possibly headlights from vehicles parked nearby. Beyond this brightly lit area, there are darker areas with various objects that appear to be trucks and other types of equipment. The environment suggests an outdoor setting, perhaps a parking lot or a staging area for construction or event setup.\n\nIn the background, the sky is dark, indicating that it's either nighttime or early morning. There are no visible texts, signs, or people in this particular image. The quality of the photograph appears to be low resolution, with pixelation and lack of sharpness typical of images taken at night without high-quality cameras.",
+      "duration_sec": 1.39,
+      "image_id": 65
+    },
+    {
+      "image": "20240908 140016_nan_W084_sample.jpg",
+      "caption": "The image shows a rural scene with a mountainous landscape in the background. In the foreground, there is a gravel parking lot where several vehicles are parked, including cars and trucks. A pickup truck appears to be driving past the area. There is also some construction equipment visible. To the left of the frame is a large building with a gabled roof, which could be a barn or storage facility. In front of this building, there is an open space where some small structures are partially obscured by the vehicles. The sky is clear and the sunlight suggests it might be early morning or late afternoon. There are no people visible in the image.",
+      "duration_sec": 1.16,
+      "image_id": 67
+    },
+    {
+      "image": "20240912 084505_nan_V041_sample.jpg",
+      "caption": "The image shows a black and white photograph of a metal structure, likely part of a construction or industrial project. There is a scaffolding framework with horizontal beams and diagonal supports, suggesting it could be used for various tasks such as welding, painting, or working at heights. In the foreground, there's an open door leading into the enclosed space, and inside the structure, you can see what appears to be a platform or deck with metal grating. The background is dark and out of focus, highlighting the structure itself.",
+      "duration_sec": 1.02,
+      "image_id": 9
+    },
+    {
+      "image": "20240914 100014_nan_W084_sample.jpg",
+      "caption": "The image appears to be a nighttime photograph showing an outdoor scene at dusk or night, with a dark sky as the backdrop. In the foreground, there are several silhouettes of trees and what seems to be a fence or barrier with vertical slats that are not illuminated, suggesting they are made of wood or metal. The horizon line is visible in the middle ground where the sky meets the horizon. There are no visible light sources within the frame, indicating it might be late in the evening when most human activity has subsided. The image is monochromatic, with no discernible colors, which gives it a moody and serene atmosphere.",
+      "duration_sec": 1.25,
+      "image_id": 66
+    },
+    {
+      "image": "20240916 164505_nan_V041_sample.jpg",
+      "caption": "The image shows an aerial view of a section of metal scaffolding with several steel grating panels, which suggests it is a piece of industrial or construction equipment. The scaffolding appears to be in a state of disuse or installation, as indicated by the absence of personnel and the lack of typical scaffolding accessories like ladders or brackets for planks. Below the scaffolding, there is a flat metal platform with a series of rectangular openings, possibly part of an integrated system within the structure where the scaffolding is being used. The background shows a cloudy sky and some indistinct structures that might be part of a larger building or construction site. There are no texts or distinguishing marks on the image to provide additional context.",
+      "duration_sec": 1.45,
+      "image_id": 1
+    },
+    {
+      "image": "20240918 042505_nan_V041_sample.jpg",
+      "caption": "The image shows an industrial or construction setting with a focus on a scaffolding structure. The scaffolding appears to be metal, with various horizontal and vertical supports that form a grid-like pattern. It is likely used for accessing higher areas of the site for maintenance or construction work. In the foreground, there seems to be a piece of machinery or equipment attached to the scaffolding, possibly related to electrical or mechanical processes. The background is not clearly visible due to the angle and framing of the photograph, but it suggests an outdoor environment with some sort of structure or building in the distance. There are no people or distinctive features that provide additional context about the location or purpose of the setup.",
+      "duration_sec": 1.21,
+      "image_id": 5
+    },
+    {
+      "image": "20240921 020014_nan_W067_sample.jpg",
+      "caption": "The image shows an outdoor scene featuring a large, grassy field with scattered bushes and patches of bare ground. In the foreground, there is a drone equipped with a camera that appears to be surveying the area. On the right side of the image, in the background, there's a structure that looks like an array of vertical antennas or equipment, possibly for communication or observation purposes. The setting suggests a rural or semi-rural environment, given the open field and the absence of buildings or other significant structures in close proximity to the viewer. There is no text visible in the image.",
+      "duration_sec": 1.16,
+      "image_id": 24
+    },
+    {
+      "image": "20240930 090031_nan_W067_sample.jpg",
+      "caption": "The image shows a computer screen displaying two panels side by side. On the left panel, there is a graph or plot that appears to be a representation of some sort of data or image with a colorful pattern, possibly resembling an astronomical observation such as a star field or a spectrum graph. There are no visible axes or labels on this graph.\n\nOn the right panel, there is a smaller, inset view that seems to zoom in on a particular area of the left graph. This inset view shows a more detailed and magnified section of the same data or image, with a circular pattern of colors, reminiscent of a satellite map or radar image. The right side of the image has been pixelated or obscured, making it difficult to discern specific details about this inset view.\n\nThe overall style of the image is that of a digital screenshot, which is commonly used for presenting data or images from software applications on a computer screen.",
+      "duration_sec": 1.91,
+      "image_id": 33
+    },
+    {
+      "image": "20241004 171506_nan_V041_sample.jpg",
+      "caption": "The image shows an outdoor scene with a focus on a large structure. This structure appears to be a piece of industrial equipment or machinery, possibly related to energy production given its design and the presence of multiple parallel tubes running across it. There are also vertical supports that frame the top of the structure.\n\nThe structure is situated in an area that looks like a clearing or a small lot with no significant vegetation visible around it. In the background, there's a natural environment with trees and some greenery, indicating this might be located on the outskirts of an urban or suburban area. The sky above is partly cloudy.\n\nThe style of the image seems to be a candid photograph taken during the day under natural light conditions. There are no visible people in the frame, and the focus is on the structure itself.",
+      "duration_sec": 1.38,
+      "image_id": 11
+    },
+    {
+      "image": "20241004 180012_nan_W083_sample.jpg",
+      "caption": "The image shows an outdoor scene, likely taken during daytime under clear skies. In the foreground, there is a large circular area with patchy grass and brown earth visible around its perimeter. Inside this circle, there are several wooden picnic tables with benches facing each other, suggesting it could be a gathering place or a park amenity. The furniture appears to be empty at the moment.\n\nIn the background, beyond the grassy area, there is a tranquil river flowing under a bridge that spans the width of the water. A few boats are docked on the bank near the bridge, and it seems like the river is calm with gentle reflections on its surface. The water's edge is lined with trees and foliage, contributing to the natural scenery.\n\nThe surrounding area looks spacious and open, with no signs of urban development or structures visible in the image. In the upper left corner, there's a glimpse of a structure that could be a building or a cabin, but it is not entirely clear due to the angle of the shot. The sky above is blue and cloudless, indicating fair weather conditions.",
+      "duration_sec": 2.1,
+      "image_id": 45
+    },
+    {
+      "image": "20241009 030013_nan_W067_sample.jpg",
+      "caption": "The image shows a nighttime view of an outdoor area, taken through a window or door with reflections and scratches. There is a bright circular light illuminating the scene, which appears to be an open field. The background beyond the light source is dark, emphasizing the contrast between the lit area and its surroundings. The ground looks uneven with what might be tufts of grass or some other vegetation that can't be clearly identified in the dark.\n\nIn the foreground, there seems to be a metal structure or piece of equipment on the left side of the image, partially visible against the window frame. There is also a partial view of what appears to be a black cord or cable running horizontally across the bottom of the image. The style of the image suggests it might have been taken with a phone camera or a similar handheld device used for capturing night scenes.",
+      "duration_sec": 1.55,
+      "image_id": 29
+    },
+    {
+      "image": "20241009 130019_nan_W083_sample.jpg",
+      "caption": "The image shows a view of a sky during either sunrise or sunset, with the sunlight creating a bright, diagonal arc across the frame from the upper left to the lower right corner. The sky appears to be mostly clear with a few clouds near the horizon. In the foreground, there is an object that resembles a satellite dish on the left side of the image. On the right, there's a building with a gabled roof and what seems to be a structure made of metal or plastic. The environment suggests a rural or semi-rural setting, given the presence of trees in the background. The photo has a vertical panoramic orientation, showing the sky dominating the majority of the image.",
+      "duration_sec": 1.29,
+      "image_id": 48
+    },
+    {
+      "image": "20241014 220032_nan_W083_sample.jpg",
+      "caption": "The image shows an outdoor scene with a focus on a fishing pier located near water, which appears to be a lake or pond. The pier is constructed of wooden planks and has several benches along its length, suggesting it's designed for visitors to sit and enjoy the view. The surrounding area includes grassy areas, and there are trees in the background that suggest a natural environment. On the far right side of the image, there is what seems to be a large metal object, possibly a boat or piece of outdoor equipment, lying on the ground. The water surface has slight ripples, indicating light winds or water movement. There's no visible text or distinct brands in the image. The setting appears tranquil with no people immediately visible.",
+      "duration_sec": 1.45,
+      "image_id": 63
+    },
+    {
+      "image": "20241016 123505_nan_V041_sample.jpg",
+      "caption": "The image shows an overhead view of a metal structure, possibly part of a crane or industrial equipment, against a dark background that suggests it might be taken at night. The structure includes what appears to be a platform with grating on its surface and supports, as well as a central column with several brackets attached to it. There are no visible people in the image. The overall appearance is utilitarian and industrial.",
+      "duration_sec": 0.81,
+      "image_id": 12
+    },
+    {
+      "image": "20241018 042006_nan_V041_sample.jpg",
+      "caption": "The image shows an industrial or construction setting at night, illuminated by artificial light. There is a metal structure with beams and pipes, which appears to be part of a larger scaffolding system. This specific section includes a walkway or platform supported by vertical columns and horizontal bracing. On the right side of the image, there is a close-up view of what seems to be a metal conduit or pipe run, with various fittings and valves attached. The background is dark, emphasizing the structure in front of it. There are no people visible in the image.",
+      "duration_sec": 1.07,
+      "image_id": 2
+    },
+    {
+      "image": "20241018 070011_nan_W020_sample.jpg",
+      "caption": "The image appears to be a digital composite that shows two different scenes side by side. On the left, there is a photograph of a room with various objects such as a microwave, possibly on a shelf or counter, and some other items that are not clearly identifiable due to the resolution and angle of the shot. The lighting in this part of the image suggests it could be taken during the day or under fluorescent light.\n\nOn the right, there is a graphical overlay that displays what appears to be thermal imaging data. This type of visualization often represents heat distribution in an area, with warmer temperatures shown in brighter colors and cooler temperatures in darker tones. The areas labeled \"Warm\" and \"Cool\" indicate regions where the temperature is hotter or colder, respectively.\n\nThe exact context or purpose of this composite image is not clear from the image alone, as it does not provide any additional information about what the data represents or why these two images are juxtaposed. It could be related to a scientific study, a surveillance setup, an art project, or any number of other applications that require thermal imaging and photography.",
+      "duration_sec": 2.28,
+      "image_id": 20
+    }
+  ]
+}

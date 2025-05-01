@@ -1,0 +1,916 @@
+{
+  "images": [
+    {
+      "id": 86,
+      "file_name": "20240921 180014_nan_W097_sample.jpg"
+    },
+    {
+      "id": 23,
+      "file_name": "20240924 030040_nan_W067_sample.jpg"
+    },
+    {
+      "id": 3,
+      "file_name": "20240926 123505_nan_V041_sample.jpg"
+    },
+    {
+      "id": 22,
+      "file_name": "20241019 210041_nan_W067_sample.jpg"
+    },
+    {
+      "id": 18,
+      "file_name": "20241023 150041_nan_W067_sample.jpg"
+    },
+    {
+      "id": 5,
+      "file_name": "20241023 182007_nan_V041_sample.jpg"
+    },
+    {
+      "id": 67,
+      "file_name": "20241024 160014_nan_W083_sample.jpg"
+    },
+    {
+      "id": 19,
+      "file_name": "20241024 200012_nan_W067_sample.jpg"
+    },
+    {
+      "id": 1,
+      "file_name": "20241027 170509_nan_V041_sample.jpg"
+    },
+    {
+      "id": 43,
+      "file_name": "20241028 200009_nan_W06F_sample.jpg"
+    },
+    {
+      "id": 72,
+      "file_name": "20241031 050011_nan_W083_sample.jpg"
+    },
+    {
+      "id": 79,
+      "file_name": "20241101 120015_bottom_camera_W084_bottom_camera.jpg"
+    },
+    {
+      "id": 14,
+      "file_name": "20241102 200024_nan_W020_sample.jpg"
+    },
+    {
+      "id": 80,
+      "file_name": "20241103 040015_bottom_camera_W084_bottom_camera.jpg"
+    },
+    {
+      "id": 81,
+      "file_name": "20241105 200015_bottom_camera_W084_bottom_camera.jpg"
+    },
+    {
+      "id": 73,
+      "file_name": "20241106 220018_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 63,
+      "file_name": "20241107 130008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 42,
+      "file_name": "20241107 190009_bottom_camera_W06F_bottom_camera.jpg"
+    },
+    {
+      "id": 64,
+      "file_name": "20241107 220009_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 60,
+      "file_name": "20241108 190008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 74,
+      "file_name": "20241108 190013_nan_W084_sample.jpg"
+    },
+    {
+      "id": 41,
+      "file_name": "20241109 200009_bottom_camera_W06F_bottom_camera.jpg"
+    },
+    {
+      "id": 26,
+      "file_name": "20241110 050010_left_camera_W06A_left_camera.jpg"
+    },
+    {
+      "id": 7,
+      "file_name": "20241110 135508_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 69,
+      "file_name": "20241111 030011_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 25,
+      "file_name": "20241112 070010_left_camera_W06A_left_camera.jpg"
+    },
+    {
+      "id": 12,
+      "file_name": "20241113 012509_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 24,
+      "file_name": "20241113 130010_left_camera_W06A_left_camera.jpg"
+    },
+    {
+      "id": 44,
+      "file_name": "20241114 090009_bottom_camera_W06F_bottom_camera.jpg"
+    },
+    {
+      "id": 61,
+      "file_name": "20241117 110008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 53,
+      "file_name": "20241118 020008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 75,
+      "file_name": "20241119 080009_nan_W084_sample.jpg"
+    },
+    {
+      "id": 58,
+      "file_name": "20241119 150008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 8,
+      "file_name": "20241119 234509_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 28,
+      "file_name": "20241121 033020_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 21,
+      "file_name": "20241124 120010_bottom_camera_W067_bottom_camera.jpg"
+    },
+    {
+      "id": 6,
+      "file_name": "20241124 231519_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 30,
+      "file_name": "20241127 021510_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 16,
+      "file_name": "20241127 080006_nan_W020_sample.jpg"
+    },
+    {
+      "id": 20,
+      "file_name": "20241129 040010_bottom_camera_W067_bottom_camera.jpg"
+    },
+    {
+      "id": 84,
+      "file_name": "20241129 040013_bottom_camera_W097_bottom_camera.jpg"
+    },
+    {
+      "id": 9,
+      "file_name": "20241130 065519_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 46,
+      "file_name": "20241201 080008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 13,
+      "file_name": "20241203 061008_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 4,
+      "file_name": "20241203 063009_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 77,
+      "file_name": "20241204 030009_bottom_camera_W084_bottom_camera.jpg"
+    },
+    {
+      "id": 40,
+      "file_name": "20241204 130011_bottom_camera_W06F_bottom_camera.jpg"
+    },
+    {
+      "id": 83,
+      "file_name": "20241205 000012_bottom_camera_W097_bottom_camera.jpg"
+    },
+    {
+      "id": 65,
+      "file_name": "20241205 080043_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 55,
+      "file_name": "20241206 150008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 52,
+      "file_name": "20241207 070008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 27,
+      "file_name": "20241208 214510_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 36,
+      "file_name": "20241208 230019_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 48,
+      "file_name": "20241209 090008_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 29,
+      "file_name": "20241209 151509_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 82,
+      "file_name": "20241209 220010_bottom_camera_W084_bottom_camera.jpg"
+    },
+    {
+      "id": 56,
+      "file_name": "20241210 110009_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 39,
+      "file_name": "20241210 234509_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 33,
+      "file_name": "20241213 084510_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 59,
+      "file_name": "20241213 200014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 62,
+      "file_name": "20241215 100014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 78,
+      "file_name": "20241215 150010_top_camera_W084_top_camera.jpg"
+    },
+    {
+      "id": 51,
+      "file_name": "20241215 200014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 37,
+      "file_name": "20241217 083012_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 34,
+      "file_name": "20241217 183011_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 87,
+      "file_name": "20241217 230022_bottom_camera_W097_bottom_camera.jpg"
+    },
+    {
+      "id": 32,
+      "file_name": "20241219 134511_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 10,
+      "file_name": "20241219 145518_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 11,
+      "file_name": "20241220 050518_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 54,
+      "file_name": "20241220 150014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 57,
+      "file_name": "20241221 210014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 2,
+      "file_name": "20241222 080009_left_camera_V041_left_camera.jpg"
+    },
+    {
+      "id": 68,
+      "file_name": "20241222 170016_top_camera_W083_top_camera.jpg"
+    },
+    {
+      "id": 17,
+      "file_name": "20241223 000012_mobotix_W020_sample.jpg"
+    },
+    {
+      "id": 31,
+      "file_name": "20241223 084521_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 88,
+      "file_name": "20241223 210009_bottom_camera_W0C3_bottom_camera.jpg"
+    },
+    {
+      "id": 35,
+      "file_name": "20241223 211512_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 38,
+      "file_name": "20241224 053032_bottom_camera_W06C_bottom_camera.jpg"
+    },
+    {
+      "id": 76,
+      "file_name": "20241225 110049_top_camera_W084_top_camera.jpg"
+    },
+    {
+      "id": 70,
+      "file_name": "20241229 210015_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 45,
+      "file_name": "20241229 220014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 47,
+      "file_name": "20241230 100014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 15,
+      "file_name": "20241231 020021_mobotix_W020_sample.jpg"
+    },
+    {
+      "id": 49,
+      "file_name": "20250105 120014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 71,
+      "file_name": "20250107 050014_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 91,
+      "file_name": "20250107 213019_bottom_camera_W0C3_bottom_camera.jpg"
+    },
+    {
+      "id": 50,
+      "file_name": "20250108 120014_bottom_camera_W070_bottom_camera.jpg"
+    },
+    {
+      "id": 90,
+      "file_name": "20250108 173010_bottom_camera_W0C3_bottom_camera.jpg"
+    },
+    {
+      "id": 85,
+      "file_name": "20250110 230019_bottom_camera_W097_bottom_camera.jpg"
+    },
+    {
+      "id": 66,
+      "file_name": "20250111 110011_bottom_camera_W083_bottom_camera.jpg"
+    },
+    {
+      "id": 89,
+      "file_name": "20250111 160014_bottom_camera_W0C3_bottom_camera.jpg"
+    }
+  ],
+  "annotations": [
+    {
+      "image": "20240921 180014_nan_W097_sample.jpg",
+      "caption": "The image depicts a dense forest with trees and vegetation covering most of the area. The sky above the treetops is bright white, suggesting an overcast day with fog or cloud cover. In the distance, a mountain range rises up to meet the clouds, creating a misty effect. The overall atmosphere of the scene conveys mystery and intrigue, inviting the viewer to ponder the secrets that lie within the depths of the forest.",
+      "duration_sec": 28.76,
+      "image_id": 86
+    },
+    {
+      "image": "20240924 030040_nan_W067_sample.jpg",
+      "caption": "The image shows a sky with stars, a rainbow-colored object, and a gray circular object.\n\n**Objects:**\n\n*   Stars\n*   A rainbow-colored object\n*   A gray circular object\n\n**Features:**\n\n*   The rainbow-colored object is likely a lens flare or light reflection from the sun.\n*   The gray circular object is probably a satellite.",
+      "duration_sec": 6.58,
+      "image_id": 23
+    },
+    {
+      "image": "20240926 123505_nan_V041_sample.jpg",
+      "caption": "The image depicts a metal staircase with railings, viewed from above. The stairs are made of concrete steps, each one slightly higher than the last, forming a zigzag pattern. The handrailings are constructed from long, silver pipes that extend from the floor up to the ceiling and curve around the corner where the stairs turn. \n\nThe walls are painted white, and the background is dark.",
+      "duration_sec": 6.46,
+      "image_id": 3
+    },
+    {
+      "image": "20241019 210041_nan_W067_sample.jpg",
+      "caption": "The image presents a vibrant, colorful scene with a blue sky and white clouds. In the foreground, there is a large gray cylinder that appears to be emitting smoke or steam. The background behind the cylinder is blurry, but it seems to show trees and possibly hills in the distance.\n\nA plane flies through the sky, leaving behind a trail of condensed water vapor. The plane is flying low enough that its shadow falls across the cylinder and extends to the right side of the image. \n\nThe overall atmosphere of the image is one of energy and power as a large plume of smoke rises from the cylinder into the sky.",
+      "duration_sec": 9.5,
+      "image_id": 22
+    },
+    {
+      "image": "20241023 150041_nan_W067_sample.jpg",
+      "caption": "The image shows a black background with a bright blue streak running from left to right across the bottom of the frame. The streak is thin, about 1 pixel wide, and appears to be moving at a constant velocity. \n\nA small, round object is visible near the top-left corner of the image. It has a light gray color and appears to be stationary.\n\nThe image is in grayscale and shows a bright white vertical line running from the bottom-right edge of the frame up towards the top-left corner. The line is thin, about 1 pixel wide, and appears to be moving at a constant velocity. \n\nThe image is in grayscale and shows two dark gray horizontal lines, one running from left to right across the middle of the frame, and the other running from bottom to top along the right edge of the frame.",
+      "duration_sec": 12.07,
+      "image_id": 18
+    },
+    {
+      "image": "20241023 182007_nan_V041_sample.jpg",
+      "caption": "The image depicts a forested hillside with trees of varying sizes and shades of green, set against a backdrop of mountains shrouded in mist. The sky is overcast, and the sun's rays are visible through breaks in the clouds.\n\nIn the foreground, there are at least two rows of coniferous trees, one situated closer to the camera and another farther away. The row nearest the camera comprises at least seven individual trees, while the more distant row appears less dense, with only four or five discernible trees. All the trees display varying shades of green foliage.\n\nThe trunks of all the trees are straight, but their canopies differ in size and shape. Some trees have rounded tops, while others taper to a point.\n\nSeveral tree stumps are scattered about the base of the hillside among the trees. The ground beneath them appears brown with patches of yellowish-green vegetation.\n\nIn the background, the coniferous trees on the mountainside display similar characteristics to those in the foreground but appear more diminutive due to their greater distance from the camera. The mountain slopes are rugged and rocky, covered sparsely by low-lying bushes or shrubs. The sky above is gray and overcast, with sunlight diffused by cloud cover.",
+      "duration_sec": 17.43,
+      "image_id": 5
+    },
+    {
+      "image": "20241024 160014_nan_W083_sample.jpg",
+      "caption": "The image shows a large building with a metal roof and vertical walls, surrounded by trees and other vegetation. The sky is blue and clear, with wispy clouds near the horizon. In the foreground, there appears to be a dark structure that could be a shed or garage.\n\nThe background of the image features a mountain range under the blue sky. There are no visible objects in the immediate foreground, but there may be some objects obscured by vegetation in the middle ground. The overall atmosphere suggests a daytime setting with sunny conditions and a clear view.",
+      "duration_sec": 8.35,
+      "image_id": 67
+    },
+    {
+      "image": "20241024 200012_nan_W067_sample.jpg",
+      "caption": "The image is a digital photograph of an airplane, taken from directly below the aircraft as it flies over a city. The plane is flying at a height of approximately 10,000 feet above ground level.\n\nThe image shows a clear view of the city's skyline, with several buildings and structures visible in the background. The overall atmosphere of the scene appears to be one of urban decay and neglect, with tall grasses and weeds growing in cracked sidewalks and empty lots. The photo was taken on a bright, sunny day during late spring or early summer.",
+      "duration_sec": 8.67,
+      "image_id": 19
+    },
+    {
+      "image": "20241027 170509_nan_V041_sample.jpg",
+      "caption": "The image depicts a foggy forest, with trees barely visible through the misty veil.\n\nIn the foreground, there is a large group of evergreen trees that are not clearly distinguishable from one another due to the heavy fog. The branches and leaves of the trees in the foreground blend together, making it difficult to discern individual characteristics or details. In the background, the tops of the trees are barely visible above the fog line.\n\nThe overall atmosphere suggests a damp, gloomy day with low visibility.",
+      "duration_sec": 7.72,
+      "image_id": 1
+    },
+    {
+      "image": "20241028 200009_nan_W06F_sample.jpg",
+      "caption": "The image depicts a landscape with a large field and trees. There is also a white trailer, which may be an RV or camper van, in the lower-right corner of the image. The trailer appears to have a black ladder leaning against its right side.\n\nIn the center of the image, there is a tan house with a brown roof and a stone chimney. To the left of the house, there are several evergreen trees. \n\nThe overall atmosphere of the image suggests a daytime setting with overcast conditions.",
+      "duration_sec": 8.06,
+      "image_id": 43
+    },
+    {
+      "image": "20241031 050011_nan_W083_sample.jpg",
+      "caption": "The image depicts a nighttime scene of train tracks with a fence on the left side and a dark background. The objects that can be seen are:\n\n*   Train tracks: A set of parallel metal rails that run from the bottom to the top of the image.\n*   Fence: A vertical structure made of wood or metal posts, located on the left side of the image.\n*   Background: The area beyond the train tracks is dark and shadowy, suggesting it may be a wooded area or a field at night.\n\nThe overall atmosphere of the image suggests a rural or isolated location, possibly near a forest or a field, with the train tracks serving as a prominent feature in the foreground.",
+      "duration_sec": 10.08,
+      "image_id": 72
+    },
+    {
+      "image": "20241101 120015_bottom_camera_W084_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene with a bright light source in the center, surrounded by trees and bushes. The sky is dark, suggesting it's nighttime.\n\nIn the foreground, there appears to be a field or clearing with several objects that could be either small trees or poles sticking out of the ground. A large bush or tree is positioned on the left side of the image, while another object resembling a pole is visible near the center. The light source emanates from behind these objects and illuminates them.\n\nThe background of the image shows a dark sky with no discernible stars or moon, suggesting it's nighttime. There are some faint white specks scattered throughout the sky that could be either stars or camera noise.",
+      "duration_sec": 10.43,
+      "image_id": 79
+    },
+    {
+      "image": "20241102 200024_nan_W020_sample.jpg",
+      "caption": "The image is a thermal infrared image of a desert landscape with some grass and bushes growing on it, taken from a height of about 10 feet above the ground. The sky is blue and there are no clouds visible.\n\nIn the lower left corner of the image, there appears to be an object that looks like a white plastic bucket, but its shadow suggests that it might also be some kind of helmet. \n\nTo the right of this object, at a distance from it of about 20 feet, is what appears to be the nose and mouth area of a person wearing a white shirt and a black jacket or coat. The person's head is tilted slightly downward and their chin is resting on their chest. The image is very blurry, but based on the context in which it was captured, I would guess that the person may have been walking or running. \n\nThe image shows what appears to be two white stormtrooper helmets with a black stripe down the middle, sitting on the ground next to some kind of rectangular device with a screen on it and some sort of control panel below the screen. There is an indistinct white object to the right of this device that could possibly be some kind of robot or machine part.\n\nBecause the image is very blurry, I am not able to provide any specific details about the objects in it.",
+      "duration_sec": 18.48,
+      "image_id": 14
+    },
+    {
+      "image": "20241103 040015_bottom_camera_W084_bottom_camera.jpg",
+      "caption": "The image shows a nighttime scene with snow falling from the sky. The ground is covered in snow, and there are several trees in the background. In the foreground, there appears to be a small evergreen tree or bush with two visible trunks. The branches of the tree are bare, suggesting that it may be winter. There do not appear to be any other objects or features in the image.\n\nThe overall atmosphere suggests a cold and quiet winter night scene.",
+      "duration_sec": 7.24,
+      "image_id": 80
+    },
+    {
+      "image": "20241105 200015_bottom_camera_W084_bottom_camera.jpg",
+      "caption": "The image depicts a rural landscape with mountains in the background, under an overcast sky with a snow-covered field in the foreground. The sky is cloudy, and there are trees and buildings scattered throughout the scene.\n\nThere are no immediately visible objects or features in the attached image.",
+      "duration_sec": 4.96,
+      "image_id": 81
+    },
+    {
+      "image": "20241106 220018_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image depicts a serene scene, with a canoe lying on its side, accompanied by two individuals standing nearby. The setting appears to be a grassy area near a body of water, possibly a lake or river. In the background, trees and other foliage are visible, suggesting an outdoor environment.\n\nThe objects in the foreground are likely made of metal, given their reflective surfaces. The presence of people implies human activity, although no facial features or distinguishing characteristics can be discerned to confirm this interpretation.\n\nIn summary, the image presents a tranquil lakeside setting with a canoe and two individuals present, set against a natural backdrop featuring trees and other vegetation.",
+      "duration_sec": 9.74,
+      "image_id": 73
+    },
+    {
+      "image": "20241107 130008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a city skyline at night, with several buildings and skyscrapers illuminated by lights. The sky above the city is dark, suggesting that it is nighttime.\n\nThere are no clouds or other natural elements visible in the image. \nThe overall atmosphere of the scene appears to be one of urbanization, with many tall buildings and streets.",
+      "duration_sec": 6.01,
+      "image_id": 63
+    },
+    {
+      "image": "20241107 190009_bottom_camera_W06F_bottom_camera.jpg",
+      "caption": "The image depicts a serene winter landscape, with a snow-covered field and trees in the foreground. The sky is clear and blue, suggesting a cold but sunny day.\n\nIn the background, there are evergreen trees and a fence that encloses the scene. A small shed or barn is visible near the center of the image.\n\nThe overall atmosphere of the image is peaceful and idyllic, evoking feelings of tranquility and relaxation.",
+      "duration_sec": 7.12,
+      "image_id": 42
+    },
+    {
+      "image": "20241107 220009_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a landscape with hills and valleys, featuring trees and bushes. In the foreground, there is a fence made of wire mesh, supported by metal poles. The sky above is blue and clear.\n\nThe sun shines brightly from behind a cloudless sky, casting rays onto the ground below. A few objects are visible in front of the fence, including what appears to be a white plastic bag and a dark cylindrical item that could be a tree trunk or a pole. Behind the fence, the background consists of more trees and bushes on rising ground that meets the horizon.\n\nThe overall atmosphere of the image is one of natural beauty, with the sun casting dappled light and deep shadows onto the landscape.",
+      "duration_sec": 10.4,
+      "image_id": 64
+    },
+    {
+      "image": "20241108 190008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a landscape with a fence, trees, mountains, and grass in the background. The sky is blue and clear, suggesting a sunny day.\n\nIn the foreground, there are several objects that appear to be made of metal or plastic, including what seems to be a white bucket, a yellow tube, and two green objects that could be trees or bushes. There also appears to be a chain link fence in front of these objects, which separates them from the rest of the landscape.\n\nThe overall atmosphere suggests a daytime setting with clear weather, possibly during spring or summer, given the presence of grass and what appear to be trees.",
+      "duration_sec": 9.63,
+      "image_id": 60
+    },
+    {
+      "image": "20241108 190013_nan_W084_sample.jpg",
+      "caption": "The image depicts a winter landscape with snow-covered mountains in the background, trees scattered throughout, a road running through the center, and a fence along the bottom edge.\n\nThe image is divided into four quadrants by a grid superimposed over it, with a compass rose in the lower left quadrant. The upper left quadrant contains a house, while the other three quadrants are empty except for some small bushes in the upper right quadrant and a few trees in the lower right quadrant.\n\nIn the background, there is a mountain range with snow on its peaks under a blue sky with white clouds. The sun shines brightly from behind the mountains, casting no shadows.",
+      "duration_sec": 9.85,
+      "image_id": 74
+    },
+    {
+      "image": "20241109 200009_bottom_camera_W06F_bottom_camera.jpg",
+      "caption": "The image shows a snowy field with a small shed in the center. There are no people or animals in the image, but there is snow on the ground and a fence around part of the field. The sun is shining brightly from behind some trees on the left side of the image.\n\nThere is also an RV parked to the right of the shed. The RV has skylights, two air conditioning units, and a vent fan on its roof. There are no people in or around the RV. \n\nThe overall atmosphere suggests a sunny but cold winter day in a rural area with snow covering the ground and a fence surrounding part of a field.",
+      "duration_sec": 9.8,
+      "image_id": 41
+    },
+    {
+      "image": "20241110 050010_left_camera_W06A_left_camera.jpg",
+      "caption": "The image depicts a nighttime scene with a dark sky, illuminated by the moon's glow. In the foreground, there are several trees and bushes, while a grassy area is visible in the middle ground. The overall atmosphere of the image exudes mystery and intrigue.\n\n**Key Features:**\n\n*   Dark sky\n*   Moonlight\n*   Trees and bushes\n*   Grass\n\nThe background appears to be a forest or wooded area, characterized by the presence of trees and other vegetation.",
+      "duration_sec": 7.72,
+      "image_id": 26
+    },
+    {
+      "image": "20241110 135508_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a black-and-white photograph of trees, which appear to be birch or spruce, with snow covering their branches. The trees are densely packed together, creating a sense of depth and texture. In the background, there is a dark sky, suggesting that the photo was taken at night or in a dimly lit area.\n\nThe overall atmosphere of the image is one of serenity and tranquility, evoking a sense of stillness and quiet contemplation. The monochromatic color scheme adds to the somber mood, with the snow-covered trees appearing as sentinels standing guard over the landscape.",
+      "duration_sec": 9.22,
+      "image_id": 7
+    },
+    {
+      "image": "20241111 030011_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene of a road with trees on both sides, illuminated by streetlights. The foreground is dark due to the absence of light sources directly within it.\n\nA row of streetlights lines the left side of the road, casting shadows of the trees onto the ground. On the right side of the road, there are no visible objects or features, making this area appear empty and desolate. In the background, more trees can be seen, but they do not contribute significantly to the overall brightness of the scene.\n\nThe sky above is dark, indicating that it is nighttime. The only light sources are the streetlights along the left side of the road, which cast shadows on the ground and trees. There are no other visible objects or features in the foreground, making this area appear empty and devoid of details.",
+      "duration_sec": 11.96,
+      "image_id": 69
+    },
+    {
+      "image": "20241112 070010_left_camera_W06A_left_camera.jpg",
+      "caption": "The image is a black-and-white photograph of a nighttime scene, with the moon visible in the sky. The photo appears to be taken from a high vantage point, possibly on a hill or mountain.\n\nThere are several objects visible in the foreground, including trees and bushes. In the middle ground, there is a clearing or meadow with grass and what appear to be wildflowers. In the background, there are more trees and hills, as well as a body of water that may be a lake or river.\n\nThe overall atmosphere suggests a daytime setting, possibly in late spring or early summer, given the presence of greenery and flowers. The lighting is natural, with no visible signs of artificial illumination. The photo quality is high, indicating it was taken with a good camera and under favorable conditions.",
+      "duration_sec": 11.52,
+      "image_id": 25
+    },
+    {
+      "image": "20241113 012509_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a nighttime scene with trees, bushes, and other vegetation illuminated by bright lights. The overall atmosphere is one of serenity and tranquility, with a sense of depth created by the shadows cast by the objects and their illumination.\n\nIn the foreground, several trees and bushes are visible, along with what appears to be a paved walkway or road that winds through the center of the image. The trees display a variety of sizes, from small saplings to larger, more mature specimens. Some of the trees have branches that stretch upwards towards the sky, while others have branches that droop downwards towards the ground.\n\nThe background features rolling hills with patches of light and dark greenery scattered throughout. In the distance, lights can be seen twinkling like stars in the darkness, suggesting a nighttime setting. The overall mood is one of peacefulness and stillness, inviting contemplation and introspection.",
+      "duration_sec": 12.35,
+      "image_id": 12
+    },
+    {
+      "image": "20241113 130010_left_camera_W06A_left_camera.jpg",
+      "caption": "The image shows a serene natural landscape with a pond surrounded by trees and grasses, set against a backdrop of a blue sky with white clouds. The water is calm, reflecting the colors of the surrounding environment.\n\nIn the foreground, there are no visible objects or features. The overall atmosphere of the image is one of peacefulness and tranquility, evoking feelings of relaxation and connection to nature.",
+      "duration_sec": 6.47,
+      "image_id": 24
+    },
+    {
+      "image": "20241114 090009_bottom_camera_W06F_bottom_camera.jpg",
+      "caption": "The image shows a snowy landscape with a camper van parked in front of it. The camper is white, with two dark windows on either side of the central door, which appears to be slightly ajar. There are several objects around the van that appear to be made from wood or plastic and may be camping equipment: a square object with what looks like two small boxes stacked on top of it; a long pole leaning against the camper's left side; and three more rectangular shapes in front, which could either be a bench or steps leading up to the door. In the background, there are trees scattered about, some of which have lost their leaves for winter, and what appears to be a snow-covered hill with tracks running through it. The sky above is dark gray, suggesting that the photo was taken at night or in low light conditions.",
+      "duration_sec": 11.83,
+      "image_id": 44
+    },
+    {
+      "image": "20241117 110008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a black-and-white night vision view of a hillside, with a fence running along its base. The sky above is clear and dark, devoid of any clouds or celestial bodies. In the foreground, a grassy area stretches out before giving way to a dirt path that winds up the hillside. A few trees dot the landscape, their branches bare and skeletal in the moonlight. In the middle ground, shrubs and bushes are visible, along with what appears to be a trash can. The background is dominated by the dark shape of the hill, which rises gently from left to right before flattening out at its summit. \n\nThe overall atmosphere of the image is one of desolation and isolation, evoked by the starkness of the night vision and the emptiness of the landscape.",
+      "duration_sec": 11.74,
+      "image_id": 61
+    },
+    {
+      "image": "20241118 020008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image shows a black-and-white photograph of a cityscape at night, with many buildings and streets illuminated by streetlights. The sky is dark, and there are no clouds or stars visible.\n\nThe foreground of the image features several objects that can be described as follows:\n\n* A road: This is a wide, paved path that runs from the bottom-left corner to the top-right corner of the image. It has a solid white line down its center and two dashed lines on either side.\n* A building: Located at the left-center edge of the image, this structure appears to be made of glass or metal and has many windows, some of which are lit up from within. The building's shape is roughly rectangular with a flat roof.\n* Trees: Scattered throughout the foreground of the image, these appear to be evergreen trees based on their dark color and rounded shapes. Some have branches that extend upward from their trunks.\n* Streetlights: These are tall poles that rise from the ground and support round lights at their tops. The light fixtures are made of glass or plastic and emit a yellow glow.\n\nThe background of the image shows a cityscape with many buildings, some of which are very tall and have flat roofs. In between these structures is a wide road that has a solid white line down its center and dashed lines on either side.",
+      "duration_sec": 18.65,
+      "image_id": 53
+    },
+    {
+      "image": "20241119 080009_nan_W084_sample.jpg",
+      "caption": "The image shows a colorful, pixelated pattern with bright colors of yellow, orange, red, blue, green, and purple. The pattern is most likely an image of the sky taken from above, as it has the appearance of being lit by sunlight. There are several objects visible in the image that could be described as immediately visible.\n\nThe first object is a long, thin line that cuts across the center of the image horizontally. It extends off the left side of the image and appears to continue past its edge. The line varies in color from yellow at its left end to red on its right end. \n\nThe second object is a bright spot near the top-left corner of the image. It is circular in shape and colored yellow, orange, and red. \n\nThe third object is a diagonal line that extends from the bottom-right corner toward the center of the image. It is straight and colored green with a blue tint at its lower end.",
+      "duration_sec": 13.42,
+      "image_id": 75
+    },
+    {
+      "image": "20241119 150008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a landscape with mountains, trees, and bushes. There are no people or animals present.\n\nIn the foreground, there is a fence made of metal bars, with a gate that is open. A dirt road leads to the left side of the image. On the right side, there appears to be a grassy field, partially obscured by shadows cast by trees and other objects.\n\nThe background features mountains and a blue sky with white clouds. The overall atmosphere suggests a daytime setting with sunny conditions.",
+      "duration_sec": 7.97,
+      "image_id": 58
+    },
+    {
+      "image": "20241119 234509_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a serene winter landscape, with snow-covered trees and mountains in the background. The scene is peaceful, with no people or animals present.\n\nIn the foreground, there are several evergreen trees, their branches heavy with snow. In front of the trees, to the left, there appears to be a small wooden structure, possibly a gazebo or bridge. To the right, there is a grassy area that may have been cleared of snow.\n\nThe background features a mountain range, with peaks rising into low-hanging clouds. The overall atmosphere of the image is one of crisp, cold air and pristine beauty.",
+      "duration_sec": 9.26,
+      "image_id": 8
+    },
+    {
+      "image": "20241121 033020_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy landscape with a telephone pole and wires running along it, as well as some trees and bushes in the foreground. The scene is illuminated by sunlight, casting dappled shadows on the snow.\n\n**Key Features:**\n\n*   Telephone pole\n*   Wires\n*   Trees\n*   Bushes\n*   Snowy landscape\n\n**Description:**\nThis image captures a serene winter scene with a telephone pole standing out against the snowy backdrop. The wires running along the pole are supported by wooden poles, which are spaced at regular intervals. In the foreground, several trees and bushes are visible, adding depth to the image. The overall atmosphere is one of tranquility, with the snow-covered ground and the telephone infrastructure creating a sense of stillness.",
+      "duration_sec": 11.22,
+      "image_id": 28
+    },
+    {
+      "image": "20241124 120010_bottom_camera_W067_bottom_camera.jpg",
+      "caption": "The image depicts a scene with several objects and features, but it is difficult to discern specific details due to the low resolution and lack of color. The image appears to be a nighttime aerial view of a body of water, possibly an ocean or lake, with a few boats visible in the distance. There are also some indistinct landmasses and what might be mountains on the horizon.\n\nIn the foreground, there is a dark shape that could be either a shadow or a hole in the ground. It is unclear whether this object is man-made or natural.\n\nThe overall atmosphere of the image suggests a serene and peaceful setting, with the stillness of the water and the darkness of the surrounding environment evoking a sense of mystery and intrigue.",
+      "duration_sec": 10.87,
+      "image_id": 21
+    },
+    {
+      "image": "20241124 231519_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a forested mountainous landscape with a large, brown wooden house situated on the left side of the frame. The house has two stories and a steeply pitched roof. In front of the house, there is a small garden with various plants and trees. To the right of the house, there is a field that slopes downward to reveal more of the mountainous terrain in the background. \n\nThe sky above the mountains is blue and clear, suggesting it is daytime.\n\nIn terms of objects, the image features the brown house and its garden in the foreground, while the mountainous landscape serves as the background. The overall atmosphere of the image is one of serenity and peacefulness, with the house and garden appearing as a haven within the vast wilderness setting.",
+      "duration_sec": 11.17,
+      "image_id": 6
+    },
+    {
+      "image": "20241127 021510_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image is a black-and-white photograph of an outdoor scene at night, with snow on the ground and a utility pole or pylon in the foreground. The pole has wires running up it, and there are several objects around the base of the pole, including what appear to be boxes and other equipment. In the background, there appears to be trees and possibly another building or structure.\n\nThe image is likely intended to show a nighttime winter sports training facility, given the presence of snow and the various pieces of equipment.",
+      "duration_sec": 7.95,
+      "image_id": 30
+    },
+    {
+      "image": "20241127 080006_nan_W020_sample.jpg",
+      "caption": "The image shows a white stormtrooper helmet from the Star Wars franchise, with a blue light emanating from it. The background is black.\n\nIn this scene, the helmet appears to be emitting a bright blue light that illuminates its surroundings and creates a sense of depth in the image. This effect is achieved through the use of lighting, which highlights the contours of the object against the dark background. \n\nThe overall mood of the image is ominous and foreboding, suggesting danger or menace.",
+      "duration_sec": 8.0,
+      "image_id": 16
+    },
+    {
+      "image": "20241129 040010_bottom_camera_W067_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene with a spotlight shining on a field, accompanied by a cross-shaped object in the foreground. The spotlight casts an oval shape of light onto the grassy area, which is dotted with small plants and trees. In the background, there are more trees and what appears to be a fence or other structure.\n\nIn the foreground, there is a black metal cross standing upright on the ground. To its left lies a dark-colored object that resembles a chair or table leg. The overall atmosphere suggests a nighttime setting, possibly in a rural area given the presence of vegetation and lack of artificial lighting.",
+      "duration_sec": 8.98,
+      "image_id": 20
+    },
+    {
+      "image": "20241129 040013_bottom_camera_W097_bottom_camera.jpg",
+      "caption": "The image depicts a lush forest with trees of varying heights, showcasing a diverse range of flora and fauna. The sky above is bright white, indicating a sunny day. In the foreground, several trees are prominently displayed, while others are visible in the background, creating depth. The overall atmosphere suggests a daytime setting, likely during late morning or early afternoon when the sun is not directly overhead.",
+      "duration_sec": 6.52,
+      "image_id": 84
+    },
+    {
+      "image": "20241130 065519_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a forest of trees at night, with a bright light shining down from above. The light is likely coming from a drone equipped with a spotlight, which is commonly used for search and rescue operations or to illuminate an area for nighttime photography.\n\nIn the top left corner of the image, there are two vertical white lines that appear to be streaks of light reflecting off the camera lens. These could be lens flares or reflections from the light source. The background of the image is solid black, indicating that it was taken at night.\n\nThe overall atmosphere suggests a nighttime setting, possibly in a wooded area where search and rescue operations are being conducted.",
+      "duration_sec": 9.69,
+      "image_id": 9
+    },
+    {
+      "image": "20241201 080008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image is a black-and-white photograph taken from an airplane window, looking down at a cityscape. The sky is dark and cloudy, with lights from buildings and streets below. In the foreground, there are several objects visible:\n\n*   A large body of water (likely a lake or river) with land on either side.\n*   Several buildings, including what appears to be a skyscraper\n*   A road or highway running along the left side of the image\n*   Trees and other vegetation\n\nThe overall atmosphere suggests a nighttime setting in an urban environment.",
+      "duration_sec": 8.77,
+      "image_id": 46
+    },
+    {
+      "image": "20241203 061008_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a nighttime scene, with trees and bushes illuminated by white lights. The sky is dark, suggesting it's either very early morning or late evening. In the foreground, there are several evergreen trees with long branches that extend upwards, as well as some shorter shrubbery-type plants. A few of the trees have what appear to be small, round, light-colored lights strung along their lengths.\n\nThe overall atmosphere is one of quiet and stillness, with only the soft glow of the lights breaking the silence. The background is solid black, which helps the white lights stand out even more against the dark greenery in the foreground.",
+      "duration_sec": 9.65,
+      "image_id": 13
+    },
+    {
+      "image": "20241203 063009_left_camera_V041_left_camera.jpg",
+      "caption": "The image depicts a serene forest of trees, with the sun casting dappled shadows on the ground. The trees are illuminated by two bright lights, which appear to be hanging from above. In the foreground, there is a large bush or shrub that has been covered in snow. \n\nThe sky is clear and blue, suggesting it was taken during the daytime. \n\nThere do not appear to be any animals or people in the image.",
+      "duration_sec": 6.98,
+      "image_id": 4
+    },
+    {
+      "image": "20241204 030009_bottom_camera_W084_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene featuring two large shipping containers, a small boat, and a dark forest in the background. The containers are positioned on either side of the boat, which is situated near the center of the image.\n\n**Key Features:**\n\n* Two large shipping containers\n\t+ Located on either side of the boat\n\t+ Appear to be made of metal or wood\n* A small boat\n\t+ Positioned near the center of the image\n\t+ Appears to have a flat bottom and straight sides\n* A dark forest in the background\n\t+ Comprises tall trees that are barely visible due to the darkness\n\n**Atmosphere:**\n\nThe overall atmosphere of the image is one of mystery and intrigue, with the dark forest looming in the background and the containers casting long shadows across the ground. The nighttime setting adds to the sense of unease and secrecy surrounding the scene.",
+      "duration_sec": 12.8,
+      "image_id": 77
+    },
+    {
+      "image": "20241204 130011_bottom_camera_W06F_bottom_camera.jpg",
+      "caption": "The image is too dark to make out any objects or features, but it appears to be a nighttime scene with stars visible in the sky. The overall atmosphere suggests a peaceful and serene environment, possibly in a natural setting like a forest or mountain range. However, due to the low lighting conditions, no specific details can be discerned within the image itself.",
+      "duration_sec": 6.06,
+      "image_id": 40
+    },
+    {
+      "image": "20241205 000012_bottom_camera_W097_bottom_camera.jpg",
+      "caption": "The image shows a landscape with trees, bushes, and other vegetation. The sky is not visible in the image.\n\nThere are no buildings or man-made structures visible in the image. There are no people or vehicles visible in the image.\n\nThe objects that can be seen include:\n\n* Trees\n* Bushes\n* Other vegetation",
+      "duration_sec": 5.89,
+      "image_id": 83
+    },
+    {
+      "image": "20241205 080043_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene of an empty, snow-covered tennis court surrounded by a fence and trees. The court is illuminated by a single light pole.\n\n*   A chain-link fence encloses the tennis court on three sides.\n    *   The fence is made up of vertical metal bars linked by horizontal metal wires.\n    *   The fence has a gate that is not visible in this image.\n    *   There are several trees behind the fence, some of which have bare branches and others with evergreen foliage.\n*   The tennis court is covered with snow, suggesting it may be winter or early spring when the photo was taken.\n\nThe overall atmosphere suggests a cold, wintry night with snow on the ground and no one around.",
+      "duration_sec": 10.58,
+      "image_id": 65
+    },
+    {
+      "image": "20241206 150008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image is a photograph of a landscape taken from atop a building, with the camera pointed towards the mountains. The photograph is captured using a fisheye lens. \n\nIn the foreground, there are some bushes that appear to be yellow or orange. There is also a fence in the foreground, and it appears to have two vertical posts and three horizontal rails. \n\nBehind the fence, there is dirt with sparse vegetation. Further back, there is more dense vegetation. In front of this denser vegetation, there is what looks like a road that goes from left to right across the image.\n\nIn the middle ground, there are several small bushes that appear to be green or brown. There also appears to be a structure in the middle ground. It has a light-colored roof and dark walls. \n\nThe background consists of mountains and a blue sky. The sun is shining brightly from the left side of the image.",
+      "duration_sec": 13.02,
+      "image_id": 55
+    },
+    {
+      "image": "20241207 070008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a serene nighttime scene of a city skyline, with a prominent hill or mountain in the foreground. The sky is dark and starry, while the city lights twinkle like diamonds scattered across the landscape.\n\nIn the foreground, the hill or mountain rises gently from left to right, its peak shrouded in darkness. A few buildings are visible on its slopes, their windows glowing softly in the night. The overall atmosphere is one of peacefulness and tranquility, with the city lights casting a warm glow over the scene.",
+      "duration_sec": 8.34,
+      "image_id": 52
+    },
+    {
+      "image": "20241208 214510_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy landscape with several trees, a power line, and a utility pole in the foreground. The background is a gray sky.\n\nIn the foreground, there are several trees with bare branches and a power line running from left to right. A utility pole stands on the right side of the image, with wires attached to it. The ground is covered with snow. In the background, the sky is gray.\n\nThe image shows a snowy landscape with several trees in the distance and a power line running from left to right. A utility pole stands on the right side of the image, with wires attached to it. The ground is covered with snow.",
+      "duration_sec": 9.68,
+      "image_id": 27
+    },
+    {
+      "image": "20241208 230019_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "I'm unable to provide information about the image, as it is not present. Would you like me to describe the scene using AI?",
+      "duration_sec": 3.19,
+      "image_id": 36
+    },
+    {
+      "image": "20241209 090008_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image presents a nighttime scene of an urban landscape, with the city skyline illuminated by streetlights and building lights. The sky is dark, punctuated by stars and planets, while the moon casts a silver glow on the water below.\n\n**Objects:**\n\n*   Buildings\n*   Streetlights\n*   Cars\n*   Trees\n\n**Features:**\n\n*   City skyline\n*   Water\n*   Sky with stars and planets",
+      "duration_sec": 7.16,
+      "image_id": 48
+    },
+    {
+      "image": "20241209 151509_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy scene with a log cabin, trees, and power lines running through it. The main subject of the image is a utility pole with wires and transformers on top of it.\n\n*   The image shows a utility pole with three transformers on top.\n    *   The pole is situated in front of a small log cabin.\n    *   There are several evergreen trees surrounding the pole and cabin, as well as some deciduous trees.\n    *   In the background, there is a snow-covered field.\n\nThe overall atmosphere of the image suggests a cold winter day in a rural setting.",
+      "duration_sec": 9.02,
+      "image_id": 29
+    },
+    {
+      "image": "20241209 220010_bottom_camera_W084_bottom_camera.jpg",
+      "caption": "The image depicts a serene winter landscape, with snow-covered mountains rising into the distance under a grey sky. In the foreground, a few buildings are scattered across the snowy terrain, including one that appears to be a house or barn. The overall atmosphere of the image is one of coldness and desolation.\n\nIn the background, the mountains stretch up towards the horizon, with patches of trees visible along their lower slopes. The sky above is grey and cloudy, suggesting an overcast day. The overall mood of the image is sombre and wintry, evoking a sense of isolation and remoteness.",
+      "duration_sec": 8.76,
+      "image_id": 82
+    },
+    {
+      "image": "20241210 110009_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene of a cityscape, with a dark sky and illuminated buildings. The main objects that can be seen are:\n\n*   Buildings: There are several tall buildings in the distance, some of which have lights on.\n*   Streetlights: Along the road, there are streetlights illuminating the area.\n*   Cars: In the foreground, there are cars driving along the road.\n\nThe image is a black-and-white photograph, suggesting it was taken at night.",
+      "duration_sec": 7.67,
+      "image_id": 56
+    },
+    {
+      "image": "20241210 234509_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image shows a snowy scene with a log cabin, a utility pole with wires, and trees. The ground is covered by snow, and there are footprints in the snow. \n\nThe image appears to be taken from a security camera, likely mounted on a utility pole or similar structure. There is a small outbuilding that could be either a shed or an outhouse.",
+      "duration_sec": 6.22,
+      "image_id": 39
+    },
+    {
+      "image": "20241213 084510_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy scene with several trees, power lines, and electrical boxes. The sky is dark, suggesting it may be nighttime or early morning.\n\nThe trees are covered in snow, indicating recent weather conditions have been cold and possibly snowy. There are no people or animals visible in the image.",
+      "duration_sec": 5.2,
+      "image_id": 33
+    },
+    {
+      "image": "20241213 200014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image is hazy and it's difficult to make out any specific objects or features. However, I can try to describe the scene in a few sentences:\n\nThe image depicts a desolate area with no visible people or structures. The ground is dry and sandy, with sparse vegetation scattered throughout. In the distance, there appears to be a low hill or ridge, although it's unclear due to the haze.\n\nThe sky above is bright white, suggesting either intense sunlight or possibly fog. There are no clouds, birds, vehicles, or any other objects visible in the image.",
+      "duration_sec": 8.78,
+      "image_id": 59
+    },
+    {
+      "image": "20241215 100014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a black-and-white security camera view of an outdoor area at night, with a fence and some bushes in the foreground. The background shows a city skyline with many lights on.\n\nHere is a detailed description of the visible objects and features in the image:\n\n*   A black-and-white security camera captures the scene.\n*   In the foreground, there are:\n    +   A short section of fencing\n    +   Some bushes or shrubs\n*   The background displays a city skyline with many lights on.\n*   The sky above is dark, suggesting it's nighttime.",
+      "duration_sec": 8.98,
+      "image_id": 62
+    },
+    {
+      "image": "20241215 150010_top_camera_W084_top_camera.jpg",
+      "caption": "The image depicts a snowy landscape with a few buildings, trees, and a road or path that winds through the scene. The sky is gray and overcast, suggesting an impending storm. In the foreground, several evergreen trees stand out against the snow-covered ground, while the trunks of deciduous trees rise in the background. A red barn and a small log cabin are visible, along with a few vehicles that have stopped on the road.\n\nThe overall atmosphere is one of cold wintryness, evoking a sense of foreboding weather.",
+      "duration_sec": 8.51,
+      "image_id": 78
+    },
+    {
+      "image": "20241215 200014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a scenic landscape with mountains and hills in the background, set against a clear blue sky. In the foreground, there is a metal fence on the right side of the image, accompanied by trees. The overall atmosphere suggests a daytime setting, likely during the summer months when the grass is green and lush.\n\nThere are no people or animals visible in the image. The focus appears to be on showcasing the natural scenery, rather than any human activity or presence.",
+      "duration_sec": 7.29,
+      "image_id": 51
+    },
+    {
+      "image": "20241217 083012_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image is a blurry, black-and-white photograph of a snowy landscape with a utility pole on the left side. The ground is covered in snow, and there are trees in the background.\n\nThere appears to be a small building or shed behind the trees, but it's too blurry to make out any details. \n\nOn the right side of the image, there is an electrical box attached to the utility pole. It has wires coming out of it that lead to the top-left corner of the image. The wires continue up and over a tree branch.\n\nIn the foreground on the left side, there appears to be some kind of marker or sign in front of the trees. However, due to the blurriness of the image, no writing can be made out. \n\nThe overall atmosphere suggests that this photograph was taken at night, possibly for surveillance purposes.",
+      "duration_sec": 12.18,
+      "image_id": 37
+    },
+    {
+      "image": "20241217 183011_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy landscape with a house, trees, and mountains in the background. The scene is serene and peaceful, with no people or animals present.\n\nThere are several objects visible in the image:\n\n* A house: This is a small, one-story building with a sloping roof.\n* Trees: These are evergreen trees with snow-covered branches.\n* Mountains: These are distant mountains that rise into the sky.\n\nThe features of the scene include:\n\n* Snow: The ground is covered in a thick layer of snow.\n* A house: This is a small, one-story building with a sloping roof.\n* Trees: These are evergreen trees with snow-covered branches.\n* Mountains: These are distant mountains that rise into the sky.",
+      "duration_sec": 10.84,
+      "image_id": 34
+    },
+    {
+      "image": "20241217 230022_bottom_camera_W097_bottom_camera.jpg",
+      "caption": "The image shows a dense forest canopy with many trees. The trees are lush and green, with some having red flowers or fruit. There is a large hill or mountain in the background.\n\nThe sky is bright white, suggesting it may be overcast or foggy. \n\nThere are no people or animals visible in the image.",
+      "duration_sec": 5.84,
+      "image_id": 87
+    },
+    {
+      "image": "20241219 134511_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy scene with several objects and features visible, including:\n\n* A utility pole with wires\n* A snow-covered streetlight or traffic light\n* A snowbank or berm\n* A tree branch covered in snow\n* A small pile of snow\n* The ground is completely covered in snow\n\nThe overall atmosphere suggests a cold winter night.",
+      "duration_sec": 6.07,
+      "image_id": 32
+    },
+    {
+      "image": "20241219 145518_left_camera_V041_left_camera.jpg",
+      "caption": "The image shows a black-and-white photograph of trees, likely taken at night or with a filter that reduces light pollution. The trees are coniferous and have feathery foliage. There is an object in the top left corner of the image that could be a streetlight or another source of illumination.\n\nThere are no other objects or people visible in the image.",
+      "duration_sec": 6.08,
+      "image_id": 10
+    },
+    {
+      "image": "20241220 050518_left_camera_V041_left_camera.jpg",
+      "caption": "The image appears to be a black-and-white photograph of a forest, with trees and foliage in the foreground and background. The photo is taken at night or in low-light conditions, as evidenced by the grainy texture and lack of detail in the leaves and branches.\n\nThere are several streaks of light on the left side of the image, which may be lens flares or reflections from a camera flash. In the center of the image, there appears to be a dark shape that could be an animal or a hole in the ground, but it is too indistinct to say for certain.\n\nThe overall atmosphere suggests a nighttime setting in a wooded area, possibly during the fall season given the colors of the foliage.",
+      "duration_sec": 10.33,
+      "image_id": 11
+    },
+    {
+      "image": "20241220 150014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a landscape with hills, trees, and bushes in the distance. The sky is hazy but appears to be blue. There are some indistinct structures on the right side of the image.\n\nIn the foreground, there is a chain-link fence made of metal mesh. On the left side of the image, closer to the camera, there is what appears to be a surveillance tower. The objects in this part of the image are difficult to discern because they are obscured by trees and bushes, but one object appears to be a rectangular structure with a flat roof.\n\nThe ground itself is brown dirt or clay that has been flattened by human activity. There do not appear to be any people, animals, or water in the image.",
+      "duration_sec": 10.97,
+      "image_id": 54
+    },
+    {
+      "image": "20241221 210014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image shows a mountainous landscape with a clear blue sky. In the foreground, there is a metal fence and what appears to be a chain-link fence. There are also some bushes and trees in front of the fence. The background has mountains and more trees.",
+      "duration_sec": 4.97,
+      "image_id": 57
+    },
+    {
+      "image": "20241222 080009_left_camera_V041_left_camera.jpg",
+      "caption": "I can't provide a response to your question, as I'm not able to see the image you've provided. However, I can offer some general information about the topic.\n\nThe image appears to be a grayscale photograph of an industrial site, possibly a staircase or walkway, with metal railings and safety features such as non-slip surfaces, guardrails, and stairs. The staircase is likely made of concrete or steel, and it may lead to different levels within a building. \n\nThere are several objects in the image, including pipes and what seems to be scaffolding. However, I cannot provide any further details without more information.",
+      "duration_sec": 9.44,
+      "image_id": 2
+    },
+    {
+      "image": "20241222 170016_top_camera_W083_top_camera.jpg",
+      "caption": "The image depicts a gray sky with clouds, suggesting a rainy day. The scene is set against the backdrop of dark green trees and bushes, which are partially obscured by the overcast conditions. In the foreground, a building with a sloping roof is visible, accompanied by a few evergreen trees on its left side. On the right edge of the frame, a utility pole stands out, topped with a street light. The overall atmosphere of the image exudes gloominess and dampness, implying an overcast day.",
+      "duration_sec": 8.19,
+      "image_id": 68
+    },
+    {
+      "image": "20241223 000012_mobotix_W020_sample.jpg",
+      "caption": "The image depicts a scene of a space shuttle landing on a runway, with a large crowd of people watching from the side. The shuttle is white with a blue stripe running along its length, and it has a row of lights along the centerline that are also blue. \n\nThere are several other objects and features in the scene as well, including what appear to be buildings in the background, vehicles on the ground, and people standing around watching the event.",
+      "duration_sec": 7.47,
+      "image_id": 17
+    },
+    {
+      "image": "20241223 084521_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image shows snow falling on power lines, with one line sagging due to the weight of the snow. The snow is also covering the ground and surrounding trees and bushes.\n\n**Key Features:**\n\n* Snowfall\n* Power lines\n* Trees and bushes covered in snow\n* Sagging power line",
+      "duration_sec": 5.33,
+      "image_id": 31
+    },
+    {
+      "image": "20241223 210009_bottom_camera_W0C3_bottom_camera.jpg",
+      "caption": "The image is not intended to be used for personal identification. The objects and features within the image are not meant to represent any specific person, place, or thing. \n\nThe image is provided to assist in training machine learning models, but it does not include personally identifiable information.",
+      "duration_sec": 5.08,
+      "image_id": 88
+    },
+    {
+      "image": "20241223 211512_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snow-covered landscape with a wooden building on the left side, featuring a small cabin-like structure with a sloping roof. The scene is set against a backdrop of trees and bushes, suggesting a rural or woodland setting.\n\nIn the foreground, several objects are visible, including what appears to be an electrical box or control panel attached to a pole, as well as some wires running along the ground. A few objects, possibly tools or equipment, are scattered about the area.\n\nThe overall atmosphere of the image is one of serenity and tranquility, evoking a sense of peacefulness and stillness. The presence of snow adds to the wintry feel of the scene, while the wooden structure suggests a rustic or natural setting.",
+      "duration_sec": 10.7,
+      "image_id": 35
+    },
+    {
+      "image": "20241224 053032_bottom_camera_W06C_bottom_camera.jpg",
+      "caption": "The image depicts a snowy scene with a utility pole and wires, featuring a metal box or meter on top. The meter has a dark face and is surrounded by snow-covered ground.\n\n* A utility pole:\n\t+ Located in the center of the image\n\t+ Has wires attached to it\n\t+ Snow-covered at the bottom\n* Wires:\n\t+ Two sets of wires are visible, one set higher than the other\n\t+ Each set has three wires\n\t+ Insulators on the wires are also visible\n* Meter:\n\t+ Located at the top of the utility pole\n\t+ Has a dark face\n\t+ Surrounded by snow-covered ground",
+      "duration_sec": 9.95,
+      "image_id": 38
+    },
+    {
+      "image": "20241225 110049_top_camera_W084_top_camera.jpg",
+      "caption": "The image appears to be a black-and-white photograph of a forest at night, with streaks of light across it. The streaks are likely caused by snow falling from above or car headlights shining through the trees.\n\n**Key Features:**\n\n*   A dark and moody atmosphere\n*   Streaks of light, possibly from snowfall or vehicle headlights\n*   A sense of depth and texture created by the contrast between light and shadow",
+      "duration_sec": 7.23,
+      "image_id": 76
+    },
+    {
+      "image": "20241229 210015_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image depicts a frozen pond or lake, characterized by its smooth and flat surface. The surrounding environment is serene, with trees lining the water's edge and a grassy area in the background. A bridge spans the pond, connecting the two landmasses on either side of the water.\n\nIn the foreground, there are no objects or features that would draw attention away from the pond. The overall atmosphere of the image is one of tranquility, evoking a sense of stillness and peacefulness.",
+      "duration_sec": 8.03,
+      "image_id": 70
+    },
+    {
+      "image": "20241229 220014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a serene landscape with a mountain range in the background, featuring a dirt road that winds through a sparse forest of coniferous trees. In the foreground, a metal gate or fence is visible behind a grassy area dotted with shrubs and small bushes. The sun shines brightly from above, casting dappled shadows on the ground below.\n\nThe scene appears to be a daytime setting, likely during late summer or early fall, as evidenced by the lack of foliage on the deciduous trees and the presence of some greenery. The overall atmosphere exudes tranquility and peacefulness, inviting the viewer to step into the idyllic landscape and immerse themselves in its natural beauty.",
+      "duration_sec": 10.06,
+      "image_id": 45
+    },
+    {
+      "image": "20241230 100014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image is a black-and-white photograph of a landscape at night, with the lights from buildings and cars illuminating the scene.\n\n*   The sky above is dark.\n*   There are no clouds or stars visible in the sky.\n*   A long stretch of road runs horizontally across the center of the photo.\n*   On either side of the road, there are streetlights that appear as small white dots.\n*   In the distance on both sides of the road, buildings can be seen with lights on inside them.\n*   The overall atmosphere suggests a quiet, peaceful night scene.",
+      "duration_sec": 8.96,
+      "image_id": 47
+    },
+    {
+      "image": "20241231 020021_mobotix_W020_sample.jpg",
+      "caption": "The image is a thermal infrared scan of a building, with a bright red-orange-yellow glow emanating from the center of the structure. The scan shows a series of rectangular panels or windows along the front of the building, with a large arched entryway in the center. There are several rows of these panels, each containing three vertical rectangles and topped by an arch. \n\nThe background is dark blue, suggesting that the image was taken at night or in a dimly lit room. The overall effect is one of intense heat emanating from the structure.\n\nThe scan appears to be focused on the front of the building, with some glow extending beyond the edges of the panels and into the surrounding environment. \n\nIn summary, the image shows a large building with many rectangular windows or panels along its front, particularly around an arched entryway in the center. The background is dark blue, indicating that the image was taken at night or in a dimly lit room.",
+      "duration_sec": 13.88,
+      "image_id": 15
+    },
+    {
+      "image": "20250105 120014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a black-and-white photograph of a cityscape at night, with numerous lights illuminating the buildings and streets. The sky is dark, punctuated by stars.\n\nThere are no visible objects or features in this image beyond the urban landscape itself.",
+      "duration_sec": 4.89,
+      "image_id": 49
+    },
+    {
+      "image": "20250107 050014_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image shows a dark, grainy landscape with some indistinct objects. The sky is black, and there are no clouds or stars visible. In the foreground, there appears to be a road or path that curves from left to right across the frame. On either side of the path, there are trees and bushes that are difficult to make out due to the darkness of the image.\n\nThere do not appear to be any people or animals in the scene. The overall atmosphere suggests a nighttime setting, possibly in a wooded area with minimal lighting.",
+      "duration_sec": 8.47,
+      "image_id": 71
+    },
+    {
+      "image": "20250107 213019_bottom_camera_W0C3_bottom_camera.jpg",
+      "caption": "The image is not intended to be used for personal identification or attachment to any particular individual, but rather for scientific analysis and discussion purposes.\n\nThe image depicts an outdoor setting with some grassy terrain, possibly after snowfall. The sun may be low on the horizon, casting long shadows across the ground. In the foreground, there are several large, curved white pipes that could represent a water system or a network of such systems. The pipes appear to encircle a region that might contain additional components, possibly including pumps and other machinery.\n\nIn the background, there is an indistinct structure with what seems to be a dark roof and a light-colored wall. To the right of this structure, there appears to be some sort of tower or antenna, although it could also represent a flagpole or similar object. \n\nThe setting seems to be open and relatively flat, suggesting that the pipes might serve an agricultural function, possibly related to irrigation systems. The presence of what looks like a small shed or shack suggests that this area may be used for equipment storage.\n\nOverall, the image conveys a sense of utility and infrastructure, with the pipes potentially supporting activities such as water management and treatment.",
+      "duration_sec": 15.86,
+      "image_id": 91
+    },
+    {
+      "image": "20250108 120014_bottom_camera_W070_bottom_camera.jpg",
+      "caption": "The image depicts a nighttime scene of a cityscape, with several buildings and structures illuminated by lights. The sky is dark, punctuated by stars.\n\nIn the foreground, there are trees and bushes that are also illuminated by the light from the buildings. \n\nThe overall atmosphere suggests a serene and peaceful setting, possibly during a holiday season given the presence of lights.",
+      "duration_sec": 6.04,
+      "image_id": 50
+    },
+    {
+      "image": "20250108 173010_bottom_camera_W0C3_bottom_camera.jpg",
+      "caption": "The image is a photograph of an empty field with white pipes running along it, taken from a low angle. There are several yellow extension cords on the left side of the photo, which appear to be coiled up. The sky above the field is blue and there are a few clouds in it. \n\nThere is a small pole at the far end of the field that has an antenna mounted on top of it. The background behind this pole includes trees and what appears to be the roof of a building.\n\nThe purpose of the image is unclear, but it may have been taken for use in surveying or construction work.",
+      "duration_sec": 9.13,
+      "image_id": 90
+    },
+    {
+      "image": "20250110 230019_bottom_camera_W097_bottom_camera.jpg",
+      "caption": "The image depicts a dense forest with trees, bushes, and mountains in the background. The sky is overcast and cloudy.\n\nThe color palette of the image is dominated by various shades of green, ranging from light mint to dark forest green. There are also hints of brown and tan in the tree trunks and earth tones in the underbrush. The overall atmosphere of the image is one of lush vegetation and natural beauty.\n\nIn terms of objects, there are numerous trees and bushes throughout the image. Some of these objects are partially obscured by other foliage or terrain features. The leaves on the trees and bushes are a vibrant green color that adds to the natural feel of the scene.\n\nThe background of the image is dominated by mountains and hills that rise up from behind the tree line. These features are shrouded in mist, adding to the mysterious feel of the image.",
+      "duration_sec": 12.16,
+      "image_id": 85
+    },
+    {
+      "image": "20250111 110011_bottom_camera_W083_bottom_camera.jpg",
+      "caption": "The image is a black-and-white photograph of an empty field with several objects scattered throughout. \n\nThere are three large rectangular concrete blocks arranged in a row, with one block at each end slightly taller than the others. The blocks appear to be about 3-4 feet tall and 6-8 feet wide. There are two small rectangular metal boxes on top of the middle block, positioned horizontally across its width. \n\nIn front of the blocks, there is what appears to be a large piece of playground equipment. It has a ladder leading up to a platform with guardrails on either side. The platform is about 6 feet off the ground and 8-10 feet wide.\n\nOn the right side of the image, there are two sets of stairs, each consisting of three steps that lead down from a rectangular landing. Each step is approximately 3 feet tall and 1 foot wide. \n\nThere is a small building in the background on the left side of the image, with what looks like a door or gate visible. The sky above the field is dark and cloudy.\n\nThe overall atmosphere suggests it may be nighttime, as there are no people or vehicles present.",
+      "duration_sec": 16.36,
+      "image_id": 66
+    },
+    {
+      "image": "20250111 160014_bottom_camera_W0C3_bottom_camera.jpg",
+      "caption": "The image depicts a field of grass with no visible objects or features, captured within a short time frame. The scene is overcast, with grey clouds covering most of the sky. In the foreground, there are three white pipes arranged horizontally, each approximately 3 to 4 inches in diameter and 1 foot in length. The pipes rest on the ground, which appears brown from the dead grass. A yellow hose is coiled around a silver pole positioned vertically behind the leftmost pipe. The hose is secured by tape wrapped around its top section.\n\nThe background of the image shows an area of dry grass, extending into the distance. Scattered throughout are small patches of green grass and shrubs. On the horizon, there are dark shapes that could be trees or bushes. The overall atmosphere of the image suggests a gloomy day with overcast conditions.",
+      "duration_sec": 12.33,
+      "image_id": 89
+    }
+  ]
+}
