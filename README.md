@@ -50,6 +50,12 @@ All files are in COCO-style JSON format, with fields including:
 
 ---
 
+## captionCorrection
+
+The `captionCorrection/` directory contains caption pairs consisting of a model's output caption and a human evaluated/corrected version of the model's output. In addition, there are metric evaluations of the improvements.
+
+--
+
 ## 🧪 Status
 
 Both tools are functional and were used in real evaluation pipelines.  
