@@ -1,6 +1,6 @@
 # 📝 Ground Truth Captions for Image Captioning Evaluation
 
-This folder contains manually written **reference captions** used for evaluating the performance of vision-language models on rural and urban datasets. Each JSON file adheres to a COCO-style format with detailed metadata, image descriptors, and corresponding captions.
+This folder contains manually written **reference captions** used for evaluating the performance of vision-language models on rural and urban datasets. Each JSON file adheres to a COCO-style format with detailed metadata, image descriptors, and corresponding captions. In the directory `modelCaptions/` you can find the caption outputs from models corresponding to these human captions.
 
 ---
 
@@ -18,6 +18,8 @@ Each JSON file corresponds to a specific **image batch** and a unique **set of h
 | `groundTruth_urbanBatch1_referencecaption2.json` | Second reference caption set for Urban Batch 1 |
 | `groundTruth_urbanBatch2_referencecaption1.json` | First reference caption set for Urban Batch 2 |
 | `groundTruth_urbanBatch2_referencecaption2.json` | Second reference caption set for Urban Batch 2 |
+| `modelCaptions/` | Model caption outputs used in study |
+
 
 Each file provides an independent reference that helps reduce evaluation bias in metrics like BLEU, METEOR, ROUGE, BERTScore, and CLIPScore.
 
